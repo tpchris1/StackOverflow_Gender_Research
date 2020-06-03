@@ -1,0 +1,427 @@
+{
+    "22656": [
+        {
+            "question_id": 43846079,
+            "user_id": 22656,
+            "response_with_scores": [
+                {
+                    "answer_id": "43846144",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "49013523",
+                    "sentiment_score": "0.71"
+                },
+                {
+                    "answer_id": "50991201",
+                    "sentiment_score": "0.29"
+                },
+                {
+                    "answer_id": "56005632",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "61796616",
+                    "sentiment_score": "0.50"
+                }
+            ]
+        },
+        {
+            "question_id": 247621,
+            "user_id": 22656,
+            "response_with_scores": [
+                {
+                    "answer_id": "247623",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "317885",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "2788024",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "4570323",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "16661422",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "26370600",
+                    "sentiment_score": "0.16"
+                },
+                {
+                    "answer_id": "35013973",
+                    "sentiment_score": "0.86"
+                },
+                {
+                    "answer_id": "38506668",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "41456898",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "60488236",
+                    "sentiment_score": "0.78"
+                }
+            ]
+        },
+        {
+            "question_id": 3657778,
+            "user_id": 22656,
+            "response_with_scores": [
+                {
+                    "answer_id": "3657844",
+                    "sentiment_score": "0.72"
+                },
+                {
+                    "answer_id": "3657848",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "3657932",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "3657981",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "3658191",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "3658339",
+                    "sentiment_score": "0.76"
+                },
+                {
+                    "answer_id": "3658387",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "4047440",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "7383986",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "58325376",
+                    "sentiment_score": "0.50"
+                }
+            ]
+        }
+    ],
+    "1144035": [],
+    "23354": [
+        {
+            "question_id": 830124,
+            "user_id": 23354,
+            "response_with_scores": [
+                {
+                    "answer_id": "830233",
+                    "sentiment_score": "0.88"
+                },
+                {
+                    "answer_id": "830286",
+                    "sentiment_score": "0.98"
+                },
+                {
+                    "answer_id": "887088",
+                    "sentiment_score": "0.85"
+                },
+                {
+                    "answer_id": "7699889",
+                    "sentiment_score": "0.19"
+                }
+            ]
+        },
+        {
+            "question_id": 157603,
+            "user_id": 23354,
+            "response_with_scores": [
+                {
+                    "answer_id": "157726",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "574771",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "574836",
+                    "sentiment_score": "0.90"
+                },
+                {
+                    "answer_id": "3084830",
+                    "sentiment_score": "0.19"
+                },
+                {
+                    "answer_id": "54826550",
+                    "sentiment_score": "0.50"
+                }
+            ]
+        },
+        {
+            "question_id": 2152978,
+            "user_id": 23354,
+            "response_with_scores": [
+                {
+                    "answer_id": "2152980",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "12403068",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "17128163",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "24242160",
+                    "sentiment_score": "0.76"
+                },
+                {
+                    "answer_id": "29688591",
+                    "sentiment_score": "0.84"
+                },
+                {
+                    "answer_id": "39259249",
+                    "sentiment_score": "0.23"
+                },
+                {
+                    "answer_id": "46487149",
+                    "sentiment_score": "0.83"
+                },
+                {
+                    "answer_id": "51702325",
+                    "sentiment_score": "0.50"
+                }
+            ]
+        }
+    ],
+    "893": [
+        {
+            "question_id": 306313,
+            "user_id": 893,
+            "response_with_scores": [
+                {
+                    "answer_id": "306347",
+                    "sentiment_score": "0.81"
+                },
+                {
+                    "answer_id": "306353",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "306377",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "306603",
+                    "sentiment_score": "0.81"
+                },
+                {
+                    "answer_id": "307594",
+                    "sentiment_score": "0.13"
+                },
+                {
+                    "answer_id": "15522094",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "28864111",
+                    "sentiment_score": "0.86"
+                },
+                {
+                    "answer_id": "33130014",
+                    "sentiment_score": "0.91"
+                },
+                {
+                    "answer_id": "34964030",
+                    "sentiment_score": "0.86"
+                },
+                {
+                    "answer_id": "49472348",
+                    "sentiment_score": "0.75"
+                },
+                {
+                    "answer_id": "57641343",
+                    "sentiment_score": "0.08"
+                }
+            ]
+        },
+        {
+            "question_id": 7665,
+            "user_id": 893,
+            "response_with_scores": [
+                {
+                    "answer_id": "7666",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "7673",
+                    "sentiment_score": "0.89"
+                },
+                {
+                    "answer_id": "42918",
+                    "sentiment_score": "0.85"
+                },
+                {
+                    "answer_id": "342461",
+                    "sentiment_score": "0.75"
+                },
+                {
+                    "answer_id": "697552",
+                    "sentiment_score": "0.79"
+                },
+                {
+                    "answer_id": "7400673",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "22991587",
+                    "sentiment_score": "0.81"
+                },
+                {
+                    "answer_id": "25199441",
+                    "sentiment_score": "0.06"
+                },
+                {
+                    "answer_id": "25560920",
+                    "sentiment_score": "0.85"
+                },
+                {
+                    "answer_id": "27642175",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "31320634",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "40584017",
+                    "sentiment_score": "0.77"
+                },
+                {
+                    "answer_id": "45828988",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "48513659",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "51089005",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "54179738",
+                    "sentiment_score": "0.87"
+                },
+                {
+                    "answer_id": "57773331",
+                    "sentiment_score": "0.77"
+                },
+                {
+                    "answer_id": "60309169",
+                    "sentiment_score": "0.69"
+                }
+            ]
+        },
+        {
+            "question_id": 39327028,
+            "user_id": 893,
+            "response_with_scores": [
+                {
+                    "answer_id": "39331633",
+                    "sentiment_score": "0.06"
+                },
+                {
+                    "answer_id": "39335947",
+                    "sentiment_score": "0.20"
+                },
+                {
+                    "answer_id": "39341050",
+                    "sentiment_score": "0.12"
+                },
+                {
+                    "answer_id": "60038935",
+                    "sentiment_score": "0.50"
+                }
+            ]
+        }
+    ],
+    "19068": [
+        {
+            "question_id": 22834781,
+            "user_id": 19068,
+            "response_with_scores": [
+                {
+                    "answer_id": "22835301",
+                    "sentiment_score": "0.78"
+                },
+                {
+                    "answer_id": "24939106",
+                    "sentiment_score": "0.74"
+                },
+                {
+                    "answer_id": "53712036",
+                    "sentiment_score": "0.85"
+                }
+            ]
+        },
+        {
+            "question_id": 49689969,
+            "user_id": 19068,
+            "response_with_scores": [
+                {
+                    "answer_id": "49698594",
+                    "sentiment_score": "0.74"
+                }
+            ]
+        },
+        {
+            "question_id": 14609131,
+            "user_id": 19068,
+            "response_with_scores": [
+                {
+                    "answer_id": "14610562",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "14613477",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "15085136",
+                    "sentiment_score": "0.28"
+                },
+                {
+                    "answer_id": "18722158",
+                    "sentiment_score": "0.50"
+                },
+                {
+                    "answer_id": "22184454",
+                    "sentiment_score": "0.77"
+                },
+                {
+                    "answer_id": "22843433",
+                    "sentiment_score": "0.81"
+                },
+                {
+                    "answer_id": "24684209",
+                    "sentiment_score": "0.76"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1451 @@
+user_id,display_name,gender,location,badge_counts,reputation,accept_rate,question_count,answer_count,up_vote_count,down_vote_count,account_id,user_type
+643383,Caleb,male,United States,"{'bronze': 252, 'silver': 164, 'gold': 18}",116458,79.0,16,3229,5748,2301,323395,registered
+2149852,Jason Byrne,male,"Longwood, FL","{'bronze': 16, 'silver': 6, 'gold': 0}",1161,,3,80,15,3,2466995,registered
+1028762,Erik van Zijst,male,San Francisco Bay Area,"{'bronze': 14, 'silver': 14, 'gold': 0}",1898,,0,23,13,3,1017536,registered
+3208492,Marcus Rossel,male,Germany,"{'bronze': 36, 'silver': 20, 'gold': 1}",2984,92.0,41,42,593,31,3873890,registered
+975132,Caleb Gray,male,"Washington, United States","{'bronze': 30, 'silver': 18, 'gold': 2}",2860,93.0,16,31,49,2,946872,registered
+2898065,Fred the Magic Wonder Dog,male,In front of a computer screen,"{'bronze': 30, 'silver': 21, 'gold': 1}",7608,,0,161,599,2,3460938,registered
+5718237,James McCormac,male,"Warwick, United Kingdom","{'bronze': 18, 'silver': 7, 'gold': 0}",1256,67.0,9,23,123,6,2641331,registered
+4147362,Patrick RoDee,male,"San Diego, CA","{'bronze': 9, 'silver': 6, 'gold': 0}",1086,,0,16,167,1,5181882,registered
+4624291,Oscar Courchaine,male,"Seattle, WA, USA","{'bronze': 13, 'silver': 3, 'gold': 0}",326,71.0,27,12,23,0,5872329,registered
+234122,Ben Cochran,male,"San Francisco, CA","{'bronze': 13, 'silver': 11, 'gold': 0}",1260,,0,14,100,5,83528,registered
+1653919,Ashish Mehta,male,"Ahmedabad, India","{'bronze': 48, 'silver': 21, 'gold': 4}",5830,57.0,37,68,60,2,1819581,registered
+2876861,Michael Simbirsky,male,"Santa Clara, CA","{'bronze': 21, 'silver': 8, 'gold': 1}",2790,,1,118,148,15,3433016,registered
+225074,Thomas Matthews,male,California,"{'bronze': 135, 'silver': 82, 'gold': 11}",49762,91.0,139,2992,16211,146,79346,registered
+337055,Philip,male,Ireland,"{'bronze': 28, 'silver': 16, 'gold': 2}",4586,75.0,29,294,117,19,134718,registered
+924077,Bogdan Sahlean,male,"Bucharest, Romania","{'bronze': 52, 'silver': 30, 'gold': 3}",19000,,0,759,2059,437,873828,registered
+351688,Guus,male,Netherlands,"{'bronze': 78, 'silver': 43, 'gold': 8}",2221,91.0,60,35,7751,98,143382,registered
+31891,Ken Mayer,male,"San Francisco, CA, United States","{'bronze': 15, 'silver': 12, 'gold': 1}",1712,23.0,16,9,9,7,15203,registered
+6860421,Roman Alekseiev,male,"Kyiv, Ukraine","{'bronze': 18, 'silver': 8, 'gold': 0}",1337,,12,72,44,14,9235701,registered
+267263,Bill Agee,male,"Bay Area, CA, United States","{'bronze': 16, 'silver': 17, 'gold': 0}",3308,,0,93,586,3,98818,registered
+1577959,Ben,male,"Rochester, United Kingdom","{'bronze': 44, 'silver': 25, 'gold': 8}",3867,55.0,114,21,101,4,1722520,registered
+8345637,Jonathan,male,"San Antonio, TX, United States","{'bronze': 6, 'silver': 1, 'gold': 0}",366,,0,8,67,1,11383306,registered
+580530,Jeff Erickson,male,"New York, NY","{'bronze': 41, 'silver': 31, 'gold': 7}",3305,96.0,51,5,175,7,283170,registered
+2124732,Christopher Dumas,male,"Morgan Hill, CA, United States","{'bronze': 25, 'silver': 10, 'gold': 0}",1170,86.0,40,22,57,10,2434493,registered
+5487,Troy DeMonbreun,male,"Nashville, Tennessee, United States","{'bronze': 34, 'silver': 22, 'gold': 3}",3794,17.0,8,7,786,3,3775,registered
+2249778,Daniel,male,Romania,"{'bronze': 16, 'silver': 7, 'gold': 0}",396,100.0,8,3,782,2,2596123,registered
+361494,Joe Chrysler,male,Michigan,"{'bronze': 9, 'silver': 11, 'gold': 1}",2534,,0,4,72,3,149194,registered
+4197505,Thomas G,male,"Namur, Belgium","{'bronze': 34, 'silver': 21, 'gold': 7}",8151,,2,454,734,453,5251838,registered
+1215872,Gordon Williams,male,"Oxford, United Kingdom","{'bronze': 25, 'silver': 13, 'gold': 0}",1573,86.0,28,21,131,2,518142,registered
+188756,Marcus,male,Sweden,"{'bronze': 14, 'silver': 7, 'gold': 1}",1079,82.0,17,1,46,1,63837,registered
+1169194,Bartosz Rychlicki,male,"Gdańsk, Poland","{'bronze': 40, 'silver': 18, 'gold': 3}",1788,56.0,45,13,74,0,1197841,registered
+1086232,Zach,male,"Las Vegas, NV, United States","{'bronze': 16, 'silver': 11, 'gold': 2}",1212,,3,5,26,0,1087088,registered
+1550612,Jack,male,Oklahoma,"{'bronze': 14, 'silver': 1, 'gold': 0}",387,67.0,6,4,181,0,543225,registered
+129372,Antony Koch,male,"Brighton, United Kingdom","{'bronze': 21, 'silver': 15, 'gold': 1}",1973,67.0,9,71,42,3,44139,registered
+992306,Marcus Philip,male,Sverige,"{'bronze': 5, 'silver': 3, 'gold': 0}",381,,1,3,20,0,969503,registered
+995258,Stephan,male,"Mainz, Germany","{'bronze': 16, 'silver': 8, 'gold': 0}",1236,,3,15,79,3,973177,registered
+61311,Peter Morris,male,"Tamworth, United Kingdom","{'bronze': 99, 'silver': 55, 'gold': 5}",9119,71.0,135,186,1060,55,24170,registered
+2050505,Olexander Ivanitskyi,male,"Kyiv, Ukraine","{'bronze': 30, 'silver': 13, 'gold': 0}",1972,,3,39,964,2,215357,registered
+187350,Paul,male,"Coto de Caza, CA, USA","{'bronze': 55, 'silver': 44, 'gold': 4}",12018,84.0,33,179,263,11,63253,registered
+67605,Travis,male,"Harrisburg, NC","{'bronze': 21, 'silver': 19, 'gold': 1}",2070,100.0,4,21,130,1,26090,registered
+444255,Frank Nocke,male,"Hamburg, Germany • Bern, Switzerland","{'bronze': 79, 'silver': 53, 'gold': 2}",6737,67.0,61,166,600,31,199154,registered
+7885229,Matthew Barlowe,male,"New York, NY, USA","{'bronze': 15, 'silver': 5, 'gold': 0}",1061,,2,57,94,27,10713789,registered
+396749,Andreas,male,"Stockholm, Sweden","{'bronze': 27, 'silver': 18, 'gold': 4}",2484,89.0,30,8,46,2,170201,registered
+2707575,Tim Wi&#223;mann,male,"Wiesbaden, Germany","{'bronze': 12, 'silver': 3, 'gold': 0}",417,,4,14,21,8,3206614,registered
+237115,Daniel Benedykt,male,Uruguay,"{'bronze': 67, 'silver': 44, 'gold': 12}",6138,75.0,80,27,457,29,84918,registered
+90657,Khaled Musaied,male,"Riyadh, Saudi Arabia","{'bronze': 36, 'silver': 23, 'gold': 3}",2313,95.0,20,29,299,10,32625,registered
+3909,Aaron Wagner,male,"Cincinnati, Ohio, United States","{'bronze': 38, 'silver': 25, 'gold': 1}",5599,,4,28,381,1,2779,registered
+967094,Marius Ion,male,"Bucharest, Romania","{'bronze': 9, 'silver': 3, 'gold': 0}",369,,1,6,101,0,938607,registered
+997040,Chaz,male,"Atlanta, GA","{'bronze': 11, 'silver': 15, 'gold': 3}",2382,,6,2,13,0,975757,registered
+1817615,Sujit Rai,male,Mumbai,"{'bronze': 8, 'silver': 3, 'gold': 0}",335,0.0,10,12,5,0,2035094,registered
+104976,Florian Fankhauser,male,Austria,"{'bronze': 28, 'silver': 21, 'gold': 2}",3393,75.0,5,27,123,5,36770,registered
+3080924,Josef Raška,male,Czech Republic,"{'bronze': 7, 'silver': 8, 'gold': 0}",1193,,0,39,86,2,3701259,registered
+616460,Jason C,male,"New York, United States","{'bronze': 134, 'silver': 90, 'gold': 11}",32228,93.0,79,874,2604,2154,305991,registered
+1070711,Moin Ahmed,male,"Melbourne, Australia","{'bronze': 32, 'silver': 18, 'gold': 0}",2808,83.0,8,52,208,2,1071601,registered
+3380974,Gonzalo Faus,male,"Alicante, Spain","{'bronze': 11, 'silver': 3, 'gold': 0}",335,,1,4,26,0,4120455,registered
+1686198,David Hermanns,male,"W&#252;rselen, Germany","{'bronze': 12, 'silver': 3, 'gold': 0}",383,,2,9,124,4,1861707,registered
+560811,Christopher Maujean,male,"Oakland, CA, United States","{'bronze': 10, 'silver': 10, 'gold': 0}",1255,,0,13,89,2,270706,registered
+1790,Jason Bunting,male,United States,"{'bronze': 93, 'silver': 93, 'gold': 13}",52870,79.0,14,167,772,224,1340,registered
+389976,Erik,male,United States,"{'bronze': 44, 'silver': 20, 'gold': 1}",1646,93.0,79,42,796,31,166080,registered
+843131,Mark Notton,male,"Exeter, United Kingdom","{'bronze': 22, 'silver': 15, 'gold': 3}",4142,73.0,14,7,74,1,784623,registered
+3700738,Ismael Padilla,male,Uruguay,"{'bronze': 25, 'silver': 12, 'gold': 2}",3247,,0,137,1021,87,4557393,registered
+459615,Kurt Stutsman,male,Greater Chicagoland,"{'bronze': 22, 'silver': 14, 'gold': 0}",3667,,2,118,389,45,208863,registered
+1847899,Alexander Sidikov Pfeif,male,"Berlin, Deutschland","{'bronze': 31, 'silver': 15, 'gold': 1}",1842,,2,46,1041,6,2074030,registered
+264881,Josiah,male,"Colorado Springs, CO, United States","{'bronze': 29, 'silver': 17, 'gold': 3}",1452,62.0,32,34,439,5,97702,registered
+2500726,Geoff Wells,male,Oxfordshire UK,"{'bronze': 9, 'silver': 3, 'gold': 0}",357,,3,8,12,0,2917884,registered
+5836151,Dean Marcussen,male,"Newquay, United Kingdom","{'bronze': 12, 'silver': 3, 'gold': 0}",397,75.0,6,12,44,0,7704916,registered
+4014553,Vladislav Bozhko,male,Ukraine,"{'bronze': 5, 'silver': 4, 'gold': 0}",339,25.0,4,9,21,1,4992962,registered
+5350621,David,male,"Potsdam, Germany","{'bronze': 24, 'silver': 12, 'gold': 1}",1352,,0,29,62,3,6964155,registered
+375209,Sebastian Roth,male,"Taipei, Taiwan","{'bronze': 102, 'silver': 53, 'gold': 13}",9829,84.0,63,170,1364,19,157335,registered
+1807763,Travis,male,"Austin, TX","{'bronze': 7, 'silver': 1, 'gold': 0}",370,75.0,4,16,18,0,2021762,registered
+4546885,Sebastian Hoffmann,male,Germany,"{'bronze': 16, 'silver': 7, 'gold': 0}",1886,,6,49,113,29,4698046,registered
+4523968,Mattia M.,male,"Milano, MI, Italia","{'bronze': 14, 'silver': 3, 'gold': 0}",337,50.0,9,6,11,0,2810414,registered
+2716251,Raz Omessi,male,Israel,"{'bronze': 8, 'silver': 10, 'gold': 1}",1432,0.0,6,5,5,0,3218169,registered
+49972,Tobias Furuholm,male,Sweden,"{'bronze': 39, 'silver': 26, 'gold': 2}",4237,75.0,22,20,90,4,20785,registered
+89804,Ricardo,male,"Madrid, Spain","{'bronze': 28, 'silver': 15, 'gold': 0}",1688,90.0,20,10,29,8,32379,registered
+4798,Rob Rolnick,male,"Seattle, WA","{'bronze': 17, 'silver': 24, 'gold': 2}",7293,,1,41,60,5,3329,registered
+451710,Eyal Levin,male,"Haifa, Israel","{'bronze': 42, 'silver': 46, 'gold': 4}",7978,86.0,16,65,2723,0,203831,registered
+575979,Dmitriy,male,"Odessa, Ukraine","{'bronze': 30, 'silver': 13, 'gold': 2}",1549,92.0,16,57,175,36,280338,registered
+4864284,Matthew Lozoya,male,"Dallas, TX","{'bronze': 17, 'silver': 3, 'gold': 0}",434,100.0,22,12,94,2,6255596,registered
+611706,Matt Miller,male,United States,"{'bronze': 10, 'silver': 4, 'gold': 0}",423,,1,8,202,0,303013,registered
+8655952,Steffen G&#246;rg,male,"Cologne, Germany","{'bronze': 5, 'silver': 1, 'gold': 0}",322,,0,25,1,1,2055069,registered
+11471113,Rohan Bari,male,"Kolkata, India","{'bronze': 17, 'silver': 3, 'gold': 2}",1275,,2,123,58,16,10933874,registered
+24039,Simon,male,"Toronto, Ontario, Canada","{'bronze': 116, 'silver': 80, 'gold': 24}",63874,56.0,87,201,173,118,12256,registered
+9547658,Jonas,male,Germany,"{'bronze': 37, 'silver': 11, 'gold': 2}",2429,,167,16,114,0,13220848,registered
+2624101,Brian,male,"Raleigh, NC","{'bronze': 25, 'silver': 14, 'gold': 0}",3481,100.0,5,132,430,44,3099613,registered
+78011,Mark Basmayor,male,Philippines,"{'bronze': 13, 'silver': 15, 'gold': 1}",2309,,2,35,165,5,29006,registered
+596065,Ken Li,male,"Somerset, NJ, United States","{'bronze': 25, 'silver': 20, 'gold': 4}",2418,75.0,13,19,227,2,292980,registered
+242674,Michael Robinson,male,"Hamilton City, CA, United States","{'bronze': 23, 'silver': 16, 'gold': 2}",1439,94.0,51,2,21,0,87529,registered
+604495,Manuel Hernandez,male,California,"{'bronze': 16, 'silver': 7, 'gold': 0}",323,,6,7,412,21,298460,registered
+4190598,Marian Pavel,male,"Bucharest, Romania","{'bronze': 49, 'silver': 21, 'gold': 5}",2050,68.0,101,15,159,3,5244411,registered
+139922,Joe Cheng,male,"Redmond, WA","{'bronze': 35, 'silver': 33, 'gold': 0}",7254,,0,92,60,2,47265,registered
+57508,Andreas Niedermair,male,Austria,"{'bronze': 115, 'silver': 70, 'gold': 8}",18419,96.0,85,269,3272,435,23062,registered
+7219837,Patrick P&#246;tz,male,Austria,"{'bronze': 13, 'silver': 3, 'gold': 0}",340,,2,14,328,2,9736846,registered
+418969,Evan Porter,male,"Prince Edward Island, Canada","{'bronze': 41, 'silver': 30, 'gold': 2}",2865,100.0,5,68,788,2,183539,registered
+2819400,Aditya,male,"Pune, Maharashtra, India","{'bronze': 40, 'silver': 21, 'gold': 5}",1987,67.0,71,120,70,8,2785587,registered
+6351733,Maurice,male,"Groningen, Nederland","{'bronze': 46, 'silver': 22, 'gold': 3}",2677,22.0,124,70,538,12,8468157,registered
+804812,Leszek Gruchała,male,"Szczecin, Poland","{'bronze': 16, 'silver': 16, 'gold': 1}",2032,,2,19,129,0,424679,registered
+4607046,Josh,male,Boulder,"{'bronze': 17, 'silver': 1, 'gold': 0}",344,,2,14,83,20,5847271,registered
+1703536,Jeff Loughlin,male,"Downingtown, PA","{'bronze': 45, 'silver': 27, 'gold': 2}",3806,83.0,14,145,122,141,1883929,registered
+471481,Andrei Sfat,male,"Cluj-Napoca, Romania","{'bronze': 60, 'silver': 34, 'gold': 4}",6835,100.0,8,163,840,4,216316,registered
+9253489,Garrett Manley,male,"Lafayette, LA, USA","{'bronze': 10, 'silver': 2, 'gold': 0}",329,,0,15,34,1,12787902,registered
+1883696,Ardian,male,Prishtine,"{'bronze': 11, 'silver': 1, 'gold': 0}",348,,1,16,12,1,2120310,registered
+4077559,Juan Curti,male,"Buenos Aires, Ciudad Aut&#243;noma de Buenos Aires, Argentina","{'bronze': 34, 'silver': 16, 'gold': 0}",2441,,6,65,49,5,5081688,registered
+5198,Mike,male,"Apple Valley, MN, United States","{'bronze': 48, 'silver': 35, 'gold': 11}",4772,77.0,38,9,232,24,3598,registered
+5625,James,male,"Lawrenceville, GA","{'bronze': 47, 'silver': 36, 'gold': 2}",2360,93.0,31,22,402,36,3849,registered
+5157209,Anton Shurashov,male,"Krasnodar, Россия","{'bronze': 27, 'silver': 12, 'gold': 1}",1292,,1,42,687,19,6685959,registered
+341712,David Crowell,male,"Louisville, KY","{'bronze': 27, 'silver': 17, 'gold': 0}",3274,100.0,4,122,316,196,137496,registered
+2134729,Vivek Vikranth,male,"Chennai, Tamil Nadu, India","{'bronze': 33, 'silver': 18, 'gold': 2}",2349,68.0,28,35,533,67,2447826,registered
+487063,Matthew Kane,male,"Agoura Hills, CA","{'bronze': 5, 'silver': 1, 'gold': 0}",314,,1,7,9,3,226172,registered
+150166,Martti K&#228;&#228;rik,male,"Tallinn, Estonia","{'bronze': 25, 'silver': 14, 'gold': 0}",3551,,0,121,83,1,50346,registered
+1277018,Ilya Demidov,male,"Moscow, Russia","{'bronze': 38, 'silver': 23, 'gold': 2}",3205,100.0,7,65,35,35,1333746,registered
+129196,Charles Prakash Dasari,male,"Redmond, WA, United States","{'bronze': 44, 'silver': 22, 'gold': 1}",4234,78.0,27,50,302,6,44096,registered
+84873,Daniel,male,Michigan,"{'bronze': 108, 'silver': 77, 'gold': 19}",10021,91.0,91,117,1363,139,31007,registered
+1136204,Yuriy Nazarov,male,Russia,"{'bronze': 14, 'silver': 10, 'gold': 0}",1156,,1,9,217,0,1155460,registered
+463439,Bryan,male,"San Diego, CA, United States","{'bronze': 47, 'silver': 22, 'gold': 2}",3612,66.0,49,34,289,2,211336,registered
+997132,William,male,"Philadelphia, PA, USA","{'bronze': 10, 'silver': 2, 'gold': 0}",392,,2,9,21,2,975914,registered
+7237224,Terry Lennox,male,Ireland,"{'bronze': 22, 'silver': 13, 'gold': 2}",11293,,3,615,1139,7,9762590,registered
+233287,Nelson,male,"Leeds, United Kingdom","{'bronze': 9, 'silver': 2, 'gold': 0}",315,50.0,6,11,36,0,83132,registered
+5420502,Nurlan Sofiyev,male,"Baku, Азербайджан","{'bronze': 7, 'silver': 6, 'gold': 0}",419,,0,7,13,0,7082672,registered
+6028746,Nir Duan,male,"Tel Aviv District, Israel","{'bronze': 36, 'silver': 17, 'gold': 4}",4834,,5,155,1557,6,7990839,registered
+1478,Dan,male,United Kingdom,"{'bronze': 32, 'silver': 19, 'gold': 1}",1297,75.0,27,19,85,19,1113,registered
+49404,Paul Vincent Craven,male,"Indianola, IA","{'bronze': 19, 'silver': 17, 'gold': 2}",1885,60.0,15,18,414,4,20607,registered
+165500,Andrew Russell,male,"Brisbane, Australia","{'bronze': 103, 'silver': 53, 'gold': 7}",25709,89.0,29,509,908,101,55286,registered
+639988,Evan R.,male,"San Francisco, CA","{'bronze': 14, 'silver': 12, 'gold': 3}",2237,,2,9,140,1,321262,registered
+2212031,Quentin Roy,male,Singapore,"{'bronze': 46, 'silver': 24, 'gold': 2}",6198,90.0,15,172,1117,75,2547550,registered
+6426882,Robert,male,"Berlin, Deutschland","{'bronze': 15, 'silver': 4, 'gold': 0}",398,78.0,15,27,104,6,5370046,registered
+2982874,Rob Baillie,male,"London, United Kingdom","{'bronze': 32, 'silver': 17, 'gold': 2}",3168,,5,125,248,41,3572962,registered
+725500,Dale,male,"Exeter, United Kingdom","{'bronze': 18, 'silver': 15, 'gold': 2}",1869,50.0,6,7,29,0,374970,registered
+38714,Stephen,male,"Ithaca, NY","{'bronze': 28, 'silver': 21, 'gold': 1}",3688,100.0,8,25,91,16,17336,registered
+101923,Tim Swast,male,"Seattle, WA, United States","{'bronze': 48, 'silver': 32, 'gold': 3}",10749,83.0,6,72,670,14,35869,registered
+1260560,Colby Blair,male,"Moscow, Idaho","{'bronze': 15, 'silver': 3, 'gold': 0}",356,60.0,15,16,70,1,1312982,registered
+562097,Leonardo Rossi,male,"Florence, Italy","{'bronze': 25, 'silver': 17, 'gold': 2}",2220,50.0,16,107,113,28,271524,registered
+617576,Dirk McQuickly,male,Netherlands,"{'bronze': 19, 'silver': 16, 'gold': 0}",1837,,5,70,110,7,306690,registered
+860566,Thomas Russell,male,"London, United Kingdom","{'bronze': 59, 'silver': 24, 'gold': 2}",5180,72.0,77,73,277,79,459844,registered
+1485344,Guy Kahlon,male,"Tel Aviv, Israel","{'bronze': 40, 'silver': 24, 'gold': 4}",4470,53.0,26,18,609,14,1605096,registered
+530160,Nick ODell,male,Colorado,"{'bronze': 45, 'silver': 18, 'gold': 1}",3966,69.0,20,144,257,45,252240,registered
+65295,Seth,male,"Portland, Ore","{'bronze': 116, 'silver': 78, 'gold': 9}",37339,90.0,13,531,1112,13,25409,registered
+45552,Steve Melnikoff,male,United Kingdom,"{'bronze': 22, 'silver': 20, 'gold': 1}",2370,,2,91,1533,9,19422,registered
+2253892,Milan Maharjan,male,"Kathmandu, Nepal","{'bronze': 26, 'silver': 17, 'gold': 0}",2528,70.0,13,70,638,2,2601699,registered
+2111085,Ernestas Gruodis,male,"Lithuania, EU","{'bronze': 89, 'silver': 38, 'gold': 10}",6969,64.0,141,61,476,12,2417303,registered
+222673,Scott Wylie,male,"San Francisco, CA","{'bronze': 46, 'silver': 33, 'gold': 2}",4597,38.0,13,121,415,1,78180,registered
+179332,Adam Spiers,male,"London, United Kingdom","{'bronze': 56, 'silver': 37, 'gold': 5}",14390,64.0,13,80,635,11,59987,registered
+1103052,Mark A. Nicolosi,male,"Springfield, MO","{'bronze': 46, 'silver': 40, 'gold': 10}",66785,88.0,18,57,87,6,11939,registered
+89434,Wesley Hill,male,"New York, United States","{'bronze': 27, 'silver': 14, 'gold': 0}",1669,90.0,11,15,131,0,32286,registered
+606371,John,male,"Sarasota, FL","{'bronze': 124, 'silver': 69, 'gold': 7}",8172,71.0,304,388,1073,226,299662,registered
+312294,Lance,male,"Louisville, KY","{'bronze': 31, 'silver': 25, 'gold': 4}",4917,90.0,10,51,688,4,120092,registered
+415892,Kevin Lacquement,male,"Victoria, Canada","{'bronze': 29, 'silver': 21, 'gold': 2}",4723,100.0,13,97,32,7,181706,registered
+6396407,Alessandro,male,Italy,"{'bronze': 11, 'silver': 2, 'gold': 0}",359,,6,3,4,0,3305980,registered
+6809789,Yordan Ramchev,male,"Varna, Bulgaria","{'bronze': 13, 'silver': 4, 'gold': 0}",340,,1,25,70,29,9157193,registered
+1456931,Damian Petla,male,"Gdansk, Poland","{'bronze': 44, 'silver': 34, 'gold': 5}",8063,88.0,10,114,332,10,1568743,registered
+538570,Sal,male,"Surrey, BC, Canada","{'bronze': 36, 'silver': 25, 'gold': 2}",3888,100.0,11,50,727,68,257264,registered
+229891,Paul,male,"Boston, MA","{'bronze': 24, 'silver': 18, 'gold': 0}",2378,67.0,22,26,222,9,81562,registered
+1965099,Martin Cazares,male,"Los Angeles, CA","{'bronze': 54, 'silver': 42, 'gold': 8}",12497,83.0,6,238,261,623,2226460,registered
+127175,Josh Mouch,male,"Gaylord, MI","{'bronze': 30, 'silver': 30, 'gold': 1}",3108,21.0,23,54,110,12,43500,registered
+5724610,Spencer Rohan,male,Chicago,"{'bronze': 21, 'silver': 8, 'gold': 1}",1069,56.0,11,34,26,4,7539452,registered
+29363,Sergey,male,Ukraine,"{'bronze': 32, 'silver': 24, 'gold': 2}",2845,100.0,13,24,641,52,14317,registered
+8351,Aaron Lee,male,"Urbana, IL, USA","{'bronze': 19, 'silver': 20, 'gold': 5}",4808,100.0,6,3,31,1,5245,registered
+710020,Jason V,male,United States,"{'bronze': 7, 'silver': 2, 'gold': 1}",398,,2,5,6,0,365210,registered
+5375757,Mahesh Narla,male,"Hyderabad, Telangana, India","{'bronze': 17, 'silver': 3, 'gold': 0}",322,69.0,20,7,82,1,7013725,registered
+710921,Michael Bolli,male,"Busswil, Canton of Berne, Switzerland","{'bronze': 16, 'silver': 10, 'gold': 1}",1329,,2,10,289,1,365790,registered
+2931925,Charles,male,"Northampton, MA","{'bronze': 12, 'silver': 8, 'gold': 0}",2573,,2,107,113,1,3506484,registered
+727857,Matt,male,Quad Cities,"{'bronze': 35, 'silver': 11, 'gold': 0}",1152,90.0,23,48,293,18,376411,registered
+2616203,Nikola Lošić,male,Serbia,"{'bronze': 16, 'silver': 4, 'gold': 0}",389,100.0,14,3,28,1,3089836,registered
+1816078,Victor Lamoine,male,"Rennes, France","{'bronze': 20, 'silver': 2, 'gold': 1}",360,83.0,8,9,54,12,1598866,registered
+298053,Brad Christie,male,"New Hampshire, United States","{'bronze': 187, 'silver': 135, 'gold': 14}",92767,83.0,7,2221,3505,42,113091,registered
+8631381,Massimiliano Janes,male,"Padova, Italy","{'bronze': 20, 'silver': 7, 'gold': 1}",5234,,1,148,69,33,11796842,registered
+324995,Andrew Burgess,male,"Ontario, CA","{'bronze': 18, 'silver': 12, 'gold': 0}",1503,100.0,10,37,88,1,127672,registered
+4463242,Frederik Carlier,male,Belgium,"{'bronze': 22, 'silver': 9, 'gold': 1}",2287,,3,93,38,13,5638543,registered
+5182047,Erik &#197;sland,male,"Seattle, WA, United States","{'bronze': 40, 'silver': 19, 'gold': 5}",7258,88.0,89,8,617,5,6722743,registered
+184499,Matt,male,Virginia,"{'bronze': 98, 'silver': 85, 'gold': 6}",38140,,0,398,364,48,62022,registered
+624998,Dwayne Towell,male,"Nashville, TN, USA","{'bronze': 45, 'silver': 28, 'gold': 1}",6321,67.0,9,200,925,208,147165,registered
+314087,Robert,male,"San Diego, CA, United States","{'bronze': 80, 'silver': 52, 'gold': 16}",5294,84.0,104,14,172,7,121186,registered
+1470731,Joseph Leedy,male,"Miami, FL","{'bronze': 11, 'silver': 11, 'gold': 2}",3488,,0,6,261,6,900970,registered
+277776,Seb Charrot,male,"Glasgow, Scotland","{'bronze': 22, 'silver': 16, 'gold': 1}",2161,67.0,10,23,191,14,18355,registered
+4555367,Prasad,male,"Chennai, Tamil Nadu, India","{'bronze': 37, 'silver': 22, 'gold': 4}",1501,73.0,29,32,493,187,5772257,registered
+2881673,Michael Kersten,male,Germany,"{'bronze': 11, 'silver': 2, 'gold': 0}",417,,4,16,147,17,3439377,registered
+2438296,David Rothera,male,"Bradford, UK","{'bronze': 6, 'silver': 3, 'gold': 0}",407,,2,6,10,1,2497420,registered
+76722,Sebastian Mach,male,The Inverse Of Where I&#39;m Not,"{'bronze': 122, 'silver': 83, 'gold': 3}",34175,80.0,26,635,1596,668,28649,registered
+2236808,Jon Black,male,"Washington, DC","{'bronze': 20, 'silver': 10, 'gold': 0}",1177,,3,94,597,0,2579882,registered
+846075,Bijoy Thangaraj,male,"Bangalore, India","{'bronze': 61, 'silver': 30, 'gold': 3}",4600,93.0,58,116,1418,24,450641,registered
+4508436,Mariusz Wiśniewski,male,"Warsaw, Polska","{'bronze': 7, 'silver': 1, 'gold': 0}",321,,1,8,38,0,5704374,registered
+5397419,Manish,male,New Delhi,"{'bronze': 15, 'silver': 3, 'gold': 0}",358,,3,23,169,2,6664728,registered
+2253331,Mark Miller,male,"Fresno, CA, United States","{'bronze': 21, 'silver': 13, 'gold': 2}",7236,100.0,4,317,387,99,2600887,registered
+275390,Nick Kahn,male,"Earth, Planet","{'bronze': 377, 'silver': 254, 'gold': 81}",17295,82.0,589,86,353,22,102635,registered
+1175544,Jeff Putney,male,"Minneapolis, MN","{'bronze': 7, 'silver': 2, 'gold': 0}",378,,0,8,28,4,1205863,registered
+1442517,Thomas Moulard,male,"Mountain View, CA, USA","{'bronze': 25, 'silver': 15, 'gold': 2}",3361,93.0,17,21,27,3,1549857,registered
+3448748,Rajan Chauhan,male,"Saket, New Delhi, Delhi, India","{'bronze': 13, 'silver': 4, 'gold': 0}",361,25.0,11,11,59,0,4211074,registered
+3207494,Pankaj,male,"Bangalore, India","{'bronze': 36, 'silver': 14, 'gold': 2}",1935,56.0,32,49,793,36,3872567,registered
+79354,Anders Ekdahl,male,Sweden,"{'bronze': 57, 'silver': 64, 'gold': 3}",20501,,2,220,59,1,29378,registered
+400193,James Hulse,male,"Bristol, UK","{'bronze': 31, 'silver': 14, 'gold': 0}",1453,94.0,17,38,314,20,172274,registered
+5904541,Juan Balmori,male,"Seattle, WA, United States","{'bronze': 16, 'silver': 5, 'gold': 1}",4352,,0,266,5,5,7806987,registered
+1231486,Jim Cooper,male,"Utah, USA","{'bronze': 33, 'silver': 23, 'gold': 5}",4559,50.0,25,9,32,5,1276306,registered
+414789,Anton Kandybo,male,"Kaliningrad, Калининградская область, Россия","{'bronze': 30, 'silver': 18, 'gold': 2}",2000,71.0,22,9,556,0,181052,registered
+556867,Sumit,male,India,"{'bronze': 9, 'silver': 7, 'gold': 0}",1322,,0,75,41,5,268226,registered
+445673,Diego Perini,male,"Verona, Italy","{'bronze': 9, 'silver': 15, 'gold': 1}",6279,,0,15,1,0,200031,registered
+1586762,Vitalii Elenhaupt,male,Ukraine,"{'bronze': 38, 'silver': 19, 'gold': 1}",6149,90.0,10,112,551,33,1733744,registered
+1150325,Matthias Munz,male,"L&#252;beck, Germany","{'bronze': 40, 'silver': 22, 'gold': 4}",2531,79.0,33,10,89,3,1173821,registered
+5058871,Dov Benyomin Sohacheski,male,"Ashdod, Israel","{'bronze': 50, 'silver': 23, 'gold': 6}",3981,100.0,17,66,1300,316,6541457,registered
+464772,Daniel Mendel,male,"Brooklyn, NY","{'bronze': 36, 'silver': 20, 'gold': 1}",7981,,2,59,227,1,212135,registered
+105903,Wayne Hartman,male,"Pocatello, ID, United States","{'bronze': 114, 'silver': 78, 'gold': 4}",17151,71.0,59,277,953,25,37072,registered
+89586,Matthew Whited,male,"Columbus, Ohio, USA","{'bronze': 66, 'silver': 42, 'gold': 2}",20564,,8,604,3745,157,32329,registered
+5542879,Dan Gardner,male,"London, UK","{'bronze': 16, 'silver': 4, 'gold': 0}",341,,5,27,605,5,7269212,registered
+815732,Max Ivak,male,Ukraine,"{'bronze': 33, 'silver': 11, 'gold': 0}",1191,23.0,32,23,83,4,431575,registered
+1069313,Jan Saris,male,Netherlands,"{'bronze': 6, 'silver': 3, 'gold': 0}",393,,0,3,9,0,1069738,registered
+628717,Pekka Toiminen,male,Finland,"{'bronze': 5, 'silver': 3, 'gold': 0}",391,,0,3,14,0,313861,registered
+91365,Bryan Larsen,male,"Ottawa, Canada","{'bronze': 38, 'silver': 49, 'gold': 6}",7870,52.0,24,76,365,8,32828,registered
+122446,Peter Horne,male,"England, United Kingdom","{'bronze': 47, 'silver': 29, 'gold': 4}",3760,90.0,42,25,267,16,42071,registered
+10457357,Andrea Dattero,male,"Venice, Italy","{'bronze': 9, 'silver': 1, 'gold': 0}",345,,16,0,50,3,14476967,registered
+908499,Travis Vaught,male,"San Antonio, TX","{'bronze': 6, 'silver': 2, 'gold': 0}",328,,1,7,28,0,540343,registered
+5216695,Curtis Brian Halbrook,male,"Atlanta, GA, United States","{'bronze': 4, 'silver': 3, 'gold': 0}",360,,0,1,0,2,998420,registered
+178980,Egor Pavlikhin,male,Australia,"{'bronze': 94, 'silver': 50, 'gold': 15}",15566,87.0,85,108,1669,28,59851,registered
+1472459,Ed King,male,England,"{'bronze': 25, 'silver': 13, 'gold': 1}",1670,98.0,48,38,69,14,1588644,registered
+397817,Stephen Kennedy,male,"Cheltenham, United Kingdom","{'bronze': 86, 'silver': 69, 'gold': 16}",12931,100.0,9,239,1448,6650,170826,registered
+8152,Colin Mackay,male,"West Lothian, Scotland","{'bronze': 78, 'silver': 57, 'gold': 4}",16402,76.0,32,331,1202,25,5154,registered
+4210091,Renato,male,"Abruzzo, Italia","{'bronze': 15, 'silver': 7, 'gold': 0}",1537,,2,101,68,29,5272138,registered
+974959,James Daly,male,"New York, NY, United States","{'bronze': 23, 'silver': 13, 'gold': 0}",1258,94.0,20,59,593,6,948174,registered
+627813,Tom Winchester,male,"Peoria, IL","{'bronze': 19, 'silver': 6, 'gold': 2}",337,89.0,19,2,25,0,313270,registered
+5353,Sylvain Defresne,male,France,"{'bronze': 82, 'silver': 66, 'gold': 9}",36221,,2,273,702,20,3690,registered
+7705970,Michael Ilie,male,usa,"{'bronze': 13, 'silver': 2, 'gold': 0}",409,100.0,4,16,62,16,10452995,registered
+3892,Steve Steiner,male,United States,"{'bronze': 43, 'silver': 28, 'gold': 3}",5139,71.0,9,68,127,9,2767,registered
+5619721,Hamed Adil,male,Saudi Arabia,"{'bronze': 11, 'silver': 4, 'gold': 0}",363,94.0,18,7,43,0,7384187,registered
+4010683,Robert Jones,male,San Francisco,"{'bronze': 19, 'silver': 1, 'gold': 0}",343,47.0,24,5,27,0,4987529,registered
+2792428,Ken Dickinson,male,"Commerce, TX, USA","{'bronze': 7, 'silver': 2, 'gold': 0}",395,,1,4,2,1,3321299,registered
+129991,Jared Garst,male,"Oakland, CA, United States","{'bronze': 9, 'silver': 5, 'gold': 0}",409,67.0,6,3,19,0,44312,registered
+20688,Adam Holmberg,male,United States,"{'bronze': 52, 'silver': 27, 'gold': 2}",6725,100.0,22,168,1060,8,10854,registered
+376386,Aaron Hathaway,male,Arizona,"{'bronze': 16, 'silver': 15, 'gold': 0}",4050,92.0,14,201,323,10,158040,registered
+95399,Iain Hoult,male,United Kingdom,"{'bronze': 38, 'silver': 22, 'gold': 5}",3471,83.0,19,41,141,3,33937,registered
+1473099,Mike Kibbel,male,"Raleigh, NC","{'bronze': 5, 'silver': 10, 'gold': 1}",1906,,0,5,0,0,1589417,registered
+2307008,Tom Finney,male,"Norwich, UK","{'bronze': 9, 'silver': 7, 'gold': 0}",1185,,0,51,36,10,2669269,registered
+1643076,Gautam,male,India,"{'bronze': 27, 'silver': 16, 'gold': 1}",2314,60.0,15,52,238,17,1805995,registered
+3374382,Martin Q,male,United Kingdom,"{'bronze': 13, 'silver': 6, 'gold': 1}",373,54.0,18,0,14,0,4071339,registered
+3122880,Vikas Ojha,male,"Jaipur, India","{'bronze': 30, 'silver': 14, 'gold': 3}",5160,50.0,5,187,99,21,3756662,registered
+7053190,Ankit Agarwal,male,"Surat, Gujarat, India","{'bronze': 48, 'silver': 25, 'gold': 5}",27318,50.0,9,1613,1288,1455,9487118,registered
+4052030,Nicolas Holthaus,male,"Lincoln, MA","{'bronze': 72, 'silver': 30, 'gold': 2}",6020,89.0,97,97,1040,199,5046046,registered
+4943147,Tobias Timm,male,"Augsburg, Germany","{'bronze': 22, 'silver': 9, 'gold': 0}",1296,82.0,18,34,9,10,6370654,registered
+16026,Dario Solera,male,"Milan, Italy","{'bronze': 33, 'silver': 25, 'gold': 3}",4866,62.0,13,94,132,13,8811,registered
+380863,Jonathan,male,"Paris, France","{'bronze': 14, 'silver': 4, 'gold': 0}",424,80.0,5,8,30,2,160645,registered
+130107,Oskar N.,male,Sweden,"{'bronze': 19, 'silver': 18, 'gold': 1}",7347,100.0,5,23,36,1,44345,registered
+116938,Austyn Mahoney,male,"Irvine, CA, USA","{'bronze': 85, 'silver': 55, 'gold': 7}",10755,88.0,16,119,443,126,40356,registered
+351435,Martin Wedvich,male,"Oslo, Norway","{'bronze': 30, 'silver': 15, 'gold': 1}",1840,68.0,47,31,156,3,143239,registered
+2160667,Miguel Rivero,male,"Madrid, Spain","{'bronze': 11, 'silver': 11, 'gold': 0}",1186,,1,15,7,0,2481230,registered
+2817687,Luke Peavey,male,"New York, NY, United States","{'bronze': 19, 'silver': 12, 'gold': 0}",1862,,0,25,40,1,3354371,registered
+971693,Yan Brunet,male,"Montreal, Canada","{'bronze': 34, 'silver': 21, 'gold': 2}",4044,,0,81,325,5,944087,registered
+2192,Thomas R,male,"San Francisco, CA","{'bronze': 31, 'silver': 27, 'gold': 5}",2906,93.0,16,8,59,11,1632,registered
+271224,Doug Lubey of Louisiana,male,"Baton Rouge, LA","{'bronze': 7, 'silver': 4, 'gold': 0}",363,,2,2,0,0,100659,registered
+852659,Johnny Craig,male,"Los Angeles, CA","{'bronze': 24, 'silver': 22, 'gold': 2}",4586,75.0,25,130,54,9,454829,registered
+111052,Derek Organ,male,"Dublin, Ireland","{'bronze': 73, 'silver': 51, 'gold': 15}",7485,100.0,66,46,259,13,38645,registered
+44041,Filip Dupanović,male,"Sarajevo, Bosnia and Herzegovina","{'bronze': 99, 'silver': 72, 'gold': 11}",25852,85.0,21,444,1881,20,18992,registered
+8671564,Dmitriy Yankin,male,"Moscow, Россия","{'bronze': 9, 'silver': 1, 'gold': 0}",333,,1,16,3,3,11849996,registered
+3010968,Selman Gen&#231;,male,Turkey,"{'bronze': 156, 'silver': 93, 'gold': 13}",90868,93.0,68,2712,1633,8843,3579893,registered
+6448689,Ralph Erdt,male,Germany,"{'bronze': 14, 'silver': 6, 'gold': 0}",411,25.0,13,19,30,0,8609940,registered
+432929,Romain Tribes,male,"Paris, France","{'bronze': 20, 'silver': 15, 'gold': 2}",1768,62.0,16,14,20,4,192023,registered
+535073,Jonas Kalderstam,male,"Lund, Sweden","{'bronze': 21, 'silver': 11, 'gold': 0}",1185,,3,14,59,1,255195,registered
+1836434,Pierre Criulanscy,male,"Paris, France","{'bronze': 35, 'silver': 18, 'gold': 3}",7083,62.0,10,99,1007,6,2059472,registered
+211404,Lukas Schmelzeisen,male,"Koblenz, Germany","{'bronze': 28, 'silver': 19, 'gold': 3}",2384,79.0,19,14,167,5,73406,registered
+220959,Victor,male,Russia,"{'bronze': 13, 'silver': 5, 'gold': 0}",432,50.0,6,9,31,0,77411,registered
+3049628,Tim B,male,"Watford, United Kingdom","{'bronze': 119, 'silver': 69, 'gold': 14}",36937,78.0,49,1270,1605,437,3659411,registered
+2043575,Daniel M&#252;ller,male,"Koblenz, Deutschland","{'bronze': 13, 'silver': 3, 'gold': 0}",341,86.0,13,2,4,0,2329893,registered
+486146,Manish Baphna,male,India,"{'bronze': 13, 'silver': 1, 'gold': 0}",372,60.0,6,3,33,1,225588,registered
+3263503,Thomas,male,France,"{'bronze': 8, 'silver': 2, 'gold': 0}",353,,0,20,12,0,3954429,registered
+2893024,Michael Seltenreich,male,"New York, United States","{'bronze': 41, 'silver': 16, 'gold': 0}",2047,66.0,108,36,64,22,3454173,registered
+2845260,Jake Romer,male,"New York, NY, USA","{'bronze': 22, 'silver': 8, 'gold': 1}",1965,,2,57,163,13,2010026,registered
+5278644,Kevin Hufnagl,male,Austria,"{'bronze': 6, 'silver': 1, 'gold': 0}",346,,0,8,1,0,6866331,registered
+2279818,Brian Kinyua,male,"Nairobi, Kenya","{'bronze': 16, 'silver': 14, 'gold': 1}",4106,,0,8,5,0,2497043,registered
+338530,Daniel Schlaug,male,Sweden,"{'bronze': 16, 'silver': 13, 'gold': 1}",1414,75.0,5,15,83,0,135581,registered
+2499019,Joe Pigott,male,"Rexburg, ID, United States","{'bronze': 41, 'silver': 25, 'gold': 4}",5655,69.0,54,7,129,6,2909436,registered
+154870,Dave White,male,"Calgary, Canada","{'bronze': 23, 'silver': 15, 'gold': 1}",3379,,1,132,239,21,51827,registered
+774177,Vladimir Tsukanov,male,"Moscow, Russia","{'bronze': 33, 'silver': 25, 'gold': 6}",3309,96.0,28,22,135,0,405352,registered
+6144643,Sagar Chauhan,male,"Mehsana, Gujarat, India","{'bronze': 44, 'silver': 14, 'gold': 2}",4404,,11,206,850,42,7737223,registered
+5157421,Arjun Vyas,male,India,"{'bronze': 11, 'silver': 1, 'gold': 0}",333,,1,30,49,2,6686281,registered
+925231,Ivo,male,Australia,"{'bronze': 18, 'silver': 14, 'gold': 2}",5224,,0,170,118,3,875500,registered
+3348750,Javad,male,"Canada, Toronto","{'bronze': 35, 'silver': 17, 'gold': 2}",3983,83.0,14,169,139,15,4077462,registered
+347741,Andreas Prang,male,"Berlin, Germany","{'bronze': 32, 'silver': 21, 'gold': 4}",1917,40.0,32,14,109,1,141019,registered
+6061679,Sebastian B,male,Germany,"{'bronze': 8, 'silver': 2, 'gold': 0}",411,,0,23,51,1,8039559,registered
+25702,David Gardiner,male,"Adelaide, Australia","{'bronze': 113, 'silver': 67, 'gold': 14}",15651,89.0,85,103,413,4,12922,registered
+123273,Stephen Paul Lesniewski,male,New Jersey,"{'bronze': 3, 'silver': 8, 'gold': 0}",1101,,0,3,0,0,42324,registered
+9630748,Arnault Le Pr&#233;vost-Corvellec,male,"Nancy, France","{'bronze': 9, 'silver': 1, 'gold': 0}",399,,1,44,102,10,13343141,registered
+253973,Conan,male,United Kingdom,"{'bronze': 19, 'silver': 13, 'gold': 0}",2341,,1,84,60,7,881769,registered
+1065171,Kamran Ali,male,Pakistan,"{'bronze': 35, 'silver': 23, 'gold': 2}",5708,93.0,18,69,236,11,1064217,registered
+3920075,Timothy,male,"St. Louis, MO","{'bronze': 28, 'silver': 10, 'gold': 2}",1130,88.0,19,30,3846,7,4860199,registered
+1180533,Kirk H,male,"Boston, MA","{'bronze': 6, 'silver': 2, 'gold': 0}",411,,0,22,17,0,1212195,registered
+3102952,Nikola Stojaković,male,"Pancevo, Vojvodina","{'bronze': 36, 'silver': 17, 'gold': 2}",1860,69.0,89,27,189,10,3730340,registered
+6382928,Frank Modica,male,"Brooklyn, NY, United States","{'bronze': 32, 'silver': 13, 'gold': 3}",8079,,3,222,76,3,4360072,registered
+547514,Rajesh Kumar G,male,"Mysore, India","{'bronze': 28, 'silver': 17, 'gold': 4}",1258,69.0,39,16,8,2,262562,registered
+1938385,Viktor K,male,"Ternopil&#39;, Ukraine","{'bronze': 38, 'silver': 20, 'gold': 3}",1913,82.0,22,13,21,3,1661467,registered
+7036397,Orkhan Huseynli,male,"Baku, Azerbaijan","{'bronze': 6, 'silver': 2, 'gold': 0}",380,,1,15,159,0,9463193,registered
+171490,Steve Hansell,male,"Indianapolis, IN","{'bronze': 13, 'silver': 13, 'gold': 1}",14441,,2,26,338,3,57260,registered
+9036415,Niels Vanwingh,male,Belgium,"{'bronze': 15, 'silver': 2, 'gold': 0}",382,45.0,71,22,144,1,12397301,registered
+133578,Jason Berry,male,"Sydney, Australia","{'bronze': 21, 'silver': 15, 'gold': 1}",2411,,2,48,116,18,45325,registered
+3297887,Evgeniy Generalov,male,"Minsk, Belarus","{'bronze': 24, 'silver': 12, 'gold': 0}",1076,,2,24,394,5,517207,registered
+5710581,David Vicente,male,"Valladolid, Spain","{'bronze': 22, 'silver': 11, 'gold': 1}",2508,,0,145,463,4,7517670,registered
+304620,Michael Repucci,male,"New York, NY, United States","{'bronze': 29, 'silver': 15, 'gold': 2}",1458,88.0,28,15,947,8,116113,registered
+7031374,Erik Šťastn&#253;,male,"Brno, Česko","{'bronze': 30, 'silver': 7, 'gold': 0}",1194,100.0,26,49,194,111,9456124,registered
+5820024,Mohammad ElNesr,male,Saudi Arabia,"{'bronze': 34, 'silver': 18, 'gold': 1}",1543,75.0,31,23,753,2,2605566,registered
+856932,Aaron Kreider,male,"Philadelphia, PA","{'bronze': 39, 'silver': 19, 'gold': 3}",1437,50.0,53,29,82,0,457541,registered
+6787033,Wojciech Kazior,male,"Lublin, Polska","{'bronze': 14, 'silver': 7, 'gold': 0}",1148,78.0,12,84,22,307,9001828,registered
+1261399,Leo Correa,male,"Miami Beach, FL, United States","{'bronze': 68, 'silver': 39, 'gold': 2}",15514,85.0,15,313,512,8,1314069,registered
+3577946,Indra Kumar S,male,Madurai TN India,"{'bronze': 20, 'silver': 11, 'gold': 2}",1753,71.0,9,146,240,91,4388764,registered
+40272,Carl Serrander,male,"Malm&#246;, Sweden","{'bronze': 7, 'silver': 1, 'gold': 0}",346,,0,7,4,2,17810,registered
+789649,Rostyslav Dzinko,male,"Kiev, Ukraine","{'bronze': 54, 'silver': 40, 'gold': 2}",34436,,5,139,387,7,415066,registered
+1391866,Mark Roberts,male,"Olympia, WA, United States","{'bronze': 6, 'silver': 3, 'gold': 0}",432,,0,24,118,2,1482952,registered
+2238770,Kino,male,"Taipei City, Taiwan","{'bronze': 14, 'silver': 10, 'gold': 1}",5963,,0,1,115,0,2582397,registered
+16460,Andrew Garrison,male,United States,"{'bronze': 75, 'silver': 45, 'gold': 9}",6450,88.0,47,75,1086,7,9008,registered
+7240025,Alper Kucukkomurler,male,"Ankara, Turkey","{'bronze': 14, 'silver': 7, 'gold': 1}",1170,,0,60,44,12,9766890,registered
+3510260,Gregor Koukkoullis,male,Germany,"{'bronze': 25, 'silver': 17, 'gold': 1}",1765,,1,18,375,11,4294949,registered
+428173,Martin Melka,male,"Pilsen, Czech Republic","{'bronze': 103, 'silver': 47, 'gold': 9}",5151,82.0,149,41,342,3,189067,registered
+44375,Paulo Santos,male,"Rio De Janeiro, Brazil","{'bronze': 56, 'silver': 35, 'gold': 4}",10576,100.0,33,360,555,10,19071,registered
+4436276,Piotr Żak,male,"Warsaw, Poland","{'bronze': 33, 'silver': 20, 'gold': 4}",1204,46.0,38,14,342,8,5599655,registered
+2806265,Matthias Steinbauer,male,"Linz, Austria","{'bronze': 22, 'silver': 8, 'gold': 0}",1531,,2,78,82,7,3339739,registered
+1897237,Alexandr Latushkin,male,"Moscow, Russia","{'bronze': 16, 'silver': 13, 'gold': 1}",1953,,0,7,29,5,2137927,registered
+220837,Martin Kovachev,male,"Plovdiv, Bulgaria","{'bronze': 16, 'silver': 4, 'gold': 0}",422,62.0,10,5,188,4,879869,registered
+2607182,Tim McClure,male,"Brooklyn, NY, United States","{'bronze': 23, 'silver': 9, 'gold': 1}",1075,75.0,10,33,227,17,3078357,registered
+563926,Per Enstr&#246;m,male,"Uppsala, Sweden","{'bronze': 20, 'silver': 4, 'gold': 0}",369,62.0,13,8,194,9,272699,registered
+2135045,Thomas,male,"London, United Kingdom","{'bronze': 44, 'silver': 25, 'gold': 4}",4462,68.0,38,47,3433,26,2448200,registered
+2589126,Matthew Adams,male,"Cambridge, United Kingdom","{'bronze': 6, 'silver': 3, 'gold': 0}",404,,0,6,2,0,3055360,registered
+57952,Udi,male,Israel,"{'bronze': 104, 'silver': 76, 'gold': 7}",21676,41.0,21,471,1273,54,23202,registered
+920422,Darren Felton,male,Minnesota,"{'bronze': 17, 'silver': 15, 'gold': 1}",2248,,2,14,555,15,557835,registered
+3267683,Keith Cascio,male,California,"{'bronze': 5, 'silver': 8, 'gold': 2}",2141,,0,2,65,2,3960485,registered
+2573075,Claudiu,male,"Bucharest, Romania","{'bronze': 14, 'silver': 3, 'gold': 0}",351,,10,7,27,0,3034715,registered
+210923,Mark Carey,male,"San Francisco, CA","{'bronze': 9, 'silver': 10, 'gold': 0}",1477,,0,21,37,1,73195,registered
+2319627,Arun Shankar,male,India,"{'bronze': 35, 'silver': 23, 'gold': 2}",2195,75.0,10,84,715,7,2685066,registered
+890095,Germano,male,Italy,"{'bronze': 22, 'silver': 12, 'gold': 0}",2156,,3,78,21,3,797608,registered
+2521815,Tim,male,"Amsterdam, Netherlands","{'bronze': 21, 'silver': 13, 'gold': 1}",1602,75.0,4,35,52,4,2969395,registered
+61996,Maurizio Pozzobon,male,"Trieste, TS, Italia","{'bronze': 41, 'silver': 30, 'gold': 6}",2654,59.0,34,26,146,5,24384,registered
+373032,Einar &#211;lafsson,male,"Berl&#237;n, &#222;&#253;skaland","{'bronze': 21, 'silver': 14, 'gold': 1}",2418,88.0,10,30,185,29,156001,registered
+6171686,Christian Palmer,male,"London, United Kingdom","{'bronze': 10, 'silver': 6, 'gold': 0}",1170,,0,61,29,4,8200074,registered
+1656467,Sergey Zhukov,male,Novosiribrsk,"{'bronze': 20, 'silver': 10, 'gold': 0}",1082,57.0,7,25,44,0,1401532,registered
+13456,Mike G,male,"Gainesville, FL, United States","{'bronze': 60, 'silver': 27, 'gold': 1}",1884,79.0,57,27,464,1,7706,registered
+2187976,Mohamed ALOUANE,male,Morocco,"{'bronze': 49, 'silver': 24, 'gold': 3}",4098,70.0,35,40,55,46,2516691,registered
+560396,Clemens Vasters,male,"Viersen, Germany","{'bronze': 28, 'silver': 13, 'gold': 0}",2518,,0,66,34,7,270447,registered
+646891,Itai Sagi,male,"Tel Aviv, Israel","{'bronze': 68, 'silver': 42, 'gold': 9}",4745,74.0,95,94,199,7,325611,registered
+2132357,Eric,male,"Amsterdam, Netherlands","{'bronze': 18, 'silver': 16, 'gold': 2}",1779,,3,22,15,3,2444689,registered
+5876513,Sanjay Bhalani,male,"Ahmedabad, Gujarat, India","{'bronze': 35, 'silver': 10, 'gold': 0}",1959,64.0,22,117,172,98,7765086,registered
+9479,Christian P.,male,Denmark,"{'bronze': 67, 'silver': 44, 'gold': 6}",4372,72.0,88,49,131,13,5784,registered
+7965720,Juan,male,United States,"{'bronze': 29, 'silver': 22, 'gold': 1}",3777,,0,51,97,21,10831517,registered
+2128901,Matt Wielbut,male,"Boston, MA, USA","{'bronze': 25, 'silver': 19, 'gold': 0}",2168,50.0,5,39,203,2,2440136,registered
+401173,Josh Russo,male,"Rochester, NY, USA","{'bronze': 50, 'silver': 29, 'gold': 1}",2521,76.0,89,51,661,2,172867,registered
+11747861,Mark Wang,male,"London, UK","{'bronze': 9, 'silver': 1, 'gold': 0}",1854,,0,112,81,5,5693168,registered
+3045,Paul D. Eden,male,Utah,"{'bronze': 61, 'silver': 53, 'gold': 16}",16474,90.0,32,26,2026,10,2214,registered
+1174421,Michael,male,"Seattle, WA, USA","{'bronze': 31, 'silver': 26, 'gold': 4}",4862,78.0,34,58,146,25,1204411,registered
+786337,Tarun,male,Bangalore,"{'bronze': 56, 'silver': 38, 'gold': 8}",12923,100.0,11,150,1885,94,412960,registered
+313333,James Little,male,"London, United Kingdom","{'bronze': 11, 'silver': 11, 'gold': 0}",1599,,0,39,17,0,120734,registered
+1392778,Thomas,male,Europe,"{'bronze': 35, 'silver': 20, 'gold': 0}",2677,82.0,11,51,208,15,1484187,registered
+3869092,Petar Butkovic,male,Luxembourg/Croatia,"{'bronze': 11, 'silver': 9, 'gold': 0}",1437,,0,53,5,0,4789495,registered
+601581,Steven,male,Belgium,"{'bronze': 46, 'silver': 49, 'gold': 5}",22777,,0,187,158,5,296559,registered
+4805180,John,male,Los Angeles,"{'bronze': 13, 'silver': 4, 'gold': 0}",375,67.0,9,9,4,0,6164817,registered
+567615,Joris,male,Amsterdam,"{'bronze': 21, 'silver': 10, 'gold': 1}",1147,60.0,6,28,158,2,275018,registered
+3849229,Jan B&#252;hler,male,"Leipzig, Deutschland","{'bronze': 18, 'silver': 2, 'gold': 0}",339,100.0,4,15,135,3,4762078,registered
+936363,Stefano Cazzola,male,Italy,"{'bronze': 35, 'silver': 12, 'gold': 0}",1347,62.0,41,36,75,6,899981,registered
+392946,Gunther,male,Germany,"{'bronze': 32, 'silver': 19, 'gold': 1}",4711,,4,113,215,6,167867,registered
+1302251,Brad Harris,male,"Denver, CO","{'bronze': 12, 'silver': 9, 'gold': 0}",1492,,0,41,47,14,1365802,registered
+2692962,Kleber Mota,male,"Itabuna, Brazil","{'bronze': 149, 'silver': 69, 'gold': 23}",6233,82.0,408,86,584,1,3187825,registered
+2241410,Shailendra Patil,male,"Pune, India","{'bronze': 16, 'silver': 2, 'gold': 0}",367,12.0,10,7,61,0,2585638,registered
+1585,Marius,male,Norway,"{'bronze': 141, 'silver': 119, 'gold': 25}",52098,73.0,69,468,974,75,1191,registered
+6748972,Mikael,male,Finlande,"{'bronze': 6, 'silver': 2, 'gold': 0}",326,,0,4,12,0,9063069,registered
+27081,James Fassett,male,"Vancouver, BC, Canada","{'bronze': 42, 'silver': 32, 'gold': 11}",34480,73.0,27,123,187,7,13471,registered
+2433695,Paul Renton,male,"Dallas, TX","{'bronze': 34, 'silver': 18, 'gold': 4}",2313,93.0,20,55,1573,124,2832376,registered
+1784555,Preston,male,"Austin, TX, United States","{'bronze': 26, 'silver': 14, 'gold': 1}",2295,,2,113,504,5,1990429,registered
+9796205,Francesco Re,male,Italy,"{'bronze': 12, 'silver': 1, 'gold': 0}",375,,8,15,8,2,13579464,registered
+1523063,Ashish singhi,male,"Bangalore, India","{'bronze': 11, 'silver': 3, 'gold': 0}",325,,2,4,6,4,1652826,registered
+1709022,Ronald Hulshof,male,Amsterdam Area,"{'bronze': 19, 'silver': 14, 'gold': 0}",1736,64.0,15,21,19,2,1890913,registered
+415349,David Stinemetze,male,"San Antonio, TX","{'bronze': 33, 'silver': 17, 'gold': 3}",7590,100.0,14,11,194,5,181389,registered
+345652,Ashish Awaghad,male,"Singapore, Singapore","{'bronze': 33, 'silver': 21, 'gold': 3}",2772,57.0,30,14,93,12,139817,registered
+9525143,Nick T,male,"CT, USA","{'bronze': 12, 'silver': 2, 'gold': 0}",324,,41,3,29,1,13187724,registered
+834102,Jason Waldrip,male,"Denver, CO","{'bronze': 54, 'silver': 30, 'gold': 7}",4471,81.0,55,34,59,21,443092,registered
+1643653,James,male,"London, United Kingdom","{'bronze': 22, 'silver': 15, 'gold': 1}",2101,,0,81,350,4,1806676,registered
+1959,Nick Zalutskiy,male,United States,"{'bronze': 48, 'silver': 46, 'gold': 7}",12520,61.0,21,30,387,9,1468,registered
+498776,Thomas Huber,male,"Stuttgart, Baden-Wuerttemberg, Germany","{'bronze': 22, 'silver': 12, 'gold': 1}",1142,83.0,12,10,12,0,233352,registered
+51820,Barry Carr,male,"Montrose, United Kingdom","{'bronze': 11, 'silver': 4, 'gold': 0}",422,,2,10,304,2,21352,registered
+451664,Bryan,male,"Albuquerque, NM, United States","{'bronze': 37, 'silver': 18, 'gold': 1}",1795,89.0,51,3,43,0,203799,registered
+466066,Jose Cherian,male,Singapore,"{'bronze': 32, 'silver': 27, 'gold': 2}",4540,83.0,14,113,568,51,212936,registered
+2929,Dane,male,United States,"{'bronze': 21, 'silver': 23, 'gold': 5}",8273,75.0,5,36,160,0,2123,registered
+67035,Evan,male,"Harpers Ferry, WV, United States","{'bronze': 6, 'silver': 1, 'gold': 0}",362,,1,12,106,4,25918,registered
+98642,Michael Krauklis,male,"Rochester, NY","{'bronze': 27, 'silver': 25, 'gold': 2}",3736,86.0,7,39,498,2,34883,registered
+406076,Ian Oswald,male,"Stillwater, OK","{'bronze': 27, 'silver': 15, 'gold': 3}",1235,91.0,26,11,195,2,175803,registered
+6412922,Vinay Krishna Gupta,male,"Gurgaon, Haryana, India","{'bronze': 11, 'silver': 6, 'gold': 0}",405,,2,15,21,3,8558122,registered
+10670515,Nikola Pavlović,male,Serbia,"{'bronze': 5, 'silver': 2, 'gold': 0}",366,,0,15,6,0,12992345,registered
+39068,Andrey Shchekin,male,"Auckland, New Zealand","{'bronze': 140, 'silver': 84, 'gold': 14}",18801,77.0,177,229,574,191,17453,registered
+63428,Ron DeVera,male,United States,"{'bronze': 36, 'silver': 38, 'gold': 5}",13038,,0,77,292,7,24841,registered
+2675101,Martijn,male,Netherlands,"{'bronze': 18, 'silver': 3, 'gold': 1}",349,100.0,9,12,88,2,3164849,registered
+2013747,Ross Bencina,male,"Melbourne, Australia","{'bronze': 23, 'silver': 13, 'gold': 1}",3167,63.0,28,60,126,2,2179658,registered
+12149471,Andreas Wenzel,male,Germany,"{'bronze': 15, 'silver': 2, 'gold': 1}",2200,,0,101,567,18,16805054,registered
+1393543,Christian Sauer,male,"D&#252;ren, Germany","{'bronze': 65, 'silver': 36, 'gold': 6}",8000,78.0,123,358,353,46,1485116,registered
+3978,Douglas Leeder,male,United Kingdom,"{'bronze': 126, 'silver': 83, 'gold': 8}",46986,86.0,7,896,6637,23,2815,registered
+941490,Juan de la Torre,male,"Boston, MA","{'bronze': 19, 'silver': 9, 'gold': 0}",1221,40.0,5,44,318,2,906756,registered
+6567055,Nathaniel Rand,male,"Charleston, SC, United States","{'bronze': 12, 'silver': 3, 'gold': 0}",329,100.0,17,8,295,0,8784529,registered
+77451,Grant Collins,male,"Boston, MA","{'bronze': 46, 'silver': 30, 'gold': 4}",1795,87.0,63,8,57,0,28863,registered
+27358,David Moles,male,"San Francisco, CA","{'bronze': 198, 'silver': 113, 'gold': 22}",34836,76.0,231,221,1434,395,13566,registered
+2966914,Gilbert,male,"Jacksonville, FL, United States","{'bronze': 10, 'silver': 3, 'gold': 0}",430,,3,3,13,1,3552331,registered
+289219,Robert Kajic,male,"Berlin, Germany","{'bronze': 40, 'silver': 39, 'gold': 3}",7035,33.0,13,72,76,8,109085,registered
+1076703,Vipul Gulhane,male,Bangalore,"{'bronze': 14, 'silver': 6, 'gold': 0}",413,,2,42,345,16,1079267,registered
+92763,Adrian Mester,male,"Oradea, Romania","{'bronze': 20, 'silver': 17, 'gold': 1}",2455,86.0,7,27,125,6,33205,registered
+364951,Claudiu,male,"Oradea, Romania","{'bronze': 29, 'silver': 23, 'gold': 1}",1942,68.0,23,34,505,42,151226,registered
+22250,Dennis S.,male,"Chicago, IL","{'bronze': 12, 'silver': 13, 'gold': 0}",1941,,0,51,57,0,11523,registered
+304689,Joshua Blake,male,"Woodbridge, VA","{'bronze': 7, 'silver': 1, 'gold': 0}",326,,0,6,19,1,116148,registered
+3437758,Niklas P,male,"Nuremberg, Germany","{'bronze': 16, 'silver': 12, 'gold': 2}",2777,83.0,7,103,34,12,4196468,registered
+1201863,Luc,male,The Netherlands,"{'bronze': 34, 'silver': 29, 'gold': 2}",2249,58.0,20,49,2540,39,1100188,registered
+2281175,Amit Kumar,male,"Gurgaon, Haryana, India","{'bronze': 8, 'silver': 2, 'gold': 1}",356,,5,8,0,0,2636726,registered
+55718,Clarence Klopfstein,male,"Cincinnati, OH","{'bronze': 45, 'silver': 28, 'gold': 9}",4014,71.0,32,65,255,28,22547,registered
+1834967,Felix Guo,male,Canada,"{'bronze': 18, 'silver': 10, 'gold': 0}",2552,60.0,5,140,64,22,2057666,registered
+346005,Arnaud Leymet,male,France,"{'bronze': 45, 'silver': 25, 'gold': 4}",4885,100.0,18,77,294,8,140012,registered
+1476062,Dennis Meng,male,"San Francisco, CA","{'bronze': 36, 'silver': 28, 'gold': 9}",4846,,0,158,406,637,1593181,registered
+1697320,Maciej Sz,male,"Wroclaw, Poland","{'bronze': 50, 'silver': 35, 'gold': 6}",8380,60.0,33,89,304,15,1876137,registered
+100184,Tomer Cohen,male,"Haifa, Haifa, Israel","{'bronze': 12, 'silver': 5, 'gold': 0}",378,,2,17,225,44,35377,registered
+696712,Erik Oosterwaal,male,"Waalwijk, Netherlands","{'bronze': 55, 'silver': 30, 'gold': 1}",3552,83.0,45,104,62,13,356894,registered
+1125251,Tom Oakley,male,"London, United Kingdom","{'bronze': 61, 'silver': 34, 'gold': 4}",4679,57.0,78,59,63,52,1141474,registered
+753160,Carl Groner,male,"Los Angeles, CA","{'bronze': 20, 'silver': 14, 'gold': 1}",3451,,0,63,148,1,392105,registered
+9280994,Jonathan R,male,"Munich, Germany","{'bronze': 20, 'silver': 8, 'gold': 1}",1958,,17,71,61,8,12829196,registered
+662525,Skip Huffman,male,"Atlanta, GA","{'bronze': 48, 'silver': 36, 'gold': 8}",4059,82.0,50,11,528,0,335444,registered
+4819857,Diogo Cunha,male,"Braga, Portugal","{'bronze': 23, 'silver': 11, 'gold': 0}",1064,80.0,6,43,50,51,6185666,registered
+821636,Colin M.,male,SFBay,"{'bronze': 17, 'silver': 4, 'gold': 1}",435,75.0,4,6,38,1,435179,registered
+308606,Maurice Svay,male,"Paris, France","{'bronze': 6, 'silver': 3, 'gold': 0}",351,,0,5,4,0,117944,registered
+398055,Alex C,male,"Toronto, Canada","{'bronze': 93, 'silver': 59, 'gold': 17}",14164,74.0,99,55,521,4,170962,registered
+198065,Regin Larsen,male,Denmark,"{'bronze': 14, 'silver': 8, 'gold': 0}",1082,,0,18,80,3,67745,registered
+382763,Thomas Mueller,male,Switzerland,"{'bronze': 117, 'silver': 94, 'gold': 11}",42214,92.0,14,755,839,40,161745,registered
+417588,Harish,male,"Chennai, Tamil Nadu, India","{'bronze': 16, 'silver': 6, 'gold': 2}",336,82.0,25,11,254,0,182697,registered
+814463,Tom,male,MPLS,"{'bronze': 44, 'silver': 31, 'gold': 3}",4062,83.0,44,109,437,17,430820,registered
+2078207,Stefan van Gastel,male,"Breda, Netherlands","{'bronze': 19, 'silver': 12, 'gold': 0}",2937,,0,97,54,7,2374442,registered
+59532,Dan,male,"London, England, United Kingdom","{'bronze': 50, 'silver': 39, 'gold': 7}",10645,81.0,30,49,502,17,23688,registered
+4437,Scott Keck-Warren,male,"Saginaw, MI","{'bronze': 31, 'silver': 17, 'gold': 3}",1664,67.0,37,15,1242,7,3122,registered
+49658,Mike Weller,male,United Kingdom,"{'bronze': 143, 'silver': 124, 'gold': 14}",43727,73.0,18,613,558,307,20674,registered
+437283,Kay,male,Germany,"{'bronze': 72, 'silver': 50, 'gold': 4}",11687,88.0,11,273,1758,68,194757,registered
+6255447,Christian Felix,male,"Cologne, Deutschland","{'bronze': 21, 'silver': 5, 'gold': 0}",383,75.0,30,27,104,16,8325148,registered
+8618843,Allen Marshall,male,"Mississippi, United States","{'bronze': 7, 'silver': 1, 'gold': 0}",343,77.0,27,1,34,0,11778224,registered
+799734,Jin-Wook Chung,male,South Korea,"{'bronze': 39, 'silver': 21, 'gold': 1}",3776,100.0,12,86,253,2,421468,registered
+266449,Peter T.B. Brett,male,"Edinburgh, United Kingdom","{'bronze': 19, 'silver': 9, 'gold': 0}",1170,88.0,9,11,95,7,98436,registered
+210462,Luis,male,"Darwin, Australia","{'bronze': 48, 'silver': 28, 'gold': 2}",5749,97.0,41,220,459,22,72990,registered
+1395198,Ivan Klass,male,"Tomsk, Russia","{'bronze': 24, 'silver': 23, 'gold': 2}",5348,,2,78,333,14,1485946,registered
+574588,Michael Erpenbeck,male,"Lake, IL, United States","{'bronze': 7, 'silver': 3, 'gold': 0}",348,,1,8,27,0,279436,registered
+529967,Mike Purcell,male,"Murrieta, CA","{'bronze': 77, 'silver': 44, 'gold': 8}",18318,93.0,96,606,510,32,252138,registered
+778427,Glendon Trullinger,male,"Newport Beach, CA","{'bronze': 33, 'silver': 22, 'gold': 1}",3932,100.0,4,50,244,104,408020,registered
+39605,Brian Surowiec,male,"Howell, NJ","{'bronze': 64, 'silver': 38, 'gold': 7}",16135,83.0,20,50,819,1,17616,registered
+1010868,Tomasz Gawel,male,"Warsaw, Poland","{'bronze': 54, 'silver': 27, 'gold': 3}",7025,69.0,13,91,469,25,994572,registered
+325440,Andrei Schneider,male,Belarus,"{'bronze': 40, 'silver': 27, 'gold': 0}",3540,67.0,17,82,176,4,127933,registered
+3698532,Anton Patsev,male,Russia/Omsk,"{'bronze': 14, 'silver': 5, 'gold': 0}",319,0.0,29,3,51,0,4554426,registered
+4926060,David Meza,male,"Charlotte, NC, USA","{'bronze': 18, 'silver': 10, 'gold': 2}",2155,,3,38,1244,17,6345290,registered
+7600238,Antonio,male,"Padova, PD, Italia","{'bronze': 11, 'silver': 1, 'gold': 0}",327,,3,10,5,1,9157155,registered
+8387889,Andrew Lei,male,"Gilbert, Arizona, USA","{'bronze': 8, 'silver': 2, 'gold': 0}",335,,2,12,7,0,9572517,registered
+611206,Misha,male,"Tel Aviv, Israel","{'bronze': 59, 'silver': 32, 'gold': 4}",4622,76.0,92,79,198,5,302698,registered
+549701,Ami Heines,male,Israel,"{'bronze': 14, 'silver': 5, 'gold': 0}",384,,1,14,23,6,263846,registered
+448979,Cornelius J. van Dyk,male,"Indianapolis, IN","{'bronze': 10, 'silver': 2, 'gold': 0}",348,,2,21,51,0,202117,registered
+196134,Martin Gamulin,male,Croatia,"{'bronze': 24, 'silver': 19, 'gold': 0}",3837,,0,116,578,3,66940,registered
+5454353,Federico Nardi,male,"Rome, Metropolitan City of Rome, Italy","{'bronze': 15, 'silver': 1, 'gold': 0}",321,82.0,26,6,13,0,7134043,registered
+591644,Paul Pettengill,male,"San Francisco, CA","{'bronze': 32, 'silver': 26, 'gold': 1}",4581,83.0,13,40,606,4,290220,registered
+1922352,Vikas Sardana,male,"Delhi, India","{'bronze': 32, 'silver': 13, 'gold': 2}",1269,56.0,15,37,292,16,2170104,registered
+33732,Rob Kennedy,male,"Twin Cities, Minn.","{'bronze': 434, 'silver': 247, 'gold': 18}",152678,67.0,20,2072,3313,449,15786,registered
+140263,Brian Donahue,male,"Philadelphia, PA","{'bronze': 11, 'silver': 13, 'gold': 3}",2892,60.0,6,2,22,0,47369,registered
+3313,Charles K,male,"Austin, TX","{'bronze': 3, 'silver': 3, 'gold': 1}",351,,1,0,0,0,2387,registered
+381333,Konstantin Oznobihin,male,"Rostov-on-Don, Russia","{'bronze': 31, 'silver': 19, 'gold': 0}",4836,,0,120,369,54,160924,registered
+7121513,Ivan Shatsky,male,"Odessa, Ukraine","{'bronze': 14, 'silver': 5, 'gold': 0}",1616,,1,85,87,1,9590422,registered
+2497335,Daniel Gimenez,male,USA,"{'bronze': 58, 'silver': 31, 'gold': 2}",12947,100.0,18,383,314,63,2913606,registered
+5079316,Olivier Melan&#231;on,male,"Montr&#233;al, QC, Canada","{'bronze': 53, 'silver': 30, 'gold': 3}",17334,100.0,31,652,2079,536,6571478,registered
+4853387,Andrey Shandrov,male,"Ukraina, Киев, город Киев, Украина","{'bronze': 10, 'silver': 1, 'gold': 0}",389,64.0,24,9,171,0,6239181,registered
+1654312,Geno Diaz,male,"Irvine, CA, United States","{'bronze': 17, 'silver': 6, 'gold': 1}",321,40.0,20,7,27,0,1820057,registered
+58791,Marc Climent,male,"Valencia, Spain","{'bronze': 53, 'silver': 45, 'gold': 2}",8361,82.0,13,65,895,4,23447,registered
+2367514,Ankit Sahu,male,"Bangalore, Karnataka, India","{'bronze': 10, 'silver': 3, 'gold': 0}",327,100.0,5,17,13,0,2747370,registered
+521063,Jan Sverre,male,Norway,"{'bronze': 25, 'silver': 19, 'gold': 1}",4011,100.0,6,70,222,10,246759,registered
+1385614,Mohsen Esmailpour,male,"Tehran, Iran","{'bronze': 53, 'silver': 33, 'gold': 1}",8109,55.0,14,294,408,27,1474979,registered
+135435,Gordon Potter,male,"Seattle, WA","{'bronze': 58, 'silver': 34, 'gold': 7}",5444,70.0,58,39,274,3,45889,registered
+44715,Riho,male,Estonia,"{'bronze': 44, 'silver': 28, 'gold': 2}",4413,81.0,41,225,618,42,19179,registered
+704905,Piotr Kukielka,male,"Krakow, Poland","{'bronze': 39, 'silver': 28, 'gold': 3}",3562,79.0,23,31,37,2,361972,registered
+451847,Tim van Dalen,male,Netherlands,"{'bronze': 39, 'silver': 20, 'gold': 3}",1350,97.0,29,8,184,3,203923,registered
+2746911,Manuel,male,"Paris, France","{'bronze': 3, 'silver': 2, 'gold': 0}",341,,1,1,0,0,3261382,registered
+453614,Alexander Sagen,male,Norway,"{'bronze': 15, 'silver': 15, 'gold': 1}",3848,,1,58,78,5,205057,registered
+359287,Alan Christopher Thomas,male,"Windsor, CO, USA","{'bronze': 22, 'silver': 18, 'gold': 1}",4193,,3,27,138,1,147870,registered
+46529,Russ,male,United States,"{'bronze': 16, 'silver': 6, 'gold': 1}",323,78.0,9,1,13,0,19750,registered
+73670,Scott Lundberg,male,"Bozeman, MT","{'bronze': 10, 'silver': 1, 'gold': 0}",394,,3,14,43,1,27785,registered
+783410,Rafik Bari,male,"Algiers, Algeria","{'bronze': 115, 'silver': 59, 'gold': 15}",4135,64.0,177,47,631,61,411140,registered
+590422,Marc,male,"Zwolle, Netherlands","{'bronze': 16, 'silver': 9, 'gold': 2}",1276,,1,8,272,2,289442,registered
+479317,Eric,male,"Madison, WI, USA","{'bronze': 41, 'silver': 25, 'gold': 4}",1987,77.0,62,20,256,18,221375,registered
+4170646,Joel,male,"Newcastle upon Tyne, United Kingdom","{'bronze': 31, 'silver': 22, 'gold': 3}",13271,,0,34,59,3,5215584,registered
+4912853,Austin Schmidt,male,"Omaha, NE","{'bronze': 13, 'silver': 1, 'gold': 0}",316,,0,13,259,26,6326550,registered
+3671918,David Rauca,male,"Cluj-Napoca, Romania","{'bronze': 14, 'silver': 9, 'gold': 1}",1489,,3,51,36,0,4517554,registered
+1932190,Nikhil,male,Kochi,"{'bronze': 23, 'silver': 9, 'gold': 0}",1400,38.0,18,73,42,3,2039017,registered
+205122,Avinash Sonee,male,"Hyderabad, India","{'bronze': 16, 'silver': 11, 'gold': 1}",1201,44.0,13,1,46,0,70871,registered
+2730985,Jake Chasan,male,United States,"{'bronze': 75, 'silver': 33, 'gold': 5}",5080,77.0,170,82,243,4,3237054,registered
+1304523,Justin DoCanto,male,"Los Angeles, CA","{'bronze': 8, 'silver': 10, 'gold': 0}",1219,,1,6,2,0,1225783,registered
+415352,Paul T,male,"San Francisco, CA","{'bronze': 13, 'silver': 10, 'gold': 0}",1230,88.0,9,11,24,0,181390,registered
+6108030,Aditya pratap singh,male,"Ghaziabad, Uttar Pradesh, India","{'bronze': 10, 'silver': 3, 'gold': 0}",365,100.0,5,2,8,0,8106765,registered
+79419,Rob West,male,"Oxford, United Kingdom","{'bronze': 40, 'silver': 23, 'gold': 1}",4881,79.0,26,91,178,16,29399,registered
+789657,Simon,male,United Kingdom,"{'bronze': 56, 'silver': 39, 'gold': 4}",13685,84.0,48,492,920,778,415074,registered
+1959230,Eric Hotinger,male,United States,"{'bronze': 42, 'silver': 33, 'gold': 5}",7324,100.0,7,126,530,817,2219418,registered
+597517,Martin Jambon,male,"Palo Alto, CA, USA","{'bronze': 24, 'silver': 19, 'gold': 2}",4063,,6,50,524,43,293925,registered
+1868534,Graham Gold,male,"Scotland, United Kingdom","{'bronze': 33, 'silver': 21, 'gold': 2}",2187,80.0,20,63,323,18,2100879,registered
+3975459,Prabhat Kumar,male,"Mohali, Punjab, India","{'bronze': 10, 'silver': 3, 'gold': 0}",337,,2,31,25,1,4937804,registered
+1619693,Ali Baig,male,Pakistan,"{'bronze': 41, 'silver': 28, 'gold': 3}",3366,65.0,60,132,782,15,1775885,registered
+1312205,Sergey Chikuyonok,male,"Moscow, Russia","{'bronze': 11, 'silver': 10, 'gold': 0}",2006,,0,82,3,2,1378765,registered
+1662935,Suraj Menon,male,"Bangalore, India","{'bronze': 27, 'silver': 18, 'gold': 1}",1523,63.0,42,13,354,8,1831658,registered
+4836602,Matteo Mazzarolo,male,"Padova, PD, Italia","{'bronze': 16, 'silver': 11, 'gold': 1}",3151,80.0,6,9,27,1,6210082,registered
+1219658,Marc,male,Barcelona,"{'bronze': 6, 'silver': 4, 'gold': 0}",321,,3,6,37,0,1261493,registered
+5093377,Milan Velebit,male,"Serbia, Novi Beograd, Belgrade","{'bronze': 25, 'silver': 8, 'gold': 2}",1295,86.0,18,96,899,156,6592658,registered
+1936950,Viktor K.,male,Europe,"{'bronze': 28, 'silver': 15, 'gold': 2}",2352,76.0,18,52,108,17,2189421,registered
+4104296,Ben Arnao,male,"Glen Rock, NJ, USA","{'bronze': 7, 'silver': 2, 'gold': 0}",324,100.0,11,27,12,0,5120600,registered
+4610605,Felix D.,male,next to my keyboard,"{'bronze': 57, 'silver': 30, 'gold': 4}",3492,90.0,83,128,2121,110,5852250,registered
+1375931,Erik Frantz,male,"Peoria, IL, United States","{'bronze': 13, 'silver': 3, 'gold': 0}",392,67.0,6,1,25,3,1461826,registered
+1481219,Andrey Soloviev,male,"St. Petersburg, Russia","{'bronze': 7, 'silver': 3, 'gold': 0}",410,,0,10,18,1,455674,registered
+934719,Maximilian Hils,male,"M&#252;nster, Germany","{'bronze': 31, 'silver': 17, 'gold': 3}",4357,,3,91,204,10,897843,registered
+631065,Jeff,male,California,"{'bronze': 17, 'silver': 13, 'gold': 0}",1527,,1,51,342,2,315392,registered
+478603,Roman Pominov,male,Russia,"{'bronze': 16, 'silver': 9, 'gold': 1}",1263,50.0,7,30,102,5,220914,registered
+431537,Lorenzo,male,Italy,"{'bronze': 199, 'silver': 113, 'gold': 41}",27319,93.0,274,201,1334,22,191144,registered
+6585293,Colby Cox,male,"Philadelphia, PA, United States","{'bronze': 14, 'silver': 5, 'gold': 1}",1153,33.0,7,3,164,19,8812790,registered
+1706605,Josiah,male,United States,"{'bronze': 48, 'silver': 27, 'gold': 2}",4068,95.0,39,89,393,20,1887720,registered
+414345,Brad,male,"Seattle, WA, United States","{'bronze': 63, 'silver': 37, 'gold': 9}",8564,86.0,65,91,222,34,180792,registered
+385763,Jonas,male,Germany,"{'bronze': 3, 'silver': 2, 'gold': 0}",416,,0,8,7,0,163541,registered
+4909929,Kirill Zhuravlov,male,"Yalta, Ukraine","{'bronze': 20, 'silver': 6, 'gold': 0}",354,100.0,22,21,263,2,6322345,registered
+352672,Nelson,male,Spain,"{'bronze': 75, 'silver': 56, 'gold': 8}",40664,100.0,7,963,844,40,143958,registered
+4848779,Keith - Sonos Dev Advocate,male,"Cambridge, MA","{'bronze': 7, 'silver': 2, 'gold': 0}",431,,0,26,5,0,6232516,registered
+1913086,Martin Solli,male,"Oslo, Norway","{'bronze': 6, 'silver': 1, 'gold': 0}",396,,1,3,11,0,93417,registered
+1887537,Vladimir Shutyuk,male,Russia,"{'bronze': 23, 'silver': 21, 'gold': 1}",2716,,1,25,257,2,2125157,registered
+5902558,Michael Bedford,male,"Temecula, CA, United States","{'bronze': 34, 'silver': 9, 'gold': 0}",1371,88.0,87,30,49,0,7804193,registered
+1317759,Ted Lowery,male,"Raleigh, NC, United States","{'bronze': 7, 'silver': 11, 'gold': 2}",1475,0.0,4,5,0,0,1385638,registered
+1472685,Tim Copenhaver,male,"Olathe, KS","{'bronze': 18, 'silver': 8, 'gold': 0}",3056,,1,120,168,11,1588920,registered
+3351176,Jason Berryman,male,"London, UK","{'bronze': 30, 'silver': 15, 'gold': 0}",2751,67.0,12,79,48,3,4080573,registered
+6315719,Ahmed Salama,male,"Cairo Governorate, Egypt","{'bronze': 14, 'silver': 8, 'gold': 1}",2650,,0,160,21,27,8414983,registered
+339440,Stephen R,male,"Mt Prospect, IL","{'bronze': 32, 'silver': 13, 'gold': 1}",1986,96.0,46,116,566,52,136131,registered
+9771840,Marc Estrada,male,Spain,"{'bronze': 19, 'silver': 7, 'gold': 0}",1384,,3,49,245,52,13545353,registered
+1362815,Ludo - Off the record,male,"Amsterdam, Netherlands","{'bronze': 19, 'silver': 27, 'gold': 4}",3583,,1,33,125,30,1443421,registered
+979590,Gabriel Belingueres,male,"Buenos Aires, Argentina","{'bronze': 28, 'silver': 19, 'gold': 1}",2701,38.0,9,57,252,3,953960,registered
+752920,Ankit,male,"Burnaby, British Columbia, Canada","{'bronze': 76, 'silver': 41, 'gold': 8}",5223,79.0,93,54,417,73,391958,registered
+103072,Gary Chambers,male,"Boston, MA","{'bronze': 10, 'silver': 9, 'gold': 1}",1161,,1,17,15,2,36179,registered
+1352896,Shmuel Fine,male,"Kiryat Ye&#39;arim, Israel","{'bronze': 4, 'silver': 1, 'gold': 0}",341,,0,16,6,0,1430361,registered
+7364951,Ivan Ruski,male,"Sofia, България","{'bronze': 12, 'silver': 7, 'gold': 0}",414,,11,8,231,1,7190268,registered
+1264826,Tim O&#39;Brien,male,United States,"{'bronze': 36, 'silver': 27, 'gold': 4}",8742,,2,51,299,112,21377,registered
+4376,Nathan Long,male,"Athens, Georgia, United States","{'bronze': 402, 'silver': 303, 'gold': 87}",107580,64.0,360,288,1749,57,3082,registered
+4254924,Mohan Singh,male,"Chandigarh,India","{'bronze': 21, 'silver': 13, 'gold': 1}",1134,62.0,10,35,273,5,5335944,registered
+87298,Edward Anderson,male,"Durham, NC","{'bronze': 47, 'silver': 46, 'gold': 4}",11299,67.0,7,83,1279,56,31708,registered
+727074,Adam Lynch,male,"Cork, Ireland","{'bronze': 61, 'silver': 29, 'gold': 4}",3211,71.0,66,46,113,7,375942,registered
+59910,Todd,male,"Destin, FL","{'bronze': 10, 'silver': 4, 'gold': 1}",406,71.0,8,1,33,0,23796,registered
+301552,Tom Morgan,male,"Norwich, United Kingdom","{'bronze': 28, 'silver': 16, 'gold': 0}",2255,80.0,12,109,43,2,114729,registered
+833409,Sedat Kumcu,male,"Ankara, Turkey","{'bronze': 12, 'silver': 10, 'gold': 0}",1176,,0,19,322,12,442674,registered
+1104979,Nick Barnes,male,"Melbourne, Australia","{'bronze': 42, 'silver': 27, 'gold': 2}",13345,,0,350,973,288,1062483,registered
+350188,Stephen Turner,male,"Twickenham, United Kingdom","{'bronze': 64, 'silver': 39, 'gold': 3}",6217,63.0,25,201,432,64,142456,registered
+3564943,Andris,male,Latvia,"{'bronze': 19, 'silver': 12, 'gold': 0}",1073,,6,57,356,8,4370369,registered
+452274,Matt,male,United States,"{'bronze': 62, 'silver': 49, 'gold': 5}",12987,100.0,33,142,1041,2,204208,registered
+945827,Rolf,male,Belgium,"{'bronze': 9, 'silver': 3, 'gold': 0}",402,,3,11,1028,3,912275,registered
+1194716,Doug Conran,male,Cambridge,"{'bronze': 16, 'silver': 4, 'gold': 1}",353,55.0,28,16,20,0,1229912,registered
+1317805,James Donnelly,male,"Reading, United Kingdom","{'bronze': 183, 'silver': 179, 'gold': 26}",110507,90.0,59,1568,2703,409,1385695,registered
+1488294,Hugo Logmans,male,"Apeldoorm, Netherlands","{'bronze': 14, 'silver': 15, 'gold': 1}",2094,50.0,5,85,75,1,1608770,registered
+335514,Jason,male,Maine,"{'bronze': 118, 'silver': 68, 'gold': 10}",6892,96.0,173,97,101,11,133834,registered
+253133,Dane Larsen,male,"Boulder, CO","{'bronze': 27, 'silver': 16, 'gold': 2}",1404,77.0,22,3,45,0,92352,registered
+212870,Alan Stokes,male,"London, United Kingdom","{'bronze': 59, 'silver': 37, 'gold': 3}",17984,,1,607,3220,191,74000,registered
+483536,Wayne,male,"San Diego, CA","{'bronze': 23, 'silver': 20, 'gold': 1}",4216,,1,241,91,8,223991,registered
+7569156,Marius Melzer,male,"Dresden, Deutschland","{'bronze': 8, 'silver': 2, 'gold': 1}",345,,8,0,9,0,10256437,registered
+345812,Christian Giupponi,male,"Milan, Italy","{'bronze': 92, 'silver': 51, 'gold': 7}",6313,77.0,131,131,523,73,139902,registered
+7887,Fred Yankowski,male,"Batavia, IL","{'bronze': 9, 'silver': 4, 'gold': 1}",399,,2,6,47,0,5033,registered
+33167,Mark Sailes,male,"Leeds, United Kingdom","{'bronze': 17, 'silver': 14, 'gold': 0}",1184,90.0,10,6,46,10,15612,registered
+77194,Dario Quintana,male,"Resistencia, Argentina","{'bronze': 8, 'silver': 15, 'gold': 1}",2896,,2,6,148,30,28784,registered
+7142322,Davit,male,"Abovyan, Armenia","{'bronze': 41, 'silver': 15, 'gold': 4}",6200,,25,304,1824,39,9621094,registered
+195115,Magnus,male,Sweden,"{'bronze': 19, 'silver': 9, 'gold': 1}",1091,33.0,7,8,25,0,66528,registered
+454600,Paul,male,"Santa Clara, CA","{'bronze': 26, 'silver': 17, 'gold': 2}",1682,71.0,8,17,843,3,205710,registered
+2237804,Rasmus Damgaard Nielsen,male,Denmark,"{'bronze': 30, 'silver': 13, 'gold': 2}",1370,82.0,16,7,112,3,2581130,registered
+63349,Dominic Sayers,male,"London, UK","{'bronze': 24, 'silver': 20, 'gold': 2}",1734,,4,29,101,9,24820,registered
+620237,Dave Maple,male,"Tampa, FL, USA","{'bronze': 59, 'silver': 35, 'gold': 2}",6273,97.0,35,135,322,3,308391,registered
+9196560,Olaf,male,"Berlin, Germany","{'bronze': 17, 'silver': 8, 'gold': 2}",1908,,0,104,171,15,12653236,registered
+1538259,Joel Larson,male,Minnesota,"{'bronze': 12, 'silver': 11, 'gold': 1}",2924,,1,12,4,0,1671955,registered
+7909738,Sachin Mishra,male,"Mumbai, Maharashtra, India","{'bronze': 8, 'silver': 3, 'gold': 0}",424,,4,36,2,1,10749870,registered
+1111918,Atif Mahmood,male,Pakistan,"{'bronze': 41, 'silver': 34, 'gold': 2}",7300,83.0,10,51,862,21,1124275,registered
+4220035,Joseph Nields,male,"San Francisco, CA","{'bronze': 40, 'silver': 19, 'gold': 1}",4363,83.0,89,47,336,39,5285870,registered
+446681,Hector Correa,male,New England,"{'bronze': 65, 'silver': 51, 'gold': 7}",23602,,4,389,3840,14,200690,registered
+5746,Erlend,male,"Oslo, Norway","{'bronze': 25, 'silver': 19, 'gold': 0}",4112,40.0,6,156,128,19,3921,registered
+1066915,Fabien Sa,male,Switzerland,"{'bronze': 38, 'silver': 33, 'gold': 2}",6712,,1,77,381,24,197097,registered
+98401,Josef Pfleger,male,"Vienna, Austria","{'bronze': 97, 'silver': 89, 'gold': 15}",71149,89.0,19,211,1594,76,34795,registered
+2845,Matt Connolly,male,"Atlanta, Georgia, United States","{'bronze': 19, 'silver': 12, 'gold': 1}",1164,82.0,11,14,107,6,2067,registered
+370073,Hamed Momeni,male,"Tehran, Iran","{'bronze': 94, 'silver': 55, 'gold': 8}",7122,79.0,124,152,712,17,154264,registered
+2286267,Vinay Jain,male,"Mumbai, Maharashtra, India","{'bronze': 27, 'silver': 18, 'gold': 0}",1593,71.0,11,54,103,14,2642974,registered
+2624986,Anand Jha,male,India,"{'bronze': 26, 'silver': 20, 'gold': 4}",8258,70.0,12,108,81,4,3100829,registered
+2646358,Philip Feldmann,male,"Wiesbaden, Germany","{'bronze': 44, 'silver': 17, 'gold': 3}",4335,96.0,54,111,888,188,3127825,registered
+1446368,Ivo,male,"Ruse, Bulgaria","{'bronze': 31, 'silver': 15, 'gold': 1}",1238,94.0,38,9,194,4,1354349,registered
+4414938,Adrian Chrostowski,male,"Warsaw, Poland","{'bronze': 22, 'silver': 4, 'gold': 0}",365,86.0,23,9,82,2,5568743,registered
+698678,Brenden Kehren,male,Wisconsin,"{'bronze': 25, 'silver': 12, 'gold': 0}",5219,75.0,6,352,241,43,358114,registered
+1603746,Michael Fromin,male,USA,"{'bronze': 27, 'silver': 15, 'gold': 2}",9162,,2,638,11,32,1755616,registered
+23264,Peter Parker,male,"New York, NY","{'bronze': 77, 'silver': 43, 'gold': 5}",25458,100.0,6,321,798,14,11941,registered
+23234,Jeff Yates,male,"Austin, TX","{'bronze': 180, 'silver': 133, 'gold': 18}",56579,85.0,41,559,2397,181,11929,registered
+194229,Ian,male,"Wales, United Kingdom","{'bronze': 32, 'silver': 16, 'gold': 1}",3259,95.0,20,41,246,32,66141,registered
+388739,Mark LeMoine,male,"Orange, CA, USA","{'bronze': 45, 'silver': 26, 'gold': 2}",3783,87.0,61,8,229,21,165360,registered
+4670,Steve,male,"Atlanta, GA","{'bronze': 41, 'silver': 20, 'gold': 0}",3392,97.0,44,78,934,2,3254,registered
+181453,Eric Kigathi,male,Connecticut,"{'bronze': 19, 'silver': 16, 'gold': 0}",1379,,1,29,718,7,60784,registered
+2641519,Damon,male,"London, United Kingdom","{'bronze': 28, 'silver': 19, 'gold': 7}",2914,100.0,6,152,1152,55,1937629,registered
+103548,Jonathan Kehayias,male,"Boston, MA","{'bronze': 22, 'silver': 20, 'gold': 1}",3272,86.0,8,73,50,8,36326,registered
+974733,Mark Vincze,male,"Amsterdam, Netherlands","{'bronze': 69, 'silver': 33, 'gold': 4}",6263,81.0,87,64,312,7,947873,registered
+495910,Heiner,male,Switzerland,"{'bronze': 27, 'silver': 8, 'gold': 1}",1102,75.0,7,23,273,7,231592,registered
+846758,Kilian Brendel,male,"Munich, Germany","{'bronze': 13, 'silver': 5, 'gold': 0}",435,,2,2,718,4,451074,registered
+1181063,Florian Sesser,male,Munich,"{'bronze': 24, 'silver': 18, 'gold': 1}",5261,,2,22,277,3,1212844,registered
+697692,Dan Baker,male,"New York, NY, USA","{'bronze': 35, 'silver': 17, 'gold': 3}",1487,44.0,50,45,105,3,357490,registered
+1547004,Brendan Abel,male,"Los Angeles, CA","{'bronze': 86, 'silver': 57, 'gold': 8}",24302,86.0,47,658,1980,498,112744,registered
+370550,Jared G,male,Michigan,"{'bronze': 10, 'silver': 10, 'gold': 1}",1168,,2,18,35,2,154541,registered
+5571,Peter Bromberg,male,United States,"{'bronze': 11, 'silver': 8, 'gold': 0}",1460,,1,121,13,2,3816,registered
+2602040,Harish Gopalakrishnan,male,"Coimbatore, India","{'bronze': 11, 'silver': 10, 'gold': 2}",1468,50.0,4,4,1,0,3071484,registered
+8720,Zach,male,"Cary, NC","{'bronze': 32, 'silver': 17, 'gold': 2}",2025,100.0,14,32,189,5,5425,registered
+178695,Mark,male,"Las Vegas, NV","{'bronze': 9, 'silver': 1, 'gold': 0}",368,,1,8,31,2,59750,registered
+384864,Borut Tomazin,male,"Ljubljana, Slovenia","{'bronze': 88, 'silver': 68, 'gold': 8}",7087,96.0,76,58,886,21,163008,registered
+54222,Simon,male,"Bristol, United Kingdom","{'bronze': 40, 'silver': 26, 'gold': 0}",4601,90.0,17,57,99,12,22093,registered
+563744,Peter,male,South Africa,"{'bronze': 49, 'silver': 28, 'gold': 2}",2706,83.0,33,36,467,5,272579,registered
+117588,Eli,male,"San Francisco, CA","{'bronze': 49, 'silver': 37, 'gold': 6}",4344,90.0,32,57,65,8,40579,registered
+739619,Francesco Marchetti-Stasi,male,"Rome, Metropolitan City of Rome, Italy","{'bronze': 12, 'silver': 4, 'gold': 0}",403,50.0,11,6,50,5,383637,registered
+1255181,Waldemar Wosiński,male,"Warsaw, Poland","{'bronze': 27, 'silver': 15, 'gold': 0}",1300,20.0,6,39,315,13,1306229,registered
+284758,Brent Arias,male,"Phoenix, AZ","{'bronze': 199, 'silver': 111, 'gold': 30}",24373,65.0,355,264,208,6,107023,registered
+914121,John kendall,male,"woodstock, ga 30188","{'bronze': 7, 'silver': 4, 'gold': 0}",409,,0,5,163,1,544623,registered
+305637,Dave Clemmer,male,"Seattle, WA","{'bronze': 72, 'silver': 46, 'gold': 11}",3697,100.0,29,53,4632,5,116576,registered
+4043,Sean Lynch,male,Michigan,"{'bronze': 27, 'silver': 16, 'gold': 0}",1564,,4,32,344,2,2851,registered
+162981,Shane Holloway,male,"Colorado Springs, CO, United States","{'bronze': 36, 'silver': 25, 'gold': 3}",5659,100.0,11,42,1564,2,54480,registered
+616971,Ben Trengrove,male,"Sydney, Australia","{'bronze': 54, 'silver': 33, 'gold': 3}",6864,94.0,18,149,494,53,306301,registered
+30618,Noah Witherspoon,male,"San Francisco, CA","{'bronze': 128, 'silver': 123, 'gold': 16}",54819,,3,846,3439,492,14754,registered
+488489,Andrey Novikov,male,"Moscow, Russia","{'bronze': 49, 'silver': 25, 'gold': 5}",5325,84.0,34,25,415,3,227055,registered
+3189029,Will,male,"Portland, OR","{'bronze': 24, 'silver': 12, 'gold': 1}",3810,,1,186,400,18,3819111,registered
+279452,Steve,male,"Berne, Canton of Berne, Switzerland","{'bronze': 27, 'silver': 31, 'gold': 3}",14460,,2,24,556,3,104546,registered
+4881490,Joe B.,male,"Albuquerque, NM, United States","{'bronze': 14, 'silver': 7, 'gold': 0}",1076,,2,56,139,10,6280200,registered
+582010,Daniel N&#228;slund,male,"Bruksvallarna, Sweden","{'bronze': 21, 'silver': 18, 'gold': 3}",1852,91.0,19,14,2795,1,284121,registered
+127525,Matt,male,"Derby, United Kingdom","{'bronze': 37, 'silver': 28, 'gold': 4}",5123,70.0,51,13,177,5,43596,registered
+220559,Christopher Gutteridge,male,"Southampton, MA","{'bronze': 19, 'silver': 17, 'gold': 2}",4047,,3,17,32,7,77220,registered
+2901129,Basil Battikhi,male,"Amman, Jordan","{'bronze': 26, 'silver': 12, 'gold': 0}",2451,100.0,29,165,253,508,3465438,registered
+3764363,Antoine,male,"Gen&#232;ve, Suisse","{'bronze': 19, 'silver': 9, 'gold': 0}",1072,42.0,14,35,164,18,4646123,registered
+859631,Vincent,male,Netherlands,"{'bronze': 40, 'silver': 26, 'gold': 1}",2597,68.0,65,42,136,5,459266,registered
+1406964,Josh W Lewis,male,"Memphis, TN","{'bronze': 19, 'silver': 11, 'gold': 0}",1249,,0,20,45,1,1502899,registered
+3904333,John Peter,male,"Chennai, Tamil Nadu, India","{'bronze': 12, 'silver': 1, 'gold': 0}",373,,5,23,16,1,4838567,registered
+665992,Antti Pihlaja,male,"Tampere, Finland","{'bronze': 14, 'silver': 4, 'gold': 0}",432,,2,15,88,0,337619,registered
+5765298,Garrett R,male,California,"{'bronze': 14, 'silver': 7, 'gold': 0}",2501,,0,140,135,52,7600514,registered
+207223,Alon,male,Canada,"{'bronze': 26, 'silver': 15, 'gold': 0}",4672,,2,113,270,1,71650,registered
+1073785,Cian,male,Ireland,"{'bronze': 25, 'silver': 11, 'gold': 2}",1300,68.0,20,8,107,3,1075530,registered
+332517,Rostislav Matl,male,"Brno, Czech Republic","{'bronze': 46, 'silver': 20, 'gold': 3}",3428,58.0,13,237,235,39,132051,registered
+61378,Jay Walker,male,"Dallas, TX, USA","{'bronze': 49, 'silver': 41, 'gold': 5}",4330,91.0,11,47,1651,18,24192,registered
+8182446,Augustin Laville,male,France,"{'bronze': 14, 'silver': 3, 'gold': 0}",376,,2,19,167,37,11148427,registered
+16280,Paul Hammond,male,"London, United Kingdom","{'bronze': 10, 'silver': 14, 'gold': 2}",4738,,1,7,43,0,8925,registered
+2726844,Vince I,male,"Garnet Valley, PA, United States","{'bronze': 13, 'silver': 5, 'gold': 0}",425,,1,21,314,1,3231749,registered
+7166826,Dzmitry Humianiuk,male,"Minsk, Belarus","{'bronze': 7, 'silver': 1, 'gold': 0}",340,,3,23,30,0,9657788,registered
+240428,Adam Kaplan,male,"New York, NY","{'bronze': 16, 'silver': 15, 'gold': 0}",1785,,0,40,57,27,86470,registered
+855475,Martin Taleski,male,"Skopje, Macedonia","{'bronze': 61, 'silver': 29, 'gold': 7}",4158,52.0,59,38,120,7,456618,registered
+8730697,Paul,male,"Marseille, France","{'bronze': 10, 'silver': 1, 'gold': 0}",371,,4,34,8,4,11930768,registered
+4776689,Pavlo,male,"Dnipropetrovs&#39;k, Ukraine","{'bronze': 37, 'silver': 15, 'gold': 2}",1632,61.0,74,35,178,10,6124082,registered
+131926,Steven Sudit,male,United States,"{'bronze': 49, 'silver': 42, 'gold': 0}",18220,,0,482,1923,139,44869,registered
+1908141,Pieter Goosen,male,South Africa,"{'bronze': 49, 'silver': 27, 'gold': 5}",8560,97.0,32,345,371,2055,2152037,registered
+5378116,Pierce,male,"San Francisco, CA, United States","{'bronze': 28, 'silver': 10, 'gold': 0}",2805,76.0,24,87,108,10,7017212,registered
+2580516,Warren Dew,male,"Somerville, MA, United States","{'bronze': 41, 'silver': 27, 'gold': 3}",7931,,0,389,656,72,916980,registered
+564327,Bob Bell,male,"Mont Vernon, NH","{'bronze': 5, 'silver': 2, 'gold': 0}",376,,0,11,80,10,272978,registered
+332155,Nick H247,male,United Kingdom,"{'bronze': 48, 'silver': 41, 'gold': 3}",7546,85.0,23,69,210,5,131854,registered
+1257754,Duane Theriot,male,"Baton Rouge, LA","{'bronze': 10, 'silver': 10, 'gold': 1}",1740,,2,30,99,14,1309438,registered
+5821530,Ricardo Serra,male,"Porto, Portugal","{'bronze': 11, 'silver': 2, 'gold': 0}",336,,0,21,62,11,7682740,registered
+2471,John Owen,male,United Kingdom,"{'bronze': 16, 'silver': 14, 'gold': 1}",1660,,4,3,22,7,1800,registered
+2130086,Awad Haj,male,"Khobar, Eastern Province, Saudi Arabia","{'bronze': 14, 'silver': 5, 'gold': 0}",365,,4,12,141,0,2441762,registered
+375089,Tom,male,"Pynacker, Netherlands","{'bronze': 15, 'silver': 9, 'gold': 2}",1122,75.0,8,6,18,1,157264,registered
+1876174,Mike Henderson,male,"Traverse City, MI","{'bronze': 26, 'silver': 14, 'gold': 0}",1200,89.0,22,55,96,0,2110850,registered
+549699,Paul S,male,"Portland, OR","{'bronze': 12, 'silver': 12, 'gold': 1}",1266,,2,8,28,0,263844,registered
+1473140,Sergey Kamardin,male,"Moscow, Russia","{'bronze': 19, 'silver': 15, 'gold': 1}",1406,71.0,14,9,146,9,1559413,registered
+67834,Eliot Sykes,male,"London, United Kingdom","{'bronze': 50, 'silver': 40, 'gold': 5}",7397,60.0,28,86,998,65,26164,registered
+1356980,Tony Brasunas,male,"Alameda, CA, USA","{'bronze': 29, 'silver': 22, 'gold': 1}",1828,81.0,21,31,680,3,1435486,registered
+1712345,Brandon Trecki,male,"Pittsburgh, PA","{'bronze': 13, 'silver': 3, 'gold': 0}",396,,0,25,121,7,1895213,registered
+1168892,Dominik Schreiber,male,Germany,"{'bronze': 29, 'silver': 18, 'gold': 0}",2099,59.0,22,62,411,4,1197491,registered
+334852,Pablo,male,"Ensenada, Mexico","{'bronze': 29, 'silver': 34, 'gold': 2}",8203,,3,156,561,15,133465,registered
+2852849,Eugene,male,Minneapolis,"{'bronze': 29, 'silver': 9, 'gold': 1}",1522,31.0,36,8,39,16,3400576,registered
+335415,Dan Ray,male,"Greensboro, NC","{'bronze': 86, 'silver': 59, 'gold': 6}",21117,83.0,64,464,166,18,133778,registered
+2380618,Phil Anderson,male,London,"{'bronze': 23, 'silver': 10, 'gold': 0}",2976,,3,122,29,18,2764445,registered
+886539,Simon Arnold,male,"Montreal, Canada","{'bronze': 79, 'silver': 55, 'gold': 4}",13448,93.0,52,209,1644,34,475928,registered
+2554824,Russell Richie,male,"Philadelphia, PA, USA","{'bronze': 10, 'silver': 3, 'gold': 1}",345,,4,4,319,0,3011383,registered
+336623,Mark S.,male,"Lansdale, PA, United States","{'bronze': 26, 'silver': 15, 'gold': 1}",1456,79.0,15,14,51,1,134462,registered
+75528,Paul Hedderly,male,United Kingdom,"{'bronze': 12, 'silver': 14, 'gold': 2}",3157,,4,12,107,16,28303,registered
+1025412,Madis N&#245;mme,male,Estonia,"{'bronze': 21, 'silver': 11, 'gold': 2}",1124,57.0,15,23,116,2,1013290,registered
+543128,Stefanos Kalantzis,male,Greece,"{'bronze': 21, 'silver': 14, 'gold': 0}",1442,71.0,11,37,53,4,259905,registered
+5078760,William Park,male,"Northern Ireland, United Kingdom","{'bronze': 14, 'silver': 7, 'gold': 0}",1099,67.0,10,24,21,3,6570590,registered
+5401784,Jim Kloet,male,"Chicago, IL, USA","{'bronze': 6, 'silver': 1, 'gold': 0}",365,,2,17,16,0,7053545,registered
+3442309,Henry S,male,"Oxford, UK","{'bronze': 21, 'silver': 9, 'gold': 1}",2933,,0,81,65,3,4202531,registered
+8300752,Anton ismailov,male,"Minsk, Belarus","{'bronze': 4, 'silver': 3, 'gold': 0}",324,,0,1,25,0,11320222,registered
+51197,Adam Matan,male,"Tel Aviv, Israel","{'bronze': 476, 'silver': 308, 'gold': 110}",93826,80.0,492,271,3694,38,21147,registered
+4699676,Alexej Sommer,male,Russia,"{'bronze': 21, 'silver': 10, 'gold': 1}",2366,88.0,14,177,118,4,5980413,registered
+1330984,Tom,male,"Sydney, Australia","{'bronze': 101, 'silver': 56, 'gold': 9}",13310,94.0,156,25,214,2,1402485,registered
+8387639,Maciej Haj,male,"Gdańsk, Poland","{'bronze': 8, 'silver': 4, 'gold': 1}",422,,1,0,71,1,7922887,registered
+5968600,Cosmin Ababei,male,"Iași, Iași County, Romania","{'bronze': 36, 'silver': 15, 'gold': 2}",6512,,1,88,1211,88,7901780,registered
+4227836,Felix,male,"Hamburg, Deutschland","{'bronze': 16, 'silver': 9, 'gold': 1}",2070,75.0,11,4,147,1,5296903,registered
+28950,Aaron,male,"Indianapolis, IN, United States","{'bronze': 22, 'silver': 24, 'gold': 2}",3442,100.0,4,17,449,1,14177,registered
+27800,Peter Miehle,male,"Kiel, Germany","{'bronze': 52, 'silver': 33, 'gold': 2}",5675,69.0,20,294,1667,64,13751,registered
+2461638,David Foerster,male,"Berlin, Germany","{'bronze': 21, 'silver': 11, 'gold': 1}",1281,,1,35,327,22,2867658,registered
+817969,Brandon Baker,male,"Bedford, IN","{'bronze': 15, 'silver': 10, 'gold': 0}",1112,75.0,4,20,201,0,432923,registered
+3298354,Dave Cullum,male,Canada,"{'bronze': 29, 'silver': 15, 'gold': 1}",6615,,5,285,276,192,4002771,registered
+57457,Fritz G. Mehner,male,"Schwielowsee, Potsdam-Mittelmark, Germany","{'bronze': 37, 'silver': 27, 'gold': 2}",13626,,0,213,5,0,23043,registered
+347833,Vasyl,male,Ukraine,"{'bronze': 26, 'silver': 14, 'gold': 0}",1136,100.0,4,34,458,0,141076,registered
+2776426,Dinesh,male,India,"{'bronze': 31, 'silver': 17, 'gold': 4}",3404,65.0,36,214,281,5,3300052,registered
+1322179,Ben,male,"Redwood City, CA, USA","{'bronze': 58, 'silver': 27, 'gold': 4}",5369,89.0,79,71,287,3,1391434,registered
+200394,Daniel,male,"San Francisco, CA","{'bronze': 46, 'silver': 37, 'gold': 5}",6606,78.0,55,112,173,1,68742,registered
+739373,Daniel B.,male,"Richmond, VA, USA","{'bronze': 33, 'silver': 12, 'gold': 1}",1272,78.0,25,25,1338,2,383491,registered
+4601706,Dave D,male,"Scottsdale, AZ","{'bronze': 8, 'silver': 3, 'gold': 0}",431,,2,5,4,2,5839716,registered
+259525,Adam Morris,male,"Columbus, Ohio","{'bronze': 64, 'silver': 42, 'gold': 6}",6798,97.0,37,122,180,3,95252,registered
+1441822,Shyam Shingadiya,male,"Pune, Maharashtra, India","{'bronze': 34, 'silver': 17, 'gold': 1}",3133,83.0,8,209,156,23,1548975,registered
+1025222,Axel Isouard,male,"Paris, France","{'bronze': 34, 'silver': 22, 'gold': 1}",1810,100.0,11,37,776,45,1013065,registered
+495262,Matt Smith,male,"Novi, MI","{'bronze': 94, 'silver': 45, 'gold': 5}",15029,89.0,47,147,1388,322,231184,registered
+1362136,Stephen Byrne,male,"Limerick City, Ireland","{'bronze': 48, 'silver': 27, 'gold': 1}",6712,88.0,8,248,506,16,1442436,registered
+573976,Jesper,male,Sweden,"{'bronze': 52, 'silver': 35, 'gold': 3}",6637,64.0,11,164,370,50,279045,registered
+469285,Ben Rabidou,male,"Boston, MA","{'bronze': 5, 'silver': 2, 'gold': 0}",355,,0,5,20,1,214977,registered
+1378549,David M,male,Northern Virginia,"{'bronze': 17, 'silver': 12, 'gold': 1}",2359,,2,81,22,69,1465622,registered
+1988097,Darius X.,male,"Farmington Hills, Michigan 48331, United States","{'bronze': 38, 'silver': 21, 'gold': 1}",2494,53.0,39,144,1658,52,2257141,registered
+950465,Kotaro Ezawa,male,"Tokyo, Japan","{'bronze': 10, 'silver': 11, 'gold': 3}",1319,67.0,9,0,16,0,918135,registered
+4921525,Diogo Peres,male,"Lisbon, Portugal","{'bronze': 16, 'silver': 5, 'gold': 1}",1144,,4,58,74,5,6338926,registered
+3140932,Jeremy,male,"Los Angeles, CA","{'bronze': 13, 'silver': 3, 'gold': 0}",419,,1,6,48,3,3781640,registered
+1979703,Niklas,male,Germany,"{'bronze': 146, 'silver': 110, 'gold': 24}",17307,87.0,134,132,4745,13,2246480,registered
+6488717,Rahul Patel,male,"Bhavnagar, Gujarat, India","{'bronze': 10, 'silver': 2, 'gold': 0}",318,,2,6,19,1,5149711,registered
+4406670,Daniel L. VanDenBosch,male,"Holland, MI, United States","{'bronze': 32, 'silver': 11, 'gold': 2}",1079,86.0,73,33,182,32,5554924,registered
+88905,Nathan,male,Oregon,"{'bronze': 53, 'silver': 42, 'gold': 8}",5527,89.0,52,58,177,34,32159,registered
+2099012,Roy Longbottom,male,"Essex, United Kingdom","{'bronze': 6, 'silver': 6, 'gold': 1}",1164,,4,76,0,0,2401430,registered
+636579,Tim,male,Germany,"{'bronze': 30, 'silver': 22, 'gold': 2}",6476,,0,145,94,7,319035,registered
+3557350,Tony Nguyen,male,HCMC,"{'bronze': 7, 'silver': 3, 'gold': 0}",428,,1,20,14,0,4359879,registered
+1891919,Rahul Murari,male,"Jaipur, Rajasthan, India","{'bronze': 12, 'silver': 4, 'gold': 1}",319,50.0,8,7,21,0,2131100,registered
+6246044,Rory Daulton,male,"Lewistown, PA","{'bronze': 39, 'silver': 28, 'gold': 5}",17776,,0,602,817,1989,4706108,registered
+1682432,Ian Holden,male,"Kent, United Kingdom","{'bronze': 10, 'silver': 2, 'gold': 1}",321,75.0,4,10,57,0,1857098,registered
+2591194,Moritz Schmitz v. H&#252;lst,male,"Berlin, Germany","{'bronze': 38, 'silver': 17, 'gold': 2}",1573,81.0,51,40,473,10,3057928,registered
+536517,Vahan Margaryan,male,Armenia,"{'bronze': 3, 'silver': 3, 'gold': 0}",368,,0,5,33,0,256055,registered
+1554,Brad Wilson,male,"Redmond, WA, United States","{'bronze': 81, 'silver': 68, 'gold': 8}",55520,,4,226,459,14,1171,registered
+1897374,Kirill Shalnov,male,"Russia, N.Novgorod","{'bronze': 20, 'silver': 14, 'gold': 1}",2074,,1,56,197,28,2138095,registered
+648707,Joseph Jaramillo,male,"Portland, OR","{'bronze': 6, 'silver': 3, 'gold': 0}",391,,0,7,12,0,326757,registered
+2943218,Carsten L&#248;vbo Andersen,male,"Hadsten, Danmark","{'bronze': 63, 'silver': 35, 'gold': 9}",18729,100.0,54,887,519,1789,3520895,registered
+4477818,Alexandru Olaru,male,"Chisinau, Moldova","{'bronze': 46, 'silver': 18, 'gold': 3}",5078,100.0,18,244,420,16,5659861,registered
+6598376,Dennis,male,"New York, NY, United States","{'bronze': 10, 'silver': 4, 'gold': 1}",361,43.0,9,0,30,0,8832729,registered
+1599937,Aleksei Bulgak,male,"Minsk, Belarus","{'bronze': 60, 'silver': 35, 'gold': 6}",5147,82.0,61,73,1595,20,1750817,registered
+2054675,Ilir V. Gruda,male,"Pej&#235;, Kosovo","{'bronze': 23, 'silver': 13, 'gold': 3}",1127,67.0,18,3,44,0,2343943,registered
+4373707,Miguel A. Arilla,male,"Barcelona, Spain","{'bronze': 23, 'silver': 10, 'gold': 1}",2800,73.0,17,11,51,2,5505823,registered
+1428895,Sunny Agarwal,male,"New Delhi, India","{'bronze': 31, 'silver': 14, 'gold': 2}",1179,73.0,33,7,34,1,1531869,registered
+926993,Erik Ghonyan,male,"Stockholm, Sweden","{'bronze': 12, 'silver': 4, 'gold': 0}",419,,2,16,88,6,888053,registered
+5348281,Mykola,male,"Lviv, Ukraine","{'bronze': 39, 'silver': 19, 'gold': 6}",3071,86.0,7,120,2551,9,6972397,registered
+29771,Glenn,male,"Boulder, CO","{'bronze': 39, 'silver': 26, 'gold': 4}",6125,91.0,12,101,271,5,14461,registered
+2755,Jay Corbett,male,"Austin, TX, United States","{'bronze': 73, 'silver': 52, 'gold': 20}",25109,90.0,39,145,736,10,2004,registered
+186848,Jim Lamb,male,"Cary, NC","{'bronze': 46, 'silver': 38, 'gold': 6}",22949,73.0,16,194,160,15,63032,registered
+150552,Kevin Lamping,male,"San Antonio, TX, United States","{'bronze': 19, 'silver': 14, 'gold': 0}",1884,,1,76,162,3,50466,registered
+2414847,Ben Stinton,male,London,"{'bronze': 17, 'silver': 6, 'gold': 1}",381,75.0,14,11,54,0,2808001,registered
+977687,Caio Tarifa,male,"Ribeirao Preto, Brazil","{'bronze': 69, 'silver': 43, 'gold': 11}",5501,70.0,70,23,118,26,951678,registered
+9291557,Ezra Siton,male,Israel,"{'bronze': 12, 'silver': 5, 'gold': 2}",1732,,2,102,35,33,7711563,registered
+385623,Ciprian,male,"Bucharest, Romania","{'bronze': 71, 'silver': 41, 'gold': 2}",2168,85.0,256,30,320,10,163459,registered
+1997852,Elliott B,male,United States,"{'bronze': 14, 'silver': 1, 'gold': 0}",352,20.0,29,5,67,4,2219039,registered
+37176,Andrew,male,Australia,"{'bronze': 29, 'silver': 22, 'gold': 2}",3452,100.0,8,4,731,2,16860,registered
+104533,Adam Goode,male,"Pittsburgh, PA","{'bronze': 33, 'silver': 25, 'gold': 3}",6856,88.0,9,88,551,8,36637,registered
+5296404,Pierre Cordier,male,"Paris, France","{'bronze': 15, 'silver': 2, 'gold': 0}",434,,3,10,197,1,6893788,registered
+867681,Rod Burns,male,"Edinburgh, UK","{'bronze': 21, 'silver': 6, 'gold': 0}",1186,,3,64,45,3,464280,registered
+148091,Brett,male,"Philadelphia, PA 19147, USA","{'bronze': 20, 'silver': 16, 'gold': 2}",2061,83.0,6,8,57,3,49697,registered
+2988463,Pavel Patrin,male,"Moscow, Russia","{'bronze': 28, 'silver': 12, 'gold': 1}",1335,59.0,39,39,624,44,3580038,registered
+792750,Mads Ohm Larsen,male,Denmark,"{'bronze': 17, 'silver': 14, 'gold': 3}",1925,63.0,22,18,59,8,417003,registered
+5185646,Dmitry Senkovich,male,"Minsk, Belarus","{'bronze': 48, 'silver': 22, 'gold': 4}",3923,72.0,80,47,1006,5,6728426,registered
+3570517,Abdul Wasae,male,Pakistan,"{'bronze': 48, 'silver': 23, 'gold': 2}",3197,90.0,33,76,1519,28,4378019,registered
+5854819,Joshua Schaeffer,male,"Spanish Fork, UT","{'bronze': 6, 'silver': 2, 'gold': 0}",317,,1,5,13,0,7732032,registered
+2654480,Thomas Cheney,male,Ohio,"{'bronze': 11, 'silver': 1, 'gold': 0}",378,88.0,11,29,17,1,3138503,registered
+1402749,Masoud Darvishian,male,Iran,"{'bronze': 32, 'silver': 23, 'gold': 4}",2496,75.0,20,65,439,3,1497058,registered
+2400785,Matthias Lohr,male,"Koblenz, Deutschland","{'bronze': 27, 'silver': 14, 'gold': 1}",1149,71.0,12,11,141,6,2790445,registered
+1784384,Edward Jiang,male,"San Francisco, CA","{'bronze': 13, 'silver': 14, 'gold': 0}",2093,,1,23,3,0,1990200,registered
+2385808,Fritz Duchardt,male,Berlin,"{'bronze': 46, 'silver': 26, 'gold': 2}",6176,62.0,21,170,253,64,2771244,registered
+988291,Eric Siebeneich,male,"Houston, TX","{'bronze': 6, 'silver': 5, 'gold': 0}",353,,0,8,24,0,964634,registered
+4395287,David Jaw Hpan,male,Myanmar (Burma),"{'bronze': 45, 'silver': 20, 'gold': 1}",4271,44.0,94,392,154,131,5537532,registered
+1704773,Luke,male,Denver,"{'bronze': 11, 'silver': 4, 'gold': 0}",427,,0,20,152,12,1874323,registered
+8560,Jeremy Skinner,male,United Kingdom,"{'bronze': 6, 'silver': 7, 'gold': 1}",1081,,0,20,4,0,5348,registered
+218717,Francisco Alvarado,male,Colombia,"{'bronze': 51, 'silver': 22, 'gold': 1}",2677,73.0,11,62,255,7,76394,registered
+990404,Ben,male,"Nottingham, United Kingdom","{'bronze': 23, 'silver': 12, 'gold': 0}",1394,,3,24,100,8,967170,registered
+4158397,Florian Dreier,male,"M&#252;nchen, Deutschland","{'bronze': 9, 'silver': 5, 'gold': 0}",399,,0,3,25,0,5197854,registered
+782634,Luke Postema,male,"Rochester, NY, United States","{'bronze': 5, 'silver': 1, 'gold': 0}",355,,0,12,5,1,410664,registered
+1121861,Mark Krenitsky,male,United States,"{'bronze': 7, 'silver': 2, 'gold': 0}",317,,1,8,64,0,2498,registered
+1177964,Fedor,male,"Saint Petersburg, Russia","{'bronze': 31, 'silver': 26, 'gold': 3}",1392,,1,18,5080,281,1209043,registered
+258127,Marcel Korpel,male,"Utrecht, Netherlands","{'bronze': 77, 'silver': 55, 'gold': 5}",20107,50.0,6,377,2817,269,94574,registered
+186533,Eric Dennis,male,California,"{'bronze': 10, 'silver': 15, 'gold': 1}",2116,,2,7,0,0,62885,registered
+162634,Victor Sorokin,male,"St. Petersburg, Russia","{'bronze': 46, 'silver': 30, 'gold': 1}",11103,62.0,12,409,1084,4,54362,registered
+249921,Karl Jonathan Ward,male,"Oxford, United Kingdom","{'bronze': 11, 'silver': 3, 'gold': 0}",330,,3,3,4,0,90886,registered
+2832029,Bikram,male,"Pune, Maharashtra, India","{'bronze': 10, 'silver': 1, 'gold': 0}",345,,19,14,14,0,3373288,registered
+38686,Rohan West,male,UK,"{'bronze': 59, 'silver': 32, 'gold': 3}",8944,86.0,43,168,300,82,17325,registered
+1607618,Travis Crum,male,"Indianapolis, Indiana / Ames, Iowa","{'bronze': 20, 'silver': 5, 'gold': 1}",399,100.0,15,1,42,2,1760308,registered
+4277762,Damir Ciganović-Janković,male,"Zagreb, Croatia","{'bronze': 21, 'silver': 4, 'gold': 1}",398,80.0,12,6,1585,8,5368627,registered
+5893316,Martin Backasch,male,Germany,"{'bronze': 22, 'silver': 15, 'gold': 1}",1272,,3,56,1015,14,7789944,registered
+998736,Sergey Demchenko,male,"Canada, Vancouver BC","{'bronze': 24, 'silver': 19, 'gold': 1}",2686,90.0,12,62,238,4,978382,registered
+147670,Barry Jordan,male,"Cape Town, South Africa","{'bronze': 23, 'silver': 19, 'gold': 2}",2538,75.0,8,43,111,1,49587,registered
+3899735,Guido,male,"Groesbeek, Nederland","{'bronze': 31, 'silver': 14, 'gold': 0}",2784,62.0,23,24,194,3,4831684,registered
+640428,Griffin W.,male,"Austin, TX, USA","{'bronze': 27, 'silver': 8, 'gold': 1}",363,95.0,27,19,271,3,321546,registered
+212493,David Glick,male,"Seattle, WA","{'bronze': 23, 'silver': 13, 'gold': 0}",5347,,3,98,102,7,73869,registered
+2211806,Radu Chelariu,male,"Cluj-Napoca, Romania","{'bronze': 11, 'silver': 2, 'gold': 0}",416,,1,16,7,2,2547258,registered
+1248484,Trey Brister,male,Texas,"{'bronze': 5, 'silver': 1, 'gold': 0}",353,,1,9,16,0,1297899,registered
+5491397,Austin Hunter,male,"Nashville, TN, United States","{'bronze': 22, 'silver': 3, 'gold': 0}",398,90.0,52,11,42,0,7191098,registered
+1786137,Anthony,male,UK,"{'bronze': 31, 'silver': 20, 'gold': 0}",2657,100.0,22,89,320,111,1992402,registered
+257712,Isaac Sutherland,male,"Waterloo, Canada","{'bronze': 36, 'silver': 23, 'gold': 4}",2502,82.0,23,13,226,3,94379,registered
+161852,Glenn,male,"Atlanta, GA","{'bronze': 33, 'silver': 19, 'gold': 2}",1234,94.0,16,16,2551,10,54110,registered
+149264,Alexander Gro&#223;,male,"Leipzig, Germany","{'bronze': 31, 'silver': 24, 'gold': 1}",8705,,3,107,329,9,50080,registered
+682324,Andreas,male,Germany,"{'bronze': 33, 'silver': 14, 'gold': 0}",1930,54.0,21,50,105,7,347923,registered
+5324093,Harish Rana,male,India,"{'bronze': 7, 'silver': 3, 'gold': 0}",422,,0,13,23,0,6936301,registered
+156410,David,male,"Sydney, New South Wales, Australia","{'bronze': 64, 'silver': 36, 'gold': 3}",5014,80.0,52,45,130,1,52340,registered
+3817152,Deb,male,"Kolkata, West Bengal, India","{'bronze': 30, 'silver': 9, 'gold': 1}",2515,67.0,13,122,45,41,4718602,registered
+2074887,Jelle,male,"Utrecht, Netherlands","{'bronze': 12, 'silver': 1, 'gold': 0}",339,75.0,4,14,36,0,2370094,registered
+5889360,Jonathan Walton,male,"San Diego, CA, United States","{'bronze': 16, 'silver': 3, 'gold': 0}",401,,2,23,48,0,7783759,registered
+5654530,Anand Yadav,male,"Mumbai, Maharashtra, India","{'bronze': 12, 'silver': 1, 'gold': 0}",333,67.0,14,18,59,0,7434689,registered
+7458914,Dmitry Nichiporenko,male,"Minsk, Belarus","{'bronze': 16, 'silver': 7, 'gold': 0}",364,86.0,8,10,1192,1,10092343,registered
+425616,Jeremy Schrader,male,"Olympia, WA","{'bronze': 9, 'silver': 1, 'gold': 0}",316,,2,11,6,0,187511,registered
+1856384,Martin Weber,male,"Umkirch, Germany","{'bronze': 22, 'silver': 17, 'gold': 4}",3172,56.0,21,5,19,0,2085237,registered
+3430345,Tony Abboud,male,"Abingdon, MD, United States","{'bronze': 12, 'silver': 10, 'gold': 1}",2330,100.0,9,1,17,0,4186743,registered
+1811691,Matthijs Brouns,male,The Netherlands,"{'bronze': 31, 'silver': 21, 'gold': 1}",1734,,2,44,268,109,2026985,registered
+1419586,Harald Brinkhof,male,Belgium,"{'bronze': 32, 'silver': 18, 'gold': 1}",3998,,0,116,309,182,1519477,registered
+555014,Anton Sizikov,male,"Amsterdam, Netherlands","{'bronze': 39, 'silver': 27, 'gold': 1}",8494,89.0,10,282,602,81,267068,registered
+354696,Matteo,male,Italy,"{'bronze': 26, 'silver': 18, 'gold': 3}",1619,64.0,23,11,16,3,145121,registered
+382774,James Addison,male,"Victoria, Canada","{'bronze': 16, 'silver': 13, 'gold': 1}",2999,,1,44,93,5,161752,registered
+636892,Jeremy Smith,male,Brooklyn,"{'bronze': 111, 'silver': 61, 'gold': 17}",12707,75.0,260,41,394,4,319242,registered
+415848,Maarten van Leunen,male,Netherlands,"{'bronze': 10, 'silver': 1, 'gold': 0}",392,,2,19,31,7,181683,registered
+4314475,Ganesh Putta,male,"Hyderabad, Telangana, India","{'bronze': 21, 'silver': 12, 'gold': 0}",2670,12.0,25,195,66,48,5420813,registered
+4068278,Jack Miner Ewes,male,"Los Alamos, NM","{'bronze': 8, 'silver': 10, 'gold': 0}",1236,,0,4,10,0,5068950,registered
+2788395,Boris Leroy,male,France,"{'bronze': 12, 'silver': 2, 'gold': 0}",348,83.0,9,7,31,0,3316033,registered
+138265,Adam Albrecht,male,"Columbus, OH","{'bronze': 35, 'silver': 26, 'gold': 4}",5972,52.0,28,44,60,4,46777,registered
+42165,Johannes Stiehler,male,"Munich, Germany","{'bronze': 13, 'silver': 4, 'gold': 0}",322,75.0,4,5,29,1,18421,registered
+4426091,Brooks,male,Virginia,"{'bronze': 69, 'silver': 38, 'gold': 2}",5207,87.0,61,68,159,0,5585644,registered
+5144943,Moses Schwartz,male,"Monsey, NY, United States","{'bronze': 25, 'silver': 10, 'gold': 1}",1305,,9,54,608,47,6667848,registered
+2116923,Jeffrey Hyer,male,"Cedar City, UT, USA","{'bronze': 5, 'silver': 4, 'gold': 0}",356,,0,3,85,2,1643884,registered
+5691,Rob Gray,male,"Brisbane, Queensland Australia","{'bronze': 34, 'silver': 30, 'gold': 3}",2991,81.0,29,47,225,7,3885,registered
+3111448,Rob,male,"London, United Kingdom","{'bronze': 20, 'silver': 9, 'gold': 0}",1265,,4,44,143,2,3741812,registered
+621278,Anders Zommarin,male,"Stockholm, Sweden","{'bronze': 21, 'silver': 20, 'gold': 1}",5668,,3,63,415,1,309036,registered
+1438393,Amal Murali,male,"Kerala, India","{'bronze': 129, 'silver': 112, 'gold': 16}",66932,,2,1457,2956,1820,1544549,registered
+7554519,Jacob,male,UK,"{'bronze': 15, 'silver': 8, 'gold': 0}",1053,,5,52,267,10,10235344,registered
+1504523,Arno,male,Germany,"{'bronze': 52, 'silver': 28, 'gold': 3}",4484,,4,151,183,21,1629702,registered
+19029,Steve,male,"Washington, DC","{'bronze': 13, 'silver': 14, 'gold': 1}",3136,,0,9,40,10,10149,registered
+3561433,Manish,male,"Mumbai, India","{'bronze': 15, 'silver': 2, 'gold': 0}",344,88.0,11,0,28,1,4365505,registered
+195956,Scott Heaberlin,male,"Columbia, SC","{'bronze': 20, 'silver': 19, 'gold': 1}",3144,,2,132,14,2,66864,registered
+725596,Scott,male,"Brooklyn, NY","{'bronze': 13, 'silver': 11, 'gold': 0}",1168,,1,19,20,0,375024,registered
+240947,Alexander Logger,male,"Penza, Russia","{'bronze': 25, 'silver': 15, 'gold': 1}",1360,50.0,18,14,471,3,86712,registered
+359364,Dimitris,male,"Athens, Greece","{'bronze': 15, 'silver': 3, 'gold': 1}",342,86.0,8,2,270,1,147926,registered
+6708723,Jan Kovař&#237;k,male,"Praha, Česko","{'bronze': 16, 'silver': 8, 'gold': 1}",1342,,1,38,495,2,8999675,registered
+840861,Uttam,male,"Rajkot, India","{'bronze': 30, 'silver': 28, 'gold': 3}",11401,,0,49,186,21,447307,registered
+240004,Randall Hunt,male,"Los Angeles, CA, United States","{'bronze': 38, 'silver': 26, 'gold': 5}",9582,100.0,9,63,410,46,86262,registered
+69934,Michael Siebert,male,"Berlin, Germany","{'bronze': 17, 'silver': 19, 'gold': 1}",2318,83.0,6,10,106,4,26767,registered
+681815,Dmitry Ovsyanko,male,"Moscow, Russia","{'bronze': 6, 'silver': 9, 'gold': 0}",1282,,0,43,0,1,347603,registered
+719247,Paolo Stefan,male,"Padua, Italy","{'bronze': 62, 'silver': 38, 'gold': 4}",8542,100.0,17,143,2627,7,370987,registered
+53158,Simon,male,Australia,"{'bronze': 181, 'silver': 113, 'gold': 15}",28931,85.0,172,224,1174,197,21759,registered
+1292362,Andrey Taritsyn,male,"Moscow, Russia","{'bronze': 26, 'silver': 11, 'gold': 0}",1226,,2,49,41,1,1353501,registered
+386751,Alexander Beletsky,male,"Kiev, Ukraine","{'bronze': 83, 'silver': 55, 'gold': 9}",17386,76.0,66,269,1229,63,164164,registered
+332230,Derek Troy-West,male,"Melbourne, Victoria, Australia","{'bronze': 26, 'silver': 18, 'gold': 1}",2379,82.0,11,45,153,2,131894,registered
+1399126,Franklin P Strube,male,"Washington, DC","{'bronze': 11, 'silver': 15, 'gold': 0}",2145,,0,44,21,2,323576,registered
+15720,Rob Young,male,"London, United Kingdom","{'bronze': 19, 'silver': 8, 'gold': 0}",1150,86.0,9,21,74,7,8669,registered
+190932,Nic Bell,male,"London, England, United Kingdom","{'bronze': 7, 'silver': 2, 'gold': 0}",433,,2,16,11,0,64724,registered
+7954504,Brad Solomon,male,"Washington, DC, USA","{'bronze': 127, 'silver': 79, 'gold': 13}",23013,99.0,148,581,4531,2072,10815338,registered
+895324,Martin Stolz,male,"London, United Kingdom","{'bronze': 19, 'silver': 17, 'gold': 3}",4526,,2,15,69,5,481475,registered
+661140,Roberto,male,"Madrid, Spain","{'bronze': 42, 'silver': 37, 'gold': 2}",6765,83.0,17,128,783,3,334591,registered
+259064,Kumar,male,India,"{'bronze': 11, 'silver': 4, 'gold': 1}",321,50.0,5,1,11,0,95031,registered
+2748818,Ethan Wayne,male,"Minneapolis, MN, United States","{'bronze': 9, 'silver': 3, 'gold': 0}",330,,0,3,11,1,3263923,registered
+4843251,Geraint,male,"London, United Kingdom","{'bronze': 36, 'silver': 17, 'gold': 2}",2536,60.0,30,55,434,13,6224530,registered
+924300,Dimitris Kougioumtzis,male,Greece,"{'bronze': 25, 'silver': 15, 'gold': 1}",1468,,7,59,47,10,874132,registered
+4312466,Jordan Enev,male,Bulgaria,"{'bronze': 54, 'silver': 30, 'gold': 2}",9597,80.0,8,191,697,2,2909180,registered
+5153354,Thomas David Kehoe,male,"Boulder, CO, United States","{'bronze': 57, 'silver': 31, 'gold': 3}",5414,51.0,96,80,236,5,6679782,registered
+1290947,Michał Urban,male,Poland,"{'bronze': 7, 'silver': 4, 'gold': 2}",365,,2,0,1,0,1351454,registered
+4906,Clay Nichols,male,"Blacksburg, VA","{'bronze': 159, 'silver': 98, 'gold': 25}",10667,63.0,265,65,906,23,3400,registered
+1455770,Robert Wagstaff,male,"Melbourne, Australia","{'bronze': 39, 'silver': 22, 'gold': 1}",2534,100.0,6,52,682,3,1567260,registered
+94155,Gary,male,"Melbourne, Australia","{'bronze': 41, 'silver': 18, 'gold': 1}",5324,50.0,5,148,38,43,33594,registered
+1042934,Ognyan Dimitrov,male,Bulgaria,"{'bronze': 60, 'silver': 34, 'gold': 1}",4950,96.0,27,157,5251,31,1035558,registered
+1281947,Garry Cairns,male,"Glasgow, United Kingdom","{'bronze': 29, 'silver': 13, 'gold': 0}",2427,94.0,19,61,91,4,1340099,registered
+2066736,John,male,"Logan, UT","{'bronze': 53, 'silver': 32, 'gold': 1}",5429,88.0,18,96,1221,4,2359774,registered
+569146,Jonathan Wren,male,Seattle,"{'bronze': 28, 'silver': 19, 'gold': 0}",3389,,1,53,181,60,275980,registered
+789380,Victor Chelaru,male,Utah,"{'bronze': 31, 'silver': 22, 'gold': 1}",2698,79.0,50,60,1118,1,414894,registered
+5074,Jay R.,male,"Newport, RI","{'bronze': 61, 'silver': 49, 'gold': 17}",28530,78.0,29,59,798,51,3517,registered
+559144,Davide Piras,male,"Zurich, Switzerland","{'bronze': 133, 'silver': 78, 'gold': 9}",40993,85.0,36,1578,12036,294,269668,registered
+3215485,David Ennis,male,Netherlands,"{'bronze': 19, 'silver': 9, 'gold': 0}",6140,,1,232,109,16,3883533,registered
+1377416,Mark Scheel,male,United States,"{'bronze': 23, 'silver': 17, 'gold': 1}",2903,75.0,10,65,34,2,1463968,registered
+4213,Marcio Aguiar,male,Brazil,"{'bronze': 42, 'silver': 35, 'gold': 6}",12569,80.0,5,60,247,21,2968,registered
+3199911,Konstantinos Kamaropoulos,male,"Athens, Greece","{'bronze': 17, 'silver': 2, 'gold': 0}",382,75.0,4,12,212,34,3862514,registered
+1052931,Philip Whitehouse,male,United Kingdom,"{'bronze': 36, 'silver': 19, 'gold': 3}",3951,,1,147,134,95,1048433,registered
+4588915,Jakub Lortz,male,"Katowice, Poland","{'bronze': 30, 'silver': 17, 'gold': 2}",13388,,0,333,349,58,5820737,registered
+2194424,Michael Saiz,male,"Salzburg, Austria","{'bronze': 20, 'silver': 11, 'gold': 0}",1630,88.0,21,73,102,3,2524860,registered
+665261,Billy Moon,male,"Edinburgh, Scotland, UK","{'bronze': 214, 'silver': 110, 'gold': 19}",48709,70.0,245,907,1095,117,337158,registered
+91551,Richard Dingwall,male,"London, England, United Kingdom","{'bronze': 28, 'silver': 29, 'gold': 0}",2384,89.0,9,27,473,9,32880,registered
+4074057,Thomas Naskali,male,"Valais, Switzerland","{'bronze': 12, 'silver': 3, 'gold': 0}",397,80.0,11,18,139,0,5076931,registered
+587320,Daniel,male,Switzerland,"{'bronze': 43, 'silver': 23, 'gold': 2}",3802,83.0,14,37,823,19,287485,registered
+1512582,Bryan Hobbs,male,"Austin, TX","{'bronze': 4, 'silver': 2, 'gold': 0}",414,,0,15,203,0,1639926,registered
+1459533,Vivek Sable,male,Pune,"{'bronze': 37, 'silver': 27, 'gold': 2}",7566,57.0,73,354,485,4,1572028,registered
+1275255,Ivan Cachicatari,male,Peru,"{'bronze': 38, 'silver': 16, 'gold': 2}",3805,69.0,19,239,179,45,1331415,registered
+7784230,Hemant Kaushik,male,"Chandigarh, India","{'bronze': 19, 'silver': 11, 'gold': 0}",1165,,2,14,622,1,10566004,registered
+2266992,Miomir Dancevic,male,"Belgrade, Serbia","{'bronze': 88, 'silver': 48, 'gold': 9}",5489,60.0,297,175,297,65,2618367,registered
+2435620,Shailendra Pandey,male,India,"{'bronze': 11, 'silver': 2, 'gold': 0}",325,50.0,9,22,7,0,2834830,registered
+6186070,Amit Kumar,male,"Ghaziabad, Uttar Pradesh, India","{'bronze': 12, 'silver': 3, 'gold': 0}",333,29.0,9,11,80,0,8222898,registered
+161182,Patrick Fisher,male,"Thousand Oaks, CA","{'bronze': 24, 'silver': 29, 'gold': 5}",7114,,0,86,170,12,53901,registered
+210801,Doug Blank,male,"Bryn Mawr, PA USA 19010","{'bronze': 30, 'silver': 8, 'gold': 0}",1142,100.0,26,25,103,14,73145,registered
+1041983,Rohan Durve,male,United Kingdom,"{'bronze': 14, 'silver': 2, 'gold': 0}",340,,2,14,19,3,1034281,registered
+91632,Jason,male,"Lafayette, IN","{'bronze': 112, 'silver': 69, 'gold': 20}",14186,86.0,96,36,666,19,32906,registered
+9392586,Giannis Mp,male,"Thessaloniki, Greece","{'bronze': 11, 'silver': 3, 'gold': 0}",1176,,0,56,89,20,12994412,registered
+1740729,Jon,male,"Reading, UK","{'bronze': 10, 'silver': 11, 'gold': 1}",1261,,3,14,52,0,1931416,registered
+190298,Nic,male,"Vancouver, BC, Canada","{'bronze': 27, 'silver': 19, 'gold': 3}",2515,50.0,11,12,405,12,64473,registered
+5494370,Alan Birtles,male,UK,"{'bronze': 38, 'silver': 15, 'gold': 2}",17263,,2,677,515,108,7195349,registered
+12804,Carl Camera,male,"Austin, TX, United States","{'bronze': 19, 'silver': 22, 'gold': 2}",4604,,0,20,111,0,7379,registered
+21277,Josh Sklare,male,"Atlanta, GA","{'bronze': 17, 'silver': 18, 'gold': 3}",3624,,1,10,297,3,11112,registered
+474218,Tobias Klevenz,male,"Heidelberg, Germany","{'bronze': 12, 'silver': 10, 'gold': 0}",1565,,0,74,46,14,218077,registered
+3194722,Jeremy,male,"Los Angeles, CA, United States","{'bronze': 20, 'silver': 10, 'gold': 1}",1418,64.0,13,19,168,7,3855735,registered
+62179,John McDonnell,male,"New York, NY","{'bronze': 17, 'silver': 16, 'gold': 2}",1290,83.0,6,22,238,0,24454,registered
+32429,Glen Little,male,"Calgary, Canada","{'bronze': 64, 'silver': 34, 'gold': 4}",6070,64.0,83,119,352,7,15383,registered
+5233918,Michael McMullin,male,"Dublin, Ireland","{'bronze': 20, 'silver': 9, 'gold': 1}",1225,,5,50,374,10,6800448,registered
+4834226,Toru,male,Tokyo,"{'bronze': 14, 'silver': 2, 'gold': 0}",333,,4,10,52,1,6206366,registered
+1985035,Sumit Kandoi,male,"Gurgaon, Haryana, India","{'bronze': 12, 'silver': 4, 'gold': 0}",427,0.0,7,47,56,0,2253256,registered
+3101777,Misha Akopov,male,"Tbilisi, Georgia","{'bronze': 69, 'silver': 50, 'gold': 26}",7679,79.0,26,108,870,17,3728672,registered
+751651,Harrison Brock,male,"Coldiron, KY","{'bronze': 33, 'silver': 15, 'gold': 1}",1427,100.0,22,55,242,47,391148,registered
+2258784,Francis F,male,"Kochi, Kerala, India","{'bronze': 64, 'silver': 25, 'gold': 3}",2445,,172,53,131,0,2608041,registered
+19892,Aleš Roub&#237;ček,male,"Prague, Czech Republic","{'bronze': 26, 'silver': 22, 'gold': 0}",4816,,1,119,547,17,10508,registered
+5189798,Rajesh Kumar,male,"Jaipur, India","{'bronze': 18, 'silver': 2, 'gold': 0}",402,,11,33,51,0,6734579,registered
+6337259,Ivan Kulezic,male,Serbia,"{'bronze': 12, 'silver': 2, 'gold': 0}",372,88.0,11,11,24,6,8446963,registered
+178800,Mark Chackerian,male,"New York, NY, USA","{'bronze': 80, 'silver': 87, 'gold': 4}",13428,,4,153,629,5,59784,registered
+32432,Christopher Garcia,male,"Bakersfield, CA","{'bronze': 40, 'silver': 27, 'gold': 6}",2356,100.0,39,20,610,17,15384,registered
+5967798,Stefan Moosbrugger,male,"Z&#252;rich, Switzerland","{'bronze': 10, 'silver': 2, 'gold': 0}",397,,3,9,29,7,7900679,registered
+518153,Moshe Simantov,male,"Tel Aviv, Israel","{'bronze': 29, 'silver': 19, 'gold': 1}",2657,70.0,13,23,171,28,244958,registered
+219344,Jens H,male,Germany,"{'bronze': 32, 'silver': 21, 'gold': 2}",4420,,1,227,683,7,76687,registered
+1156790,Eric Genet,male,"London, United Kingdom","{'bronze': 19, 'silver': 9, 'gold': 0}",1250,,1,36,31,6,1182065,registered
+198846,Craig,male,"Cardiff, United Kingdom","{'bronze': 20, 'silver': 18, 'gold': 1}",2141,100.0,10,44,274,1,68073,registered
+6302,James Aylett,male,United Kingdom,"{'bronze': 19, 'silver': 16, 'gold': 0}",3234,,0,76,129,26,4237,registered
+5487673,Simon K,male,Australia,"{'bronze': 17, 'silver': 8, 'gold': 1}",2402,,0,97,158,8,7185591,registered
+1340069,James O&#39;Brien,male,"San Diego, CA","{'bronze': 9, 'silver': 13, 'gold': 1}",1636,,2,12,123,8,1414063,registered
+905422,Mathijs Segers,male,"Eindhoven, Netherlands","{'bronze': 67, 'silver': 38, 'gold': 9}",5159,83.0,80,102,283,96,536418,registered
+598343,Richard Banks,male,"Southampton, United Kingdom","{'bronze': 59, 'silver': 26, 'gold': 4}",2706,66.0,160,50,31,18,294439,registered
+2355006,David Specht,male,"Newtown, OH, United States","{'bronze': 17, 'silver': 13, 'gold': 1}",2574,,1,125,15,2,2731259,registered
+11436,Philippe Grondier,male,"Beirut, Lebanon","{'bronze': 63, 'silver': 23, 'gold': 2}",10115,77.0,31,398,526,99,6724,registered
+781150,Artsiom Rudzenka,male,"Minsk, Minsk, Belarus","{'bronze': 47, 'silver': 29, 'gold': 3}",21343,,3,428,977,11,409735,registered
+929493,Nicklas Pouey-Winger,male,Norway,"{'bronze': 66, 'silver': 40, 'gold': 4}",2743,95.0,110,53,419,64,891278,registered
+1220868,Ganesh Somani,male,"Pune, India","{'bronze': 35, 'silver': 22, 'gold': 1}",1740,73.0,28,74,395,8,1263002,registered
+8390411,Max,male,EU,"{'bronze': 10, 'silver': 4, 'gold': 1}",2282,,0,129,28,37,11446784,registered
+344590,Kent,male,"Austin, TX","{'bronze': 5, 'silver': 2, 'gold': 0}",411,,0,13,29,0,139169,registered
+1661224,Jeff Maner,male,"Tulsa, OK","{'bronze': 21, 'silver': 7, 'gold': 0}",1077,88.0,35,10,113,0,1829318,registered
+204599,Lorenzo Melato,male,Italy,"{'bronze': 16, 'silver': 16, 'gold': 1}",1557,67.0,6,6,420,3,70607,registered
+4432143,Alican Temel,male,Turkey,"{'bronze': 13, 'silver': 12, 'gold': 0}",1208,,3,17,39,1,5593822,registered
+230340,Moshe Revah,male,"Netanya, Israel","{'bronze': 52, 'silver': 52, 'gold': 8}",11526,90.0,24,74,410,16,81741,registered
+831399,Axel Heider,male,"Munich, Germany","{'bronze': 12, 'silver': 2, 'gold': 0}",352,,1,11,74,1,441358,registered
+1182510,Joel Davey,male,London,"{'bronze': 15, 'silver': 15, 'gold': 1}",1657,,4,30,96,22,1214664,registered
+3507464,Albert Oliv&#233;,male,"Barcelona, Spain","{'bronze': 48, 'silver': 36, 'gold': 3}",2694,100.0,22,34,1223,11,4291130,registered
+135850,Paul Schreiber,male,"Brooklyn, NY, United States","{'bronze': 61, 'silver': 33, 'gold': 3}",11828,53.0,18,163,953,21,46021,registered
+3134834,Ahmed Safadi,male,Gaza Strip,"{'bronze': 24, 'silver': 23, 'gold': 0}",2638,25.0,14,70,34,6,3773241,registered
+7267,Mark Phippard,male,"Keene, NH","{'bronze': 37, 'silver': 29, 'gold': 2}",9813,60.0,7,310,68,10,4738,registered
+1030049,Jarno Argillander,male,Finland,"{'bronze': 30, 'silver': 26, 'gold': 1}",5326,86.0,8,69,769,6,1019182,registered
+9428319,Maciej Pulikowski,male,"Wrocław, Polska","{'bronze': 25, 'silver': 7, 'gold': 2}",2068,,1,35,996,4,13046654,registered
+5699206,Joseph Young,male,"Bristol, United Kingdom","{'bronze': 21, 'silver': 9, 'gold': 0}",2638,,1,102,74,101,7246868,registered
+1203904,Terje Sandstr&#248;m,male,"Oslo, Norway","{'bronze': 14, 'silver': 13, 'gold': 0}",1839,,0,42,102,3,1241377,registered
+9326750,Steffen Bach,male,"Leipzig, Deutschland","{'bronze': 6, 'silver': 3, 'gold': 0}",356,,0,3,2,0,12896584,registered
+6713,Matthew Steeples,male,"Settle, United Kingdom","{'bronze': 45, 'silver': 30, 'gold': 3}",7001,85.0,13,199,206,3,4458,registered
+3995346,Maciej W&#243;jcik,male,Poland,"{'bronze': 31, 'silver': 16, 'gold': 0}",1335,52.0,73,87,94,22,4966064,registered
+5489970,Manuel S.,male,Barcelona,"{'bronze': 18, 'silver': 4, 'gold': 0}",381,75.0,11,24,651,4,7188908,registered
+1716509,Kristoffer,male,"Stockholm, Sweden","{'bronze': 24, 'silver': 17, 'gold': 1}",1545,53.0,17,4,22,0,40006,registered
+93559,Thomas Schreiber,male,"Philadelphia, PA, USA","{'bronze': 11, 'silver': 14, 'gold': 2}",1808,,1,11,103,12,33422,registered
+6028118,Krishnamoorthy Acharya,male,Mangalore Karnataka,"{'bronze': 15, 'silver': 18, 'gold': 0}",1464,,1,68,23,4,7989987,registered
+1807374,Gregory Suvalian,male,"Dallas, TX, United States","{'bronze': 36, 'silver': 17, 'gold': 0}",2255,83.0,97,65,21,2,2021264,registered
+3314648,Guillaume,male,"Caen, France","{'bronze': 36, 'silver': 20, 'gold': 4}",2132,77.0,79,23,200,1,2290743,registered
+5695162,Vikas,male,"Pune, Maharashtra, India","{'bronze': 51, 'silver': 26, 'gold': 5}",8427,50.0,10,209,323,573,7494433,registered
+621736,Will Ayd,male,"Baltimore, MD","{'bronze': 36, 'silver': 27, 'gold': 1}",5345,87.0,15,87,312,4,309343,registered
+38021,Tim Harding,male,"London, United Kingdom","{'bronze': 10, 'silver': 13, 'gold': 1}",2187,,3,10,12,0,17128,registered
+2286869,Jonas Lomholdt,male,"K&#248;benhavn, Danmark","{'bronze': 16, 'silver': 5, 'gold': 0}",360,50.0,13,9,496,10,2643735,registered
+45206,Kevin,male,United States,"{'bronze': 9, 'silver': 1, 'gold': 0}",335,,3,9,36,0,19328,registered
+2078368,Sergey Krivenkov,male,Russia,"{'bronze': 8, 'silver': 3, 'gold': 0}",319,,5,6,10,2,2374648,registered
+56044,Michael Brewer-Davis,male,"Chicago, IL, United States","{'bronze': 48, 'silver': 34, 'gold': 5}",13053,71.0,18,284,793,28,22644,registered
+1200182,Robert Messerle,male,"Redwood City, CA","{'bronze': 17, 'silver': 11, 'gold': 0}",2916,,2,112,42,4,1236717,registered
+3708505,Nate Beers,male,"Tampa, FL, USA","{'bronze': 18, 'silver': 11, 'gold': 0}",1177,92.0,22,63,168,13,4567991,registered
+579548,Venkatesh Appala,male,"Hyderabad, India","{'bronze': 12, 'silver': 17, 'gold': 2}",3590,,4,17,8,0,282571,registered
+545491,Jeff Hines,male,"Eugene, OR","{'bronze': 19, 'silver': 16, 'gold': 1}",3341,100.0,5,17,396,6,261366,registered
+1024556,Miroslav Michalec,male,Slovakia,"{'bronze': 19, 'silver': 15, 'gold': 1}",1079,,2,17,687,3,1012241,registered
+1090267,Sebastian Stiehl,male,"Berlin, Germany","{'bronze': 19, 'silver': 12, 'gold': 1}",1802,,1,52,129,1,1096841,registered
+3113342,Austin,male,"San Francisco, CA","{'bronze': 30, 'silver': 18, 'gold': 2}",2178,,4,46,332,2,3744313,registered
+3718246,Dean,male,"Portland, OR","{'bronze': 17, 'silver': 9, 'gold': 0}",1229,,0,41,89,56,4581412,registered
+1169542,Eli DM,male,Israel,"{'bronze': 6, 'silver': 3, 'gold': 0}",376,,1,2,5,0,1198299,registered
+4462,Troels Arvin,male,Denmark,"{'bronze': 26, 'silver': 21, 'gold': 2}",5166,71.0,7,37,87,45,3138,registered
+117839,Michael Wiles,male,"Cape Town, South Africa","{'bronze': 94, 'silver': 61, 'gold': 16}",18634,74.0,101,286,616,16,40662,registered
+388241,Babu Srinivasan,male,"Bangalore, India","{'bronze': 24, 'silver': 21, 'gold': 0}",2179,50.0,8,25,52,1,165080,registered
+2364210,Aaron Antrim,male,"Portland, Oregon","{'bronze': 5, 'silver': 9, 'gold': 1}",1176,,0,2,2,1,2215811,registered
+946402,Janusz &#39;Ivellios&#39; Kamieński,male,"Krak&#243;w, Polska","{'bronze': 16, 'silver': 3, 'gold': 0}",383,83.0,8,12,77,19,913002,registered
+27614,Dan Fitch,male,"Madison, WI","{'bronze': 37, 'silver': 19, 'gold': 2}",2270,92.0,12,47,976,25,13677,registered
+3778,Don Wakefield,male,"Tualatin, OR","{'bronze': 53, 'silver': 29, 'gold': 2}",8115,93.0,22,73,2058,7,2692,registered
+19308,Joshua Drake,male,"Indianapolis, IN, United States","{'bronze': 53, 'silver': 31, 'gold': 2}",2501,83.0,6,89,2905,206,10272,registered
+41122,Nathaniel Reinhart,male,"Portland, OR","{'bronze': 20, 'silver': 8, 'gold': 1}",1093,60.0,5,11,76,0,18092,registered
+91610,Bogdan Gusiev,male,"Kiev, Ukraine","{'bronze': 75, 'silver': 55, 'gold': 14}",7141,77.0,73,42,113,3,32898,registered
+86906,Jeremy Stanley,male,"San Mateo, CA","{'bronze': 21, 'silver': 25, 'gold': 1}",5586,,1,42,21,3,31599,registered
+145536,Allen Liu,male,California,"{'bronze': 46, 'silver': 29, 'gold': 7}",3558,87.0,40,63,1121,12,48937,registered
+1108484,Dmytro Zarezenko,male,"Vinnytsya, Ukraine","{'bronze': 86, 'silver': 49, 'gold': 8}",9572,62.0,106,88,1259,48,1119916,registered
+12793334,Ashish,male,"Delhi, India","{'bronze': 10, 'silver': 0, 'gold': 0}",390,,4,37,7,6,17628816,registered
+1306033,Michael Slade,male,"North Ryde NSW, Australia","{'bronze': 43, 'silver': 33, 'gold': 2}",13208,,1,363,24,21,1370770,registered
+833061,Vlad Ciobanu,male,Romania,"{'bronze': 11, 'silver': 9, 'gold': 1}",1303,,3,33,22,3,442440,registered
+10132786,Goran Kutlaca,male,"Zagreb, Croatia","{'bronze': 18, 'silver': 8, 'gold': 1}",1884,,0,110,566,549,14028251,registered
+8477066,Hielke Walinga,male,"Delft, Netherlands","{'bronze': 17, 'silver': 8, 'gold': 1}",1723,,18,123,610,57,11510547,registered
+205902,Kevin Jones,male,"Birmingham, United Kingdom","{'bronze': 14, 'silver': 13, 'gold': 1}",3367,,5,5,2,0,71210,registered
+523612,Karl Knechtel,male,"Toronto, Canada","{'bronze': 106, 'silver': 68, 'gold': 6}",44241,100.0,14,1257,4827,718,248321,registered
+113322,Peter,male,"San Francisco, CA","{'bronze': 10, 'silver': 2, 'gold': 0}",343,,2,6,47,0,39316,registered
+2266586,Muhammad Faraz,male,"Karachi, Pakistan","{'bronze': 41, 'silver': 23, 'gold': 6}",3476,48.0,36,20,207,8,2617873,registered
+4516797,Taras Vovkovych,male,"Kyiv city, Ukraine","{'bronze': 16, 'silver': 12, 'gold': 1}",2285,,1,23,906,1,5716957,registered
+2165165,Vikas Singh,male,Pune,"{'bronze': 27, 'silver': 13, 'gold': 4}",1862,59.0,32,14,165,9,2486888,registered
+4407266,Aditya Vyas-Lakhan,male,"Rajkot, Gujarat, India","{'bronze': 86, 'silver': 46, 'gold': 13}",11435,95.0,55,466,982,139,5043336,registered
+517068,Steven,male,"Bozeman, MT","{'bronze': 11, 'silver': 11, 'gold': 1}",1071,,1,6,13,0,244338,registered
+6575455,Aliaksandr Maksimau,male,Belarus,"{'bronze': 19, 'silver': 8, 'gold': 0}",2113,,1,73,9,5,8798277,registered
+4998135,Nico,male,"Trier, Germany","{'bronze': 31, 'silver': 14, 'gold': 0}",1353,95.0,28,61,143,34,6451300,registered
+1117914,Matthew,male,"Cape Town, South Africa","{'bronze': 40, 'silver': 19, 'gold': 2}",3531,76.0,39,112,104,8,1132041,registered
+695659,Brandon Meyer,male,"Olathe, KS","{'bronze': 14, 'silver': 2, 'gold': 0}",349,80.0,5,7,29,1,356261,registered
+2445111,Amit Bisht,male,"Pune, India","{'bronze': 77, 'silver': 43, 'gold': 10}",3877,76.0,62,68,731,45,2846997,registered
+394663,Ben Crowhurst,male,Great Britain,"{'bronze': 69, 'silver': 37, 'gold': 5}",6208,86.0,55,83,75,47,168913,registered
+3327097,Magnus Lyck&#229;,male,Sweden,"{'bronze': 8, 'silver': 2, 'gold': 0}",330,,4,8,5,4,3669314,registered
+808465,Mario,male,Germany,"{'bronze': 30, 'silver': 16, 'gold': 1}",4472,75.0,4,143,158,14,426957,registered
+284649,David,male,"Vancouver, Canada","{'bronze': 36, 'silver': 38, 'gold': 1}",6325,75.0,5,99,201,24,106964,registered
+1989612,Rıfat Erdem Sahin,male,"Istanbul, Turkey","{'bronze': 38, 'silver': 17, 'gold': 0}",1288,61.0,112,23,303,7,2259116,registered
+807499,David Scott,male,"London, United Kingdom","{'bronze': 22, 'silver': 12, 'gold': 0}",1646,80.0,8,59,191,22,426336,registered
+1377829,Dinesh Kaushik,male,Delhi,"{'bronze': 36, 'silver': 19, 'gold': 2}",2707,56.0,33,39,115,28,1193323,registered
+5632679,Nuno Sousa,male,"Porto, Portugal","{'bronze': 10, 'silver': 2, 'gold': 0}",333,,2,26,34,4,7402813,registered
+135318,Daniel T.,male,"Honolulu, HI","{'bronze': 188, 'silver': 120, 'gold': 31}",31067,88.0,259,83,52,47,45852,registered
+4500577,Andrii Dvoiak,male,"Kiev, Kyiv city, Ukraine","{'bronze': 5, 'silver': 2, 'gold': 0}",327,,1,2,54,0,5681275,registered
+5216668,Will Barnwell,male,"Denver, CO, USA","{'bronze': 31, 'silver': 17, 'gold': 0}",3511,,2,132,359,45,3915452,registered
+164998,Jason McCreary,male,"Louisville, KY","{'bronze': 164, 'silver': 116, 'gold': 20}",62961,57.0,92,1390,3466,102,55101,registered
+5522303,Kevin,male,"New York, United States","{'bronze': 18, 'silver': 10, 'gold': 0}",3726,,2,114,222,319,7237662,registered
+237885,Dan,male,"New York, NY, United States","{'bronze': 57, 'silver': 32, 'gold': 5}",3214,78.0,72,27,163,6,85288,registered
+9482,Mark Schill,male,United States,"{'bronze': 10, 'silver': 12, 'gold': 0}",1818,,0,9,14,3,5786,registered
+25757,Paul Stone,male,United Kingdom,"{'bronze': 13, 'silver': 18, 'gold': 3}",4756,25.0,4,3,3,0,12948,registered
+118460,Martijn,male,Netherlands,"{'bronze': 49, 'silver': 29, 'gold': 3}",4685,100.0,19,79,148,4,40822,registered
+96764,Eric Vasilik,male,"Seattle, WA","{'bronze': 13, 'silver': 2, 'gold': 0}",342,57.0,12,10,18,5,876738,registered
+52889,Nick,male,"London, United Kingdom","{'bronze': 26, 'silver': 13, 'gold': 2}",2125,75.0,5,57,189,7,21672,registered
+427457,Roman Podlinov,male,"Krasnodar, Russia","{'bronze': 53, 'silver': 35, 'gold': 7}",16564,58.0,23,65,340,51,188633,registered
+2883639,Jean Henry,male,France,"{'bronze': 13, 'silver': 3, 'gold': 0}",416,82.0,18,8,8,0,3441876,registered
+10331791,Riccardo D,male,"Torino, TO, Italia","{'bronze': 7, 'silver': 4, 'gold': 0}",363,,3,3,14,1,14302899,registered
+3653989,Adrian Cid Almaguer,male,"Montreal, Qu&#233;bec, Canada","{'bronze': 61, 'silver': 42, 'gold': 13}",9095,100.0,7,364,2328,530,4345940,registered
+653152,Martin Ueding,male,"Bonn, Germany","{'bronze': 65, 'silver': 35, 'gold': 3}",6510,90.0,127,74,405,10,329565,registered
+186101,Derek Reynolds,male,"San Francisco, CA","{'bronze': 32, 'silver': 21, 'gold': 2}",3147,79.0,15,27,53,3,62719,registered
+4761313,James T. Smith,male,"San Antonio, Texas, USA","{'bronze': 9, 'silver': 1, 'gold': 0}",390,,0,17,30,27,6102824,registered
+2286638,David,male,Armenia,"{'bronze': 28, 'silver': 14, 'gold': 0}",1759,38.0,17,67,156,12,2643444,registered
+2235085,Ivan Proskuryakov,male,"Moscow, Russia","{'bronze': 26, 'silver': 15, 'gold': 1}",1204,,8,37,37,6,2577787,registered
+215324,Rahul Soni,male,India,"{'bronze': 54, 'silver': 26, 'gold': 2}",4649,78.0,54,205,603,9,75026,registered
+3254585,Geoff Genz,male,"Denver, Colorado","{'bronze': 17, 'silver': 14, 'gold': 0}",1646,,1,45,32,0,3939600,registered
+615881,Marko Jovanović,male,"Belgrade, Serbia","{'bronze': 35, 'silver': 23, 'gold': 3}",2499,77.0,17,14,234,5,305614,registered
+192958,Asaf,male,Israel,"{'bronze': 31, 'silver': 22, 'gold': 4}",2133,76.0,19,24,323,2,65605,registered
+983992,Marcel Gwerder,male,"Bern, Switzerland","{'bronze': 56, 'silver': 28, 'gold': 4}",7359,58.0,13,212,281,122,959271,registered
+3712432,Alex P,male,"Toronto, ON, Canada","{'bronze': 28, 'silver': 17, 'gold': 2}",5396,,0,156,39,10,4573295,registered
+1059966,Marco Allori,male,Italy,"{'bronze': 22, 'silver': 26, 'gold': 0}",2748,0.0,7,38,58,2,1057592,registered
+4144,Mike Fielden,male,United States,"{'bronze': 91, 'silver': 53, 'gold': 13}",9477,89.0,109,50,2857,55,2923,registered
+7697399,Aron Karmer,male,"Arizona, United States","{'bronze': 14, 'silver': 7, 'gold': 2}",1061,40.0,7,2,2,0,10440627,registered
+6464308,Laurenz Albe,male,"Vienna, Austria","{'bronze': 86, 'silver': 59, 'gold': 14}",88048,,3,4304,3119,302,8633322,registered
+2072804,Brian Bentley,male,"Greensboro, NC","{'bronze': 7, 'silver': 3, 'gold': 0}",331,,0,4,85,0,2367345,registered
+183806,Howard Zoopaloopa,male,"Los Angeles, CA","{'bronze': 77, 'silver': 39, 'gold': 12}",3412,93.0,144,21,207,5,61725,registered
+284698,Eric,male,"Los Angeles, CA","{'bronze': 54, 'silver': 32, 'gold': 7}",4491,74.0,115,33,639,30,106990,registered
+5165832,Nelson Raul Cabero Mendoza,male,"Cochabamba, Bolivia","{'bronze': 19, 'silver': 10, 'gold': 1}",4338,,1,495,4,16,6698504,registered
+1194143,Stefan Pettersson,male,"Eker&#246;, Sweden","{'bronze': 8, 'silver': 5, 'gold': 0}",433,,1,8,43,1,253321,registered
+1733546,Thom Porter,male,Indiana,"{'bronze': 23, 'silver': 16, 'gold': 2}",2525,100.0,10,36,42,2,1922392,registered
+477958,Jake,male,MA,"{'bronze': 113, 'silver': 38, 'gold': 10}",1236,97.0,43,16,3662,11,220514,registered
+470922,Phil,male,"Boston, MA","{'bronze': 14, 'silver': 4, 'gold': 0}",411,75.0,4,4,24,0,215969,registered
+1489751,Phillip Fleischer,male,"Boston, MA, USA","{'bronze': 8, 'silver': 3, 'gold': 0}",353,,1,13,9,0,1610749,registered
+8876157,Peter,male,United Kingdom,"{'bronze': 9, 'silver': 2, 'gold': 0}",396,,5,27,9,3,12157613,registered
+192525,Utku Dalmaz,male,"Istanbul, Turkey","{'bronze': 117, 'silver': 78, 'gold': 23}",7540,77.0,247,15,130,14,65425,registered
+38883,Mark Pim,male,"London, United Kingdom","{'bronze': 56, 'silver': 37, 'gold': 6}",9326,100.0,28,145,1455,52,17389,registered
+4030223,Erik Alap&#228;&#228;,male,"Z&#252;rich, Schweiz","{'bronze': 21, 'silver': 9, 'gold': 0}",2167,43.0,11,136,745,10,5015182,registered
+2883732,Vipul,male,"New Delhi, India","{'bronze': 12, 'silver': 11, 'gold': 1}",1323,,3,17,24,0,3442005,registered
+952041,Alexander Mironov,male,"Russia, Saint Petersburg","{'bronze': 27, 'silver': 23, 'gold': 0}",2795,,0,35,646,7,920239,registered
+4891666,Andrew Bone,male,"Coventry, United Kingdom","{'bronze': 29, 'silver': 13, 'gold': 2}",6109,80.0,5,289,229,31,6295242,registered
+1424464,Caleb,male,"Detroit, MI","{'bronze': 12, 'silver': 11, 'gold': 0}",1438,,0,17,31,2,1526047,registered
+1342199,Stefan Rogin,male,Amsterdam,"{'bronze': 36, 'silver': 20, 'gold': 2}",1238,78.0,34,32,378,1,1416689,registered
+3554127,Luke Brown,male,"Ipswich, United Kingdom","{'bronze': 38, 'silver': 19, 'gold': 1}",1174,100.0,23,36,372,10,4355262,registered
+3957549,Sebastian Muszyński,male,"Słupsk, Polska","{'bronze': 6, 'silver': 2, 'gold': 0}",411,,0,17,14,0,4912680,registered
+4284484,Mike Fikes,male,"Leesburg, VA","{'bronze': 24, 'silver': 10, 'gold': 0}",3187,,3,64,220,10,5378403,registered
+810745,Hayk Mantashyan,male,"Yerevan, Armenia","{'bronze': 16, 'silver': 2, 'gold': 0}",318,,4,23,17,5,428428,registered
+4321344,Mark Reinhold,male,"Menlo Park, CA, US","{'bronze': 12, 'silver': 13, 'gold': 0}",2745,,0,6,22,2,5430245,registered
+1065366,Markus,male,Austria,"{'bronze': 39, 'silver': 16, 'gold': 2}",1234,56.0,106,24,259,14,1064443,registered
+272463,Mark,male,United Kingdom,"{'bronze': 3, 'silver': 12, 'gold': 1}",8585,,1,2,0,0,882030,registered
+4469374,Lars van den Bosch,male,The Netherlands,"{'bronze': 6, 'silver': 3, 'gold': 0}",416,,0,6,1,0,5647853,registered
+642981,Thorsten Hans,male,Germany,"{'bronze': 21, 'silver': 15, 'gold': 0}",2609,83.0,7,132,49,9,323144,registered
+3014025,Adam vonNieda,male,"Kansas, USA","{'bronze': 17, 'silver': 9, 'gold': 2}",1229,80.0,15,88,80,15,3552582,registered
+4034349,Phil Preen,male,"Somerset, UK","{'bronze': 17, 'silver': 3, 'gold': 0}",325,83.0,17,17,13,5,5020813,registered
+237808,David Hoerster,male,Pennsylvania,"{'bronze': 97, 'silver': 62, 'gold': 6}",26717,85.0,27,605,1115,2,85250,registered
+9420497,Brian,male,"Richmond, VA, USA","{'bronze': 14, 'silver': 3, 'gold': 0}",381,,43,18,104,2,13035406,registered
+850659,Richard Rast,male,"Cambridge, MA, United States","{'bronze': 21, 'silver': 9, 'gold': 0}",1157,55.0,35,7,115,20,453583,registered
+1531657,Muhammad Aamir Ali,male,Pakistan Karachi,"{'bronze': 52, 'silver': 59, 'gold': 9}",17041,55.0,35,246,1494,7,1663845,registered
+5937038,Melvin,male,"San Jose, CA, United States","{'bronze': 13, 'silver': 2, 'gold': 0}",318,69.0,15,8,19,6,5041806,registered
+2598453,Milan Hlin&#225;k,male,Czech Republic,"{'bronze': 31, 'silver': 20, 'gold': 1}",2530,,3,37,12,1,3066990,registered
+997752,Giuseppe Iacobucci,male,Italy,"{'bronze': 14, 'silver': 2, 'gold': 0}",415,,5,25,3,2,976886,registered
+152544,Michael Goerz,male,"Kassel, Germany","{'bronze': 28, 'silver': 19, 'gold': 3}",3468,92.0,18,15,17,5,51087,registered
+2523797,Rajendra Thorat,male,"Pune, India","{'bronze': 23, 'silver': 11, 'gold': 2}",2169,89.0,12,5,92,5,2971879,registered
+3338909,Vikas Chandra,male,"Pune, India","{'bronze': 20, 'silver': 5, 'gold': 0}",435,17.0,19,8,18,0,4062879,registered
+6113725,Avinash Shinde,male,"Pune, Maharashtra, India","{'bronze': 13, 'silver': 3, 'gold': 0}",328,,2,8,21,8,8114895,registered
+4756398,Jeff Davenport,male,"American Fork, UT, United States","{'bronze': 18, 'silver': 10, 'gold': 2}",1898,60.0,17,8,21,16,6095461,registered
+2523444,Vinod Louis,male,"Pune, Maharashtra, India","{'bronze': 37, 'silver': 18, 'gold': 1}",4485,48.0,37,180,92,16,2971479,registered
+2193,Jason Etheridge,male,"Brisbane, Australia","{'bronze': 32, 'silver': 25, 'gold': 5}",6567,75.0,4,29,210,1,1633,registered
+85326,David Glass,male,"Cape Coral, FL","{'bronze': 32, 'silver': 23, 'gold': 1}",2214,,1,73,474,9,31148,registered
+43992,Simeon Pilgrim,male,"Christchurch, New Zealand","{'bronze': 30, 'silver': 22, 'gold': 0}",7194,75.0,4,319,852,40,18974,registered
+2206775,Dmitry Sobetsky,male,"Moscow, Russia","{'bronze': 13, 'silver': 3, 'gold': 0}",327,100.0,4,1,0,0,2540953,registered
+266167,Joshua Davis,male,"New York, NY","{'bronze': 29, 'silver': 23, 'gold': 1}",3228,,1,29,1177,12,98291,registered
+232053,Matteo Alessani,male,"Florence, Italy","{'bronze': 55, 'silver': 35, 'gold': 4}",9548,80.0,7,153,2431,9,82562,registered
+74359,Ethan Heilman,male,"Cambridge, MA","{'bronze': 86, 'silver': 56, 'gold': 10}",13875,100.0,31,47,1744,36,28001,registered
+66812,Richie Marquez,male,"Springfield, MO, USA","{'bronze': 18, 'silver': 17, 'gold': 2}",1889,,3,1,155,2,25857,registered
+2819754,John Cargo,male,"New Delhi, Delhi, India","{'bronze': 48, 'silver': 19, 'gold': 0}",1517,83.0,69,19,107,30,3357059,registered
+623920,John Cowan,male,"New York, NY","{'bronze': 11, 'silver': 11, 'gold': 0}",1254,,0,29,20,4,310758,registered
+1213588,Tarun,male,India,"{'bronze': 26, 'silver': 16, 'gold': 3}",1790,38.0,25,63,52,10,1253685,registered
+548611,Sagar,male,"Pune, India","{'bronze': 48, 'silver': 21, 'gold': 7}",1202,86.0,23,12,1107,5,263196,registered
+3841261,Chad Kennedy,male,"Baton Rouge, LA, USA","{'bronze': 14, 'silver': 8, 'gold': 0}",1432,,2,50,38,1,4751294,registered
+8569209,Rob Kwasowski,male,UK,"{'bronze': 23, 'silver': 6, 'gold': 2}",2098,100.0,45,93,1058,53,11705519,registered
+2409066,Marc,male,"Stroud, UK","{'bronze': 11, 'silver': 3, 'gold': 1}",342,100.0,4,6,18,0,2800780,registered
+3569627,Jon Betts,male,United Kingdom,"{'bronze': 9, 'silver': 8, 'gold': 0}",1948,,0,62,12,0,4376808,registered
+121309,Hans Keﬆing,male,Netherlands,"{'bronze': 96, 'silver': 68, 'gold': 6}",32456,100.0,5,886,5556,646,41710,registered
+1717734,Pierre Inglebert,male,France,"{'bronze': 21, 'silver': 15, 'gold': 1}",3220,,4,56,35,16,1902073,registered
+32238,Andrew Theken,male,"Philadelphia, PA","{'bronze': 51, 'silver': 25, 'gold': 1}",3155,77.0,32,59,319,55,15326,registered
+4629808,Thomas,male,"Berlin, Germany","{'bronze': 17, 'silver': 11, 'gold': 0}",1833,,2,92,232,8,5880133,registered
+419751,Daniel D,male,"Seattle, WA","{'bronze': 40, 'silver': 30, 'gold': 4}",3337,81.0,41,13,68,5,183989,registered
+768229,Alok Anand,male,"Bangalore, India","{'bronze': 16, 'silver': 15, 'gold': 1}",2926,,0,116,591,9,401585,registered
+8861562,Tobias Scheck,male,"Chemnitz, Deutschland","{'bronze': 14, 'silver': 5, 'gold': 0}",333,,1,6,19,0,12136127,registered
+5226711,Lars Gendner,male,"Berlin, Germany","{'bronze': 20, 'silver': 8, 'gold': 2}",1680,,1,99,82,67,6788971,registered
+7478455,Mohammad Kanan,male,Palestine,"{'bronze': 32, 'silver': 16, 'gold': 10}",3418,88.0,15,185,1433,257,10121766,registered
+1046402,Jeff Wilbert,male,"New Port Richey, FL, United States","{'bronze': 34, 'silver': 16, 'gold': 1}",4050,83.0,5,92,31,11,1040160,registered
+2634313,Vyacheslav,male,"Uzhhorod, Ukraine","{'bronze': 13, 'silver': 5, 'gold': 1}",340,,9,2,33,0,3112900,registered
+384306,Nathan Schwermann,male,"Lawrence, KS","{'bronze': 87, 'silver': 74, 'gold': 15}",29316,89.0,39,286,1197,49,162686,registered
+547970,Matthew Clark,male,"San Angelo, TX","{'bronze': 30, 'silver': 14, 'gold': 0}",1396,93.0,16,16,277,12,262823,registered
+55151,Rob,male,United States,"{'bronze': 37, 'silver': 29, 'gold': 7}",5469,62.0,24,61,57,4,22393,registered
+865111,Adrian,male,"Cluj-Napoca, Cluj County, Romania","{'bronze': 27, 'silver': 15, 'gold': 1}",1980,100.0,7,37,81,2,462670,registered
+68210,Daniel X Moore,male,"Ferndale, WA, United States","{'bronze': 84, 'silver': 74, 'gold': 12}",12738,81.0,38,85,1072,119,26275,registered
+1831,Russ Cam,male,"Brisbane QLD, Australia","{'bronze': 242, 'silver': 181, 'gold': 25}",112552,94.0,16,1822,3172,97,1373,registered
+5730321,Leo Droidcoder,male,Cyprus,"{'bronze': 44, 'silver': 44, 'gold': 2}",9917,69.0,20,104,1061,104,5984797,registered
+3356734,Nick,male,"Austin, TX","{'bronze': 3, 'silver': 7, 'gold': 1}",1099,,0,4,0,0,4087895,registered
+232706,Rob Van Dam,male,"Provo, UT","{'bronze': 31, 'silver': 27, 'gold': 3}",7381,100.0,6,96,637,4,82870,registered
+275882,Artur Kędzior,male,Spain,"{'bronze': 43, 'silver': 28, 'gold': 1}",3250,50.0,51,150,382,15,102880,registered
+249742,Eric Boumendil,male,"Paris, France","{'bronze': 27, 'silver': 24, 'gold': 1}",1830,,3,42,341,4,90802,registered
+1530838,Mahesh,male,"Pune, India","{'bronze': 39, 'silver': 27, 'gold': 2}",2796,46.0,16,65,98,22,1662904,registered
+32854,Austin,male,"Canton, GA","{'bronze': 59, 'silver': 37, 'gold': 6}",4148,65.0,52,31,358,12,15520,registered
+1815503,Brad Hunter,male,"San Francisco, CA, United States","{'bronze': 4, 'silver': 4, 'gold': 1}",401,,0,1,1,0,2032113,registered
+254455,Bernard Igiri,male,United States,"{'bronze': 33, 'silver': 17, 'gold': 2}",1238,90.0,21,24,235,10,92926,registered
+1185445,Dave Hilditch,male,"Scotland, United Kingdom","{'bronze': 30, 'silver': 20, 'gold': 3}",4629,65.0,20,93,231,12,1218280,registered
+1084148,Dave Mascia,male,"Eatontown, NJ, United States","{'bronze': 14, 'silver': 10, 'gold': 0}",1335,,3,30,12,2,1089099,registered
+2649933,Joseph Rex,male,"Shorewood, WI, USA","{'bronze': 18, 'silver': 13, 'gold': 1}",1186,,4,13,243,6,2844672,registered
+190705,James Turner,male,"Edinburgh, United Kingdom","{'bronze': 21, 'silver': 17, 'gold': 2}",2165,55.0,11,52,181,14,64635,registered
+2065733,Harutyun Imirzyan,male,"Yerevan, Armenia","{'bronze': 16, 'silver': 3, 'gold': 0}",384,,4,21,78,1,2358432,registered
+1269913,Jason McD,male,Arkansas,"{'bronze': 12, 'silver': 2, 'gold': 1}",369,,1,22,8,1,1324846,registered
+3151940,Mario Haubenwallner,male,"Graz, AT","{'bronze': 20, 'silver': 12, 'gold': 1}",1247,,3,17,208,4,3797321,registered
+8004313,Łukasz Wachowicz,male,"Bydgoszcz, Polska","{'bronze': 8, 'silver': 3, 'gold': 0}",315,,2,9,13,5,10887212,registered
+812933,Griffin,male,"Jacksonville, FL","{'bronze': 22, 'silver': 12, 'gold': 0}",1347,,1,29,404,7,429831,registered
+967466,Bryan Watts,male,"Zionsville, IN","{'bronze': 22, 'silver': 11, 'gold': 0}",1385,75.0,16,40,26,2,939048,registered
+5303291,Harry,male,India,"{'bronze': 17, 'silver': 6, 'gold': 1}",323,8.0,43,1,5,0,6905090,registered
+17871,James Schek,male,Sector 001,"{'bronze': 63, 'silver': 43, 'gold': 7}",16854,86.0,7,168,794,9,9626,registered
+617615,Simon Smith,male,United Kingdom,"{'bronze': 39, 'silver': 27, 'gold': 2}",7906,88.0,10,115,127,4,306713,registered
+899923,Brian,male,"Manchester, NH, United States","{'bronze': 16, 'silver': 1, 'gold': 0}",351,29.0,12,2,2,1,805037,registered
+1091212,Boris D. Teoharov,male,"Sofia, Bulgaria","{'bronze': 47, 'silver': 23, 'gold': 2}",1762,94.0,20,47,3716,127,1098054,registered
+1697651,Abdul Malik,male,Lahore,"{'bronze': 29, 'silver': 15, 'gold': 1}",2364,,0,161,232,70,1876539,registered
+2250506,Timothy Dooling,male,"Hyde Park, Chicago, IL, United States","{'bronze': 15, 'silver': 3, 'gold': 0}",382,33.0,14,36,3,1,2597086,registered
+1463956,Gary Carlyle Cook,male,"London, UK","{'bronze': 20, 'silver': 6, 'gold': 0}",429,82.0,15,11,220,4,1577946,registered
+3251463,Scott Schupbach,male,"Chicago, IL, United States","{'bronze': 19, 'silver': 6, 'gold': 0}",1078,,4,64,580,8,3934559,registered
+2104316,Daniel Uzunu,male,"Bucharest, Romania","{'bronze': 9, 'silver': 9, 'gold': 1}",2416,,3,6,7,0,2408574,registered
+4641753,Glenn,male,"Delft, Netherlands","{'bronze': 12, 'silver': 2, 'gold': 0}",400,20.0,6,9,21,0,5896885,registered
+196358,Kenny Winker,male,Canada,"{'bronze': 76, 'silver': 47, 'gold': 7}",11200,77.0,41,195,253,23,67033,registered
+239878,Ian,male,"Northampton, United Kingdom","{'bronze': 26, 'silver': 16, 'gold': 1}",1735,57.0,36,58,8,1,86203,registered
+149436,Evan Trimboli,male,"Sydney, New South Wales, Australia","{'bronze': 58, 'silver': 37, 'gold': 5}",28011,,8,984,241,902,50138,registered
+1020470,Mark Mikofski,male,San Francisco Bay Area,"{'bronze': 76, 'silver': 43, 'gold': 2}",15086,,3,96,671,12,1006996,registered
+540312,Sergei Tachenov,male,Russia,"{'bronze': 64, 'silver': 47, 'gold': 6}",21001,87.0,30,288,1701,163,258256,registered
+1622083,Piotr Krysiak,male,Poland,"{'bronze': 33, 'silver': 18, 'gold': 3}",2685,97.0,38,46,245,2,1778866,registered
+71551,Stuart,male,Minnesota,"{'bronze': 30, 'silver': 16, 'gold': 3}",1310,77.0,35,19,127,4,27208,registered
+2273553,Julien,male,"Montpellier, France","{'bronze': 19, 'silver': 13, 'gold': 2}",2204,,4,9,43,3,2626649,registered
+415157,Eric C.,male,"Nantes, France","{'bronze': 23, 'silver': 16, 'gold': 2}",2272,73.0,12,86,48,1,639126,registered
+884080,Jon Lauridsen,male,"London, United Kingdom","{'bronze': 25, 'silver': 22, 'gold': 0}",1966,73.0,25,12,169,6,474415,registered
+525366,Jim True,male,"Beech Mountain, NC","{'bronze': 13, 'silver': 12, 'gold': 0}",1087,80.0,6,11,171,10,249376,registered
+7301455,Sergey Pugach,male,"Minsk, Belarus","{'bronze': 23, 'silver': 7, 'gold': 1}",3753,,0,199,271,17,9857340,registered
+5014959,Alp,male,Turkey,"{'bronze': 25, 'silver': 8, 'gold': 1}",2886,62.0,9,195,83,29,6476496,registered
+4986116,Vitalii Obideiko,male,"Kharkiv, Kharkiv Oblast, Ukraine","{'bronze': 11, 'silver': 7, 'gold': 0}",1120,,0,9,94,11,6433971,registered
+2512399,Michael Markidis,male,"California, USA","{'bronze': 21, 'silver': 10, 'gold': 1}",4004,,2,205,236,93,2932591,registered
+3515470,Meir Maor,male,Israel,"{'bronze': 17, 'silver': 6, 'gold': 0}",1065,,2,23,6,0,4301943,registered
+390534,Andrea Salicetti,male,"Bologna, Italy","{'bronze': 34, 'silver': 20, 'gold': 0}",2166,40.0,7,62,530,7,166422,registered
+1142254,Nick Bray,male,Florida,"{'bronze': 18, 'silver': 11, 'gold': 0}",1825,,0,82,97,1,1163146,registered
+894190,Vahan Vardanyan,male,Armenia,"{'bronze': 27, 'silver': 17, 'gold': 0}",1729,78.0,12,80,399,14,480768,registered
+2947812,Mikhail Batcer,male,"Petrozavodsk, Karelia","{'bronze': 45, 'silver': 22, 'gold': 1}",1321,63.0,51,30,1424,34,3527008,registered
+86015,Calvin,male,"Billings, MO","{'bronze': 21, 'silver': 20, 'gold': 1}",4097,75.0,4,80,265,43,877364,registered
+11416840,Omri Sarig,male,Israel,"{'bronze': 5, 'silver': 1, 'gold': 0}",324,,0,8,24,0,15823044,registered
+2034487,Phil Sheard,male,"London, United Kingdom","{'bronze': 31, 'silver': 10, 'gold': 0}",1627,77.0,37,52,105,5,2317898,registered
+2418409,Victor G.,male,Israel,"{'bronze': 13, 'silver': 1, 'gold': 0}",381,90.0,11,17,55,2,2812447,registered
+642551,Amit,male,Delhi,"{'bronze': 22, 'silver': 6, 'gold': 2}",429,71.0,31,3,33,0,322876,registered
+684803,Tiago Almeida,male,Portugal,"{'bronze': 77, 'silver': 59, 'gold': 3}",12971,80.0,58,176,312,71,349480,registered
+1401344,Pawel Urban,male,Poland,"{'bronze': 27, 'silver': 12, 'gold': 0}",1176,72.0,22,39,96,5,1495236,registered
+383386,Verneri &#197;berg,male,"Helsinki, Finland","{'bronze': 9, 'silver': 1, 'gold': 0}",390,,0,10,7,1,162122,registered
+1606843,Rahul Chawre,male,"Pune, India","{'bronze': 13, 'silver': 2, 'gold': 0}",381,,3,4,151,11,1759311,registered
+135704,Andrew,male,"Philadelphia, PA","{'bronze': 31, 'silver': 23, 'gold': 5}",1809,96.0,27,21,38,3,45969,registered
+1729054,Luca Corradi,male,"Modena, MO, Italia","{'bronze': 13, 'silver': 10, 'gold': 0}",1173,,2,29,45,3,1916576,registered
+177125,Per &#214;stlund,male,"Linkoping, Sweden","{'bronze': 6, 'silver': 7, 'gold': 0}",1154,,0,21,47,0,59175,registered
+55860,Yasir,male,"Islamabad, Pakistan","{'bronze': 39, 'silver': 30, 'gold': 10}",3555,71.0,40,23,98,2,22586,registered
+441889,Amir Karimi,male,"Vancouver, BC, Canada","{'bronze': 50, 'silver': 32, 'gold': 3}",4821,68.0,59,23,142,8,197675,registered
+279003,Jim Greenleaf,male,"New York, NY","{'bronze': 14, 'silver': 2, 'gold': 0}",368,,4,13,22,2,104336,registered
+1404875,Dmitriy Z,male,"Санкт-Петербург, Россия","{'bronze': 9, 'silver': 1, 'gold': 0}",353,,1,5,39,0,1499859,registered
+1324707,Kai,male,"Bergen, Norway","{'bronze': 16, 'silver': 3, 'gold': 0}",428,86.0,8,10,123,7,1394695,registered
+8461450,Andrej Hucko,male,"Bratislava, Slovakia","{'bronze': 13, 'silver': 2, 'gold': 0}",320,,6,8,7,0,11547976,registered
+223547,Charles,male,Illinois,"{'bronze': 47, 'silver': 26, 'gold': 1}",3594,94.0,31,63,591,2,78582,registered
+1102091,Mike,male,"Flint, MI","{'bronze': 9, 'silver': 9, 'gold': 0}",1797,,1,55,164,43,114720,registered
+4138058,Liviu Costea,male,"Iasi, Romania","{'bronze': 14, 'silver': 8, 'gold': 0}",2681,,0,81,39,2,1955765,registered
+2022158,Lancelot,male,"Bristol, United Kingdom","{'bronze': 16, 'silver': 15, 'gold': 0}",1563,,5,15,180,4,2302046,registered
+208871,Matt,male,"Austin, TX","{'bronze': 13, 'silver': 7, 'gold': 0}",1054,,3,40,126,3,72322,registered
+115704,Jason Snelders,male,"Melbourne, Australia","{'bronze': 32, 'silver': 26, 'gold': 4}",4322,79.0,15,30,313,2,40005,registered
+9266,Jeremy,male,"Kelowna, Canada","{'bronze': 297, 'silver': 181, 'gold': 62}",38844,63.0,456,128,542,30,5669,registered
+1638158,John Dowling,male,"London, United Kingdom","{'bronze': 16, 'silver': 4, 'gold': 0}",428,50.0,12,24,12,2,1799485,registered
+6285996,Vivek Mehta,male,"Bangalore, Karnataka, India","{'bronze': 9, 'silver': 6, 'gold': 0}",414,,0,13,46,3,8370735,registered
+540073,Lawrence Whiteside,male,"Portland, OR, United States","{'bronze': 7, 'silver': 12, 'gold': 1}",1931,,1,6,20,1,258111,registered
+2281645,Tanner,male,"Mahtomedi, MN","{'bronze': 12, 'silver': 4, 'gold': 1}",420,78.0,10,14,16,0,2637279,registered
+790465,Igor Yalovoy,male,"Moscow, Russia","{'bronze': 21, 'silver': 13, 'gold': 1}",1185,,4,33,2248,12,415579,registered
+850494,Jeff Sherlock,male,"San Francisco, CA","{'bronze': 24, 'silver': 12, 'gold': 1}",3461,,0,86,71,25,453476,registered
+75183,Edward Grech,male,Malta,"{'bronze': 9, 'silver': 11, 'gold': 1}",1890,,1,9,55,2,28220,registered
+212555,Brendan Long,male,"Fort Collins, CO, USA","{'bronze': 164, 'silver': 121, 'gold': 16}",46528,88.0,91,703,3884,147,73891,registered
+37436,Michael Herold,male,"Omaha, NE, USA","{'bronze': 21, 'silver': 11, 'gold': 1}",1217,100.0,4,19,355,2,16943,registered
+4779560,Florent Cardot,male,"Lyon, France","{'bronze': 12, 'silver': 3, 'gold': 0}",332,,9,15,23,4,6128468,registered
+1346207,Markus Malkusch,male,"M&#252;nchen, Deutschland","{'bronze': 56, 'silver': 28, 'gold': 0}",6760,77.0,28,234,176,273,1421723,registered
+30014,Daniel,male,United States,"{'bronze': 23, 'silver': 18, 'gold': 4}",1704,89.0,31,2,70,18,14540,registered
+840372,Jeroen Coup&#233;,male,"Ghent, Belgium","{'bronze': 13, 'silver': 10, 'gold': 0}",1376,,1,56,149,1,447001,registered
+208642,John Korsnes,male,"Oslo, Norway","{'bronze': 30, 'silver': 19, 'gold': 2}",2207,38.0,10,43,58,20,72229,registered
+1777634,Marcelo Fabri,male,Brazil,"{'bronze': 48, 'silver': 40, 'gold': 3}",9631,100.0,5,169,860,410,1980997,registered
+2280212,Federico Ponzi,male,Italy,"{'bronze': 51, 'silver': 27, 'gold': 3}",2139,87.0,71,36,391,61,2635359,registered
+3833960,Max,male,"Berlin, Deutschland","{'bronze': 3, 'silver': 2, 'gold': 0}",331,,0,1,0,0,4741313,registered
+10046099,Nika Kurashvili,male,"Tbilisi, Georgia","{'bronze': 36, 'silver': 8, 'gold': 1}",3036,,238,14,159,7,13913628,registered
+217817,Steve Gooberman-Hill,male,United Kingdom,"{'bronze': 12, 'silver': 4, 'gold': 0}",379,50.0,20,9,34,0,75988,registered
+147012,Nick Pyett,male,United Kingdom,"{'bronze': 27, 'silver': 17, 'gold': 1}",2711,,2,98,190,7,49382,registered
+1144035,Gordon Linoff,male,"New York, United States","{'bronze': 522, 'silver': 407, 'gold': 40}",958913,,0,68331,16169,41,1165580,registered
+35806,Kevin Gorski,male,"Denver, Colorado, United States","{'bronze': 14, 'silver': 18, 'gold': 1}",3519,,0,36,273,11,16449,registered
+142914,Bryan,male,"Lancaster, United Kingdom","{'bronze': 54, 'silver': 35, 'gold': 8}",2961,97.0,34,25,819,55,48151,registered
+1627812,Rares Felecan,male,Romania,"{'bronze': 17, 'silver': 3, 'gold': 0}",358,56.0,9,4,33,0,1786428,registered
+1053264,Rustem Mussabekov,male,"Saint Petersburg, Russia","{'bronze': 4, 'silver': 3, 'gold': 0}",316,,1,1,1,1,1048892,registered
+272520,Mark Hildreth,male,"Northampton, MA","{'bronze': 103, 'silver': 106, 'gold': 9}",33330,86.0,10,236,1616,145,101242,registered
+731793,Pavel Murygin,male,Russia,"{'bronze': 24, 'silver': 15, 'gold': 1}",1936,71.0,17,16,102,6,378813,registered
+2199938,Jan Stephan,male,"Dresden, Germany","{'bronze': 9, 'silver': 2, 'gold': 0}",343,,2,8,4,1,2531790,registered
+1431734,Roger,male,"London, Ontario Canada","{'bronze': 15, 'silver': 9, 'gold': 0}",5708,,0,452,5,7,1535582,registered
+933,Shane Arney,male,"Richmond, CA","{'bronze': 17, 'silver': 17, 'gold': 3}",4244,,2,7,199,1,714,registered
+1241793,Ben,male,"Toronto, ON, Canada","{'bronze': 69, 'silver': 36, 'gold': 7}",8511,82.0,132,271,186,169,1289419,registered
+720456,Andy Reimann,male,Germany,"{'bronze': 15, 'silver': 3, 'gold': 0}",418,40.0,6,8,29,2,371748,registered
+19583,Jonas Klemming,male,"Stockholm, Sweden","{'bronze': 3, 'silver': 8, 'gold': 1}",1527,,0,4,0,0,561190,unregistered
+2088094,Rodney Littles,male,"Houston, TX, United States","{'bronze': 9, 'silver': 1, 'gold': 0}",388,,2,30,53,0,2387420,registered
+484,Tim Trueman,male,"Seattle, WA, USA","{'bronze': 27, 'silver': 15, 'gold': 2}",1413,57.0,9,4,47,1,385,registered
+2987706,Prashant,male,Bangalore India,"{'bronze': 26, 'silver': 16, 'gold': 2}",2475,90.0,11,190,892,52,3579096,registered
+1416572,Brett Bonner,male,United States,"{'bronze': 17, 'silver': 2, 'gold': 0}",375,100.0,8,7,32,5,1515488,registered
+693173,Mark Percival,male,"San Francisco, CA","{'bronze': 6, 'silver': 8, 'gold': 1}",1315,,0,3,18,13,354681,registered
+4722777,Stefan Đorđević,male,Serbia,"{'bronze': 14, 'silver': 9, 'gold': 3}",1113,0.0,7,4,5,0,6012887,registered
+1205166,Matteo Manchi,male,"Rome, Italy","{'bronze': 11, 'silver': 4, 'gold': 0}",342,,2,9,31,1,1243050,registered
+1323697,Jack,male,"London, United Kingdom","{'bronze': 102, 'silver': 51, 'gold': 15}",6565,80.0,221,3,255,33,1393410,registered
+3046585,Ludovic Aubert,male,"Paris, France","{'bronze': 13, 'silver': 10, 'gold': 2}",4996,,48,34,74,0,3655410,registered
+7534349,Arun Kaliraja Baskaran,male,"Bangalore, Karnataka, India","{'bronze': 10, 'silver': 1, 'gold': 0}",325,78.0,15,4,19,1,10205495,registered
+735204,Emmett Butler,male,"Portland, OR","{'bronze': 42, 'silver': 24, 'gold': 2}",4592,85.0,19,92,754,21,303484,registered
+1011290,Marcin Bobowski,male,"Sosnowiec, Poland","{'bronze': 30, 'silver': 19, 'gold': 2}",1505,61.0,48,48,153,7,995130,registered
+6389322,Christopher Peter,male,"San Francisco, CA, United States","{'bronze': 5, 'silver': 2, 'gold': 0}",398,,0,2,2,1,8523170,registered
+42809,Lars,male,"Flensburg, Germany","{'bronze': 21, 'silver': 17, 'gold': 1}",5374,50.0,7,33,87,3,18613,registered
+183652,Ehsan Khodarahmi,male,"Esfahan, Iran","{'bronze': 78, 'silver': 54, 'gold': 8}",4230,45.0,92,90,1793,13,61658,registered
+351730,Igor Rumiha,male,"Zagreb, Croatia","{'bronze': 10, 'silver': 2, 'gold': 0}",397,,1,7,17,1,143416,registered
+349,Edo,male,"Zagreb, Croatia","{'bronze': 26, 'silver': 19, 'gold': 3}",1771,62.0,9,11,400,1,279,registered
+4690,Manrico Corazzi,male,Italy,"{'bronze': 62, 'silver': 44, 'gold': 8}",10779,83.0,20,118,370,13,3264,registered
+72947,Jeff Ancel,male,"St Louis, MO","{'bronze': 38, 'silver': 28, 'gold': 3}",2958,77.0,28,56,270,9,27585,registered
+338614,Harald Wellmann,male,"Hamburg, Germany","{'bronze': 52, 'silver': 31, 'gold': 2}",10980,22.0,27,314,154,12,135620,registered
+4152018,James Quick,male,"New York City, NY","{'bronze': 4, 'silver': 2, 'gold': 0}",349,,0,38,35,1,5188303,registered
+7809534,Jakov Kusić,male,"Split, Croatia","{'bronze': 15, 'silver': 5, 'gold': 2}",321,100.0,19,7,1330,1,10603217,registered
+165826,Mike Li,male,"San Francisco, CA","{'bronze': 24, 'silver': 17, 'gold': 2}",2876,77.0,13,29,99,5,55378,registered
+107625,Uwe Keim,male,"G&#246;ppingen, Germany","{'bronze': 246, 'silver': 150, 'gold': 35}",35056,86.0,154,642,31255,4399,37624,registered
+41704,Anton,male,"Kitchener, Ontario Canada","{'bronze': 19, 'silver': 17, 'gold': 0}",2990,,1,48,85,4,18265,registered
+1396190,Franz,male,"Hamburg, Germany","{'bronze': 6, 'silver': 2, 'gold': 0}",369,,0,10,18,14,1488487,registered
+92287,Neil Kodner,male,"Salt Lake City, UT","{'bronze': 35, 'silver': 24, 'gold': 3}",2675,82.0,18,14,101,2,33078,registered
+2760,Mark,male,"Columbus, OH/Atlanta, GA","{'bronze': 5, 'silver': 3, 'gold': 0}",355,,0,2,3,0,2009,registered
+632,Jake Pearson,male,"Boulder, CO","{'bronze': 89, 'silver': 66, 'gold': 9}",22757,90.0,83,144,533,3,490,registered
+556520,Steve,male,"Sunnyvale, CA, United States","{'bronze': 25, 'silver': 11, 'gold': 1}",1067,58.0,13,12,162,2,268004,registered
+6920195,Rohan Lodhi,male,"Pune, Maharashtra, India","{'bronze': 19, 'silver': 6, 'gold': 0}",1198,,2,51,20,7,9321614,registered
+40444,Glen T,male,United States,"{'bronze': 22, 'silver': 13, 'gold': 1}",1410,91.0,11,16,579,4,17875,registered
+669759,Marc,male,"Quebec City, Quebec, Canada","{'bronze': 28, 'silver': 22, 'gold': 3}",10857,62.0,17,19,172,4,339978,registered
+1098668,Ben Walker,male,"Salt Lake City, UT, United States","{'bronze': 47, 'silver': 23, 'gold': 3}",1492,81.0,42,19,470,4,1107566,registered
+3844281,Simon,male,"Lancaster, United Kingdom","{'bronze': 9, 'silver': 9, 'gold': 1}",1430,,0,6,6,4,4755384,registered
+63627,Daniel Elliott,male,"Vancouver, Canada","{'bronze': 78, 'silver': 57, 'gold': 10}",21123,73.0,29,385,603,5,24905,registered
+3275450,Prashant Jajal,male,"Ahmedabad, Gujarat, India","{'bronze': 31, 'silver': 16, 'gold': 2}",2334,17.0,15,104,124,16,3970794,registered
+3723803,Tim Hutchison,male,"Cleveland, OH, USA","{'bronze': 58, 'silver': 26, 'gold': 3}",2465,80.0,69,46,407,17,4590272,registered
+2863011,Christian Michael,male,Germany,"{'bronze': 22, 'silver': 12, 'gold': 0}",1113,64.0,21,24,126,1,3407828,registered
+1548570,Vikas,male,India,"{'bronze': 8, 'silver': 3, 'gold': 2}",358,,3,16,10,0,1685099,registered
+4383004,Rahul Rana,male,"Bangalore, Karnataka, India","{'bronze': 7, 'silver': 1, 'gold': 0}",367,,1,65,27,3,5519542,registered
+6700342,Rahul Sharma,male,"Mohali, Punjab, India","{'bronze': 26, 'silver': 15, 'gold': 3}",5010,,7,102,141,20,8987114,registered
+2484643,Sean,male,United Kingdom,"{'bronze': 26, 'silver': 8, 'gold': 0}",2272,61.0,50,94,42,18,2897129,registered
+613218,Gus E,male,"Chicago, IL","{'bronze': 19, 'silver': 20, 'gold': 1}",1941,,0,8,947,3,303969,registered
+118850,Jim,male,"New York, New York United States","{'bronze': 17, 'silver': 11, 'gold': 1}",1366,89.0,9,9,23,2,40940,registered
+1002790,Salih Erikci,male,Turkey,"{'bronze': 64, 'silver': 30, 'gold': 8}",4708,76.0,72,175,361,37,983770,registered
+4726388,Steve,male,UK,"{'bronze': 16, 'silver': 4, 'gold': 0}",367,86.0,9,9,18,1,6018402,registered
+634386,Mike Kormendy,male,"Dallas, TX","{'bronze': 19, 'silver': 19, 'gold': 1}",2866,,4,21,318,50,317608,registered
+150568,Rick Haffey,male,"Chicago, IL","{'bronze': 10, 'silver': 2, 'gold': 0}",362,,1,6,56,0,50471,registered
+547564,Johnny Everson,male,"Maceio, Brazil","{'bronze': 69, 'silver': 34, 'gold': 6}",7057,92.0,69,73,709,19,262593,registered
+1572848,William Reed,male,"Boston, MA, USA","{'bronze': 22, 'silver': 13, 'gold': 0}",1132,88.0,14,47,1048,2,1715751,registered
+7288685,Carlos Andres,male,"Santiago, Chile","{'bronze': 25, 'silver': 11, 'gold': 4}",3520,80.0,14,5,227,6,9839273,registered
+7025997,Arun Raj R,male,"Bangalore, Karnataka, India","{'bronze': 19, 'silver': 9, 'gold': 1}",1519,33.0,8,26,21,4,9448065,registered
+3242070,Luboš Turek,male,"Prague, Czech Republic","{'bronze': 45, 'silver': 33, 'gold': 5}",4442,100.0,9,16,1919,18,3919005,registered
+731872,Emilien,male,"Sophia Antipolis, Alpes-Maritimes, France","{'bronze': 19, 'silver': 12, 'gold': 0}",1973,38.0,8,84,87,11,378871,registered
+1124672,Derek,male,"Rochester Hills, MI, USA","{'bronze': 16, 'silver': 10, 'gold': 0}",1056,,5,17,199,13,1140656,registered
+20388,Greg Sexton,male,"London, United Kingdom","{'bronze': 34, 'silver': 27, 'gold': 6}",8539,100.0,10,64,456,1,10725,registered
+899918,Chuck H,male,"San Jose, CA","{'bronze': 22, 'silver': 19, 'gold': 0}",2486,,7,35,659,7,484324,registered
+89208,Darryl E. Clarke,male,"Toronto, Canada","{'bronze': 32, 'silver': 22, 'gold': 3}",7081,,2,158,807,19,32230,registered
+197663,Matt Williamson,male,"Red Hook, New York, United States","{'bronze': 69, 'silver': 57, 'gold': 10}",30699,83.0,21,361,1472,26,67565,registered
+12892,Cristian Ciupitu,male,"Bucharest, Romania","{'bronze': 67, 'silver': 44, 'gold': 5}",16824,,2,82,3789,102,7423,registered
+6915929,Dave,male,"London, UK","{'bronze': 26, 'silver': 10, 'gold': 1}",2002,75.0,24,81,1035,211,9315438,registered
+897985,Michael Yoon,male,"Irvine, CA","{'bronze': 8, 'silver': 10, 'gold': 0}",1601,,0,52,5,1,483133,registered
+197,Daan,male,Netherlands,"{'bronze': 36, 'silver': 25, 'gold': 2}",8376,,0,46,567,10,160,registered
+3973647,Muhammad Waqas Bhati,male,Dubai - United Arab Emirates,"{'bronze': 23, 'silver': 14, 'gold': 0}",2347,40.0,7,115,134,7,4935323,registered
+6724807,Heiko Bloch,male,"Munich, Germany","{'bronze': 13, 'silver': 1, 'gold': 0}",378,50.0,8,5,23,1,9025340,registered
+324479,Carter Medlin,male,"Fair Oaks, CA, United States","{'bronze': 64, 'silver': 53, 'gold': 4}",9906,100.0,13,223,1646,1,127377,registered
+2695282,Syed Raza Mehdi,male,"Lahore, Punjab, Pakistan","{'bronze': 43, 'silver': 27, 'gold': 1}",3653,71.0,21,99,639,11,3191067,registered
+357641,Greg,male,Victoria,"{'bronze': 98, 'silver': 85, 'gold': 15}",31747,55.0,40,252,749,26,146892,registered
+589132,Steven Lizarazo,male,"Luxembourg City, Luxembourg","{'bronze': 23, 'silver': 25, 'gold': 2}",4122,,0,43,84,5,288605,registered
+3715,Tom,male,"Melbourne, Australia","{'bronze': 97, 'silver': 83, 'gold': 30}",33082,67.0,48,121,2638,30,2650,registered
+116042,Pete,male,"Steamboat Springs, CO","{'bronze': 18, 'silver': 16, 'gold': 3}",1892,62.0,10,8,79,2,40100,registered
+3787011,Rana Talha Tariq,male,"Lahore, Punjab, Pakistan","{'bronze': 14, 'silver': 4, 'gold': 1}",365,86.0,7,4,110,0,4677071,registered
+1107992,Hossein,male,"Riyadh, Saudi Arabia","{'bronze': 14, 'silver': 7, 'gold': 0}",382,,0,9,200,2,1119312,registered
+3800995,Carlo,male,Switzerland,"{'bronze': 13, 'silver': 3, 'gold': 0}",337,76.0,18,0,31,0,4696175,registered
+596247,Boris Brdarić,male,"Samobor, Croatia","{'bronze': 19, 'silver': 21, 'gold': 2}",4355,,1,25,321,9,293105,registered
+1007169,Mattias Isegran Bergander,male,Sweden,"{'bronze': 47, 'silver': 35, 'gold': 1}",10397,,2,287,713,19,989472,registered
+1338797,Tomasz Gandor,male,Poland,"{'bronze': 40, 'silver': 37, 'gold': 1}",4506,,1,81,2548,1,1412466,registered
+2042090,Ryszard Dżegan,male,"Poznan, Poland","{'bronze': 50, 'silver': 29, 'gold': 6}",20298,91.0,40,126,248,5,2328087,registered
+1183996,Eric Kim,male,"Vancouver, BC, Canada","{'bronze': 26, 'silver': 21, 'gold': 4}",6547,79.0,18,19,282,6,1216505,registered
+212292,Felipe Ferri,male,"S&#227;o Jos&#233; Dos Campos, Brazil","{'bronze': 33, 'silver': 24, 'gold': 1}",2887,70.0,36,55,234,3,73778,registered
+1589379,Tony Chiboucas,male,"Portland, OR","{'bronze': 35, 'silver': 22, 'gold': 0}",4426,,0,121,304,47,1737070,registered
+1487073,Kevin,male,Utah,"{'bronze': 27, 'silver': 12, 'gold': 4}",417,86.0,25,6,476,0,1607228,registered
+50603,Trey,male,California,"{'bronze': 21, 'silver': 19, 'gold': 1}",9772,,3,49,394,9,20970,registered
+7362860,Evgeny Sinitsky,male,"Minsk, Беларусь","{'bronze': 5, 'silver': 3, 'gold': 0}",321,,0,2,179,0,9949660,registered
+336600,Felipe Alvarez,male,"Brisbane QLD, Australia","{'bronze': 32, 'silver': 25, 'gold': 2}",3050,62.0,21,24,641,1,134451,registered
+873060,Max Spencer,male,"Cambridgeshire, UK","{'bronze': 19, 'silver': 10, 'gold': 1}",1501,25.0,4,32,102,3,467583,registered
+51459,Ward Werbrouck,male,Belgium,"{'bronze': 32, 'silver': 17, 'gold': 0}",1432,83.0,6,26,332,22,21237,registered
+1769510,Matthew Poer,male,"Atlanta, GA","{'bronze': 17, 'silver': 9, 'gold': 0}",1582,,4,101,142,9,1970397,registered
+889439,Matt,male,"VA, United States","{'bronze': 29, 'silver': 19, 'gold': 6}",2890,35.0,51,1,19,1,477758,registered
+716769,Bogdan Mart,male,"Kiev, Kyiv city, Ukraine","{'bronze': 12, 'silver': 6, 'gold': 0}",329,,4,8,404,9,369402,registered
+633150,Brent Worden,male,Minnesota,"{'bronze': 48, 'silver': 44, 'gold': 7}",8948,,1,204,1057,32,316802,registered
+22247,David Holm,male,Sweden,"{'bronze': 46, 'silver': 42, 'gold': 6}",14590,83.0,19,33,1158,34,11521,registered
+2052564,Isaac,male,"Los Angeles, CA","{'bronze': 30, 'silver': 16, 'gold': 3}",1816,59.0,34,8,220,1,2341341,registered
+244941,Jason T.,male,"Seattle, WA","{'bronze': 10, 'silver': 1, 'gold': 0}",322,75.0,5,6,7,0,88598,registered
+3347858,Tony L.,male,"Minnetonka, MN","{'bronze': 56, 'silver': 57, 'gold': 5}",11412,100.0,16,126,3089,1,4076243,registered
+1504465,Steven Mouret,male,"Toulon, France","{'bronze': 20, 'silver': 12, 'gold': 1}",4892,17.0,12,7,43,7,1629632,registered
+1226453,Simon B.Robert,male,"Sherbrooke, QC, Canada","{'bronze': 22, 'silver': 13, 'gold': 4}",31064,,4,5,210,4,1269884,registered
+802407,Ben Simpson,male,"Johns Creek, GA, United States","{'bronze': 10, 'silver': 14, 'gold': 1}",3635,,0,62,545,0,423177,registered
+498612,Gerald Davis,male,"36.727672,-76.302023 +/- 1%","{'bronze': 42, 'silver': 26, 'gold': 1}",4175,89.0,20,81,737,27,233251,registered
+4465270,Hugo Seleiro,male,"Almada, Portugal","{'bronze': 29, 'silver': 13, 'gold': 3}",1333,56.0,54,1,127,2,5641618,registered
+1027941,Gregory,male,"Farmington, NM, USA","{'bronze': 39, 'silver': 24, 'gold': 6}",3090,82.0,49,31,113,3,1016462,registered
+70786,Michal Bernhard,male,Czech Republic,"{'bronze': 37, 'silver': 24, 'gold': 3}",3605,67.0,7,12,868,20,27003,registered
+11885726,Gavin Wilson,male,"Campbell, California, USA","{'bronze': 9, 'silver': 0, 'gold': 0}",386,,52,15,40,1,16452698,registered
+106567,Stefan Egli,male,"Lucerne, Switzerland","{'bronze': 72, 'silver': 47, 'gold': 3}",16782,60.0,5,343,1811,29,37292,registered
+1193874,Paul,male,"New York, United States","{'bronze': 31, 'silver': 22, 'gold': 1}",3495,,2,68,160,2,1228875,registered
+2642809,Zack Argyle,male,"San Francisco, CA","{'bronze': 36, 'silver': 24, 'gold': 3}",6357,100.0,10,151,75,11,3123465,registered
+979252,Jeroen Bakker,male,"Haarlem, Netherlands","{'bronze': 20, 'silver': 16, 'gold': 0}",1784,43.0,8,28,130,1,953550,registered
+1552672,Chris Magnussen,male,Norway,"{'bronze': 12, 'silver': 7, 'gold': 0}",1258,,0,41,10,12,1690141,registered
+9011857,Danny,male,"Dublin, Ireland","{'bronze': 12, 'silver': 3, 'gold': 0}",425,,2,24,14,1,12355100,registered
+893099,Christophe Geers,male,Belgium,"{'bronze': 43, 'silver': 27, 'gold': 3}",7095,67.0,8,142,1874,56,480079,registered
+711654,Boris Ivanov,male,"Munich, Germany","{'bronze': 36, 'silver': 26, 'gold': 1}",3732,20.0,7,117,406,18,366238,registered
+1066861,Matt Donnan,male,"Birmingham, United Kingdom","{'bronze': 31, 'silver': 17, 'gold': 3}",4585,100.0,7,186,810,89,1066417,registered
+7372766,Vivek Mehta,male,India,"{'bronze': 18, 'silver': 10, 'gold': 2}",1640,,2,47,520,191,9964730,registered
+816510,Ken Toh,male,Singapore,"{'bronze': 29, 'silver': 20, 'gold': 1}",3501,50.0,10,73,718,5,432032,registered
+2014610,David Domingo,male,"Huntersville, NC, USA","{'bronze': 12, 'silver': 4, 'gold': 0}",421,,4,7,27,0,2292115,registered
+1048369,Nick,male,"London, United Kingdom","{'bronze': 58, 'silver': 37, 'gold': 3}",5365,73.0,55,103,851,5,1042684,registered
+17693,Matt,male,United States,"{'bronze': 60, 'silver': 50, 'gold': 25}",63986,95.0,54,10,118,2,9547,registered
+320373,Christian Tellnes,male,"Trondheim, Norway","{'bronze': 17, 'silver': 13, 'gold': 0}",1970,,3,21,266,3,124930,registered
+1175983,Patryk Ziemkowski,male,"Poznan, Poland","{'bronze': 26, 'silver': 12, 'gold': 0}",1450,60.0,7,26,61,10,1206471,registered
+1198582,Michael Litchard,male,3rd rock from the sun.,"{'bronze': 46, 'silver': 20, 'gold': 2}",3905,99.0,110,11,4364,4337,423139,registered
+1707429,Hugo Koopmans,male,NL,"{'bronze': 22, 'silver': 11, 'gold': 0}",1257,69.0,72,14,56,2,1480629,registered
+721809,Matej Kormuth,male,Slovakia,"{'bronze': 38, 'silver': 27, 'gold': 3}",1475,100.0,21,24,324,17,372647,registered
+2934528,Tom,male,"IL, United States","{'bronze': 25, 'silver': 14, 'gold': 1}",1067,50.0,7,17,661,12,3509973,registered
+59081,Tanveer Badar,male,"Karachi, Sindh, Pakistan","{'bronze': 29, 'silver': 25, 'gold': 1}",3207,,1,252,517,614,876429,registered
+3655841,Ron,male,"Tel Aviv, Israel","{'bronze': 43, 'silver': 20, 'gold': 3}",1516,89.0,64,12,223,8,4496078,registered
+1356487,Cade,male,"Nashville, TN","{'bronze': 22, 'silver': 15, 'gold': 0}",2972,,1,52,183,14,1204508,registered
+184112,Stuart Ainsworth,male,"Hoschton, GA, United States","{'bronze': 44, 'silver': 36, 'gold': 0}",11747,,0,407,199,43,61854,registered
+6483121,Hemant Parashar,male,India,"{'bronze': 16, 'silver': 7, 'gold': 1}",1580,,0,87,176,7,8660486,registered
+4147191,Łukasz Kamiński,male,Poland,"{'bronze': 21, 'silver': 9, 'gold': 1}",4217,,8,176,49,9,5181640,registered
+1263701,Artem Shmatkov,male,"Bryansk, Russia","{'bronze': 41, 'silver': 20, 'gold': 5}",1408,71.0,9,33,1590,12,1317080,registered
+2904713,Joseph Genchik,male,"New York, United States","{'bronze': 15, 'silver': 11, 'gold': 3}",1511,50.0,11,1,40,0,3470131,registered
+173251,Bryan Henry,male,"Mountain View, CA, USA","{'bronze': 30, 'silver': 30, 'gold': 2}",7936,100.0,7,43,118,14,57828,registered
+63492,Alan T,male,United Kingdom,"{'bronze': 25, 'silver': 22, 'gold': 6}",2954,92.0,17,7,28,0,24862,registered
+37571,Mahesh,male,"Noida, India","{'bronze': 54, 'silver': 34, 'gold': 7}",1534,54.0,43,8,110,1,16984,registered
+4913557,Graeme,male,London,"{'bronze': 9, 'silver': 1, 'gold': 0}",353,,1,13,20,1,6327564,registered
+1084830,Phillip Brandon Holmes,male,Dallas,"{'bronze': 10, 'silver': 2, 'gold': 0}",321,,0,18,220,3,1090004,registered
+409228,Steve Vinoski,male,Massachusetts,"{'bronze': 35, 'silver': 22, 'gold': 3}",18102,,0,435,64,90,177718,registered
+424780,Bill Door,male,"Vacaville, CA, United States","{'bronze': 35, 'silver': 24, 'gold': 3}",13146,59.0,20,41,30,3,187023,registered
+1095446,Nicola,male,Italy,"{'bronze': 22, 'silver': 15, 'gold': 1}",1906,67.0,7,8,49,0,1103571,registered
+1262753,Jos de Jong,male,"Rotterdam, Netherlands","{'bronze': 48, 'silver': 28, 'gold': 3}",5559,70.0,26,141,109,5,1315853,registered
+4897,Mike Reedell,male,United States,"{'bronze': 23, 'silver': 15, 'gold': 0}",1479,,2,33,723,10,3394,registered
+1092803,Gianluca,male,"Milan, Italy","{'bronze': 27, 'silver': 31, 'gold': 2}",2580,,0,134,345,28,1100235,registered
+1717391,Emmanuel,male,France,"{'bronze': 15, 'silver': 10, 'gold': 1}",2759,,0,62,14,5,1892180,registered
+1196499,Michael Righi,male,"San Francisco, CA","{'bronze': 11, 'silver': 9, 'gold': 0}",1223,,1,22,23,2,1232165,registered
+426790,Greg Sadetsky,male,"Montreal, Canada","{'bronze': 36, 'silver': 25, 'gold': 1}",3540,,1,47,2209,18,188195,registered
+4450098,Sagar Nayak,male,"Kolkata, West Bengal, India","{'bronze': 39, 'silver': 12, 'gold': 2}",1796,35.0,38,69,183,12,5619902,registered
+1038940,Greg,male,"Sydney City, Australia","{'bronze': 44, 'silver': 22, 'gold': 3}",3184,81.0,38,105,927,9,1030569,registered
+3734963,Szymon Grochowiak,male,"Wrocław, Polska","{'bronze': 5, 'silver': 3, 'gold': 1}",371,,0,2,15,0,4605310,registered
+114547,Keith,male,"Milwaukee, WI","{'bronze': 46, 'silver': 28, 'gold': 3}",4895,76.0,45,200,592,12,39684,registered
+3011707,Nikhil Musale,male,"Nashik, India","{'bronze': 11, 'silver': 1, 'gold': 0}",340,8.0,14,14,14,0,2907600,registered
+1353451,Jack Barham,male,"London, United Kingdom","{'bronze': 50, 'silver': 32, 'gold': 5}",2823,71.0,74,22,187,0,1431030,registered
+363606,Tom Leese,male,United Kingdom,"{'bronze': 61, 'silver': 39, 'gold': 11}",17077,97.0,39,73,496,16,150425,registered
+2214941,Heiko K.,male,Germany,"{'bronze': 9, 'silver': 7, 'gold': 1}",1070,,4,3,10,1,2551236,registered
+960800,Alexander Janssen,male,"Dusseldorf, Germany","{'bronze': 11, 'silver': 13, 'gold': 0}",1484,,2,25,48,0,930893,registered
+403999,Juan Rojas,male,"Lima, Peru","{'bronze': 25, 'silver': 16, 'gold': 1}",7209,,8,26,262,1,174556,registered
+4693170,Rakesh Yadav,male,"Gurugram, Haryana, India","{'bronze': 31, 'silver': 16, 'gold': 0}",1608,38.0,25,45,355,34,5970800,registered
+4620771,Nenad Vracar,male,Serbia,"{'bronze': 107, 'silver': 89, 'gold': 13}",89239,79.0,19,2656,2425,67,5867230,registered
+7669110,Joshua Nelson,male,"Columbia, SC, United States","{'bronze': 12, 'silver': 1, 'gold': 0}",324,50.0,11,11,123,0,10400749,registered
+134100,Tim,male,UK,"{'bronze': 11, 'silver': 14, 'gold': 3}",2865,,4,0,27,0,45493,registered
+139394,Lyubomyr Dutko,male,"Lviv, Ukraine","{'bronze': 39, 'silver': 27, 'gold': 6}",3896,73.0,29,2,21,0,47107,registered
+1333516,Marco Batista,male,"Funchal, Portugal","{'bronze': 32, 'silver': 18, 'gold': 1}",1194,100.0,13,48,135,8,1405746,registered
+4226382,Štefan Bartoš,male,"Chlebičov, Czech Republic","{'bronze': 7, 'silver': 3, 'gold': 0}",341,,1,11,59,0,5294996,registered
+1390373,Ivan Zamylin,male,"Moscow, Russia","{'bronze': 35, 'silver': 19, 'gold': 2}",1638,80.0,27,24,514,19,1480962,registered
+386102,Rob,male,California,"{'bronze': 54, 'silver': 40, 'gold': 5}",3845,80.0,48,43,242,1,163761,registered
+11451,Kristof Neirynck,male,Belgium,"{'bronze': 42, 'silver': 22, 'gold': 0}",2814,82.0,14,55,227,21,6734,registered
+190638,Greg Andora,male,"Charlotte, NC","{'bronze': 16, 'silver': 11, 'gold': 2}",1317,67.0,6,29,67,0,64606,registered
+5862315,Eran Shabi,male,Middle East,"{'bronze': 46, 'silver': 25, 'gold': 6}",9725,33.0,13,75,1260,7,7743578,registered
+166789,Tiago Veloso,male,"Braga, Portugal","{'bronze': 81, 'silver': 56, 'gold': 17}",7705,79.0,125,8,263,2,55673,registered
+3979963,Gil,male,Israel,"{'bronze': 23, 'silver': 8, 'gold': 0}",1153,19.0,29,39,46,2,4944023,registered
+2217516,Robert Townley,male,"Washington, DC","{'bronze': 33, 'silver': 18, 'gold': 0}",2397,92.0,36,85,508,1,2555417,registered
+131560,Brian Hvarregaard,male,"Aalborg, Denmark","{'bronze': 71, 'silver': 33, 'gold': 4}",3355,85.0,175,41,19,1,44769,registered
+2982796,William George,male,"Winchester, United Kingdom","{'bronze': 39, 'silver': 26, 'gold': 3}",6336,60.0,6,59,133,5,3565698,registered
+385011,Tyson of the Northwest,male,"Portland, OR","{'bronze': 33, 'silver': 18, 'gold': 2}",1940,91.0,66,30,202,6,163107,registered
+902276,Daniele Segato,male,Italy,"{'bronze': 73, 'silver': 50, 'gold': 4}",9375,53.0,18,71,62,30,485766,registered
+2322224,Scott Jones,male,"Renton, WA, United States","{'bronze': 19, 'silver': 10, 'gold': 0}",2786,,1,127,103,26,2688355,registered
+362416,Vinay ,male,"Bangalore, India","{'bronze': 34, 'silver': 26, 'gold': 3}",2369,80.0,13,133,379,5,149709,registered
+1155500,Sudhir Arya,male,"Ahmadabad, India","{'bronze': 40, 'silver': 25, 'gold': 3}",3553,71.0,8,95,230,11,1180460,registered
+254678,Johan Forssell,male,"Ume&#229;, Sweden","{'bronze': 6, 'silver': 4, 'gold': 0}",323,,2,5,13,0,93023,registered
+1475153,Austin Witherow,male,"Waialua, HI, USA","{'bronze': 17, 'silver': 3, 'gold': 1}",368,71.0,17,3,57,2,1511275,registered
+6641198,Andrey Fedorov,male,"Saint Petersburg, Russia","{'bronze': 20, 'silver': 8, 'gold': 1}",2595,,1,160,12,22,8266093,registered
+4263824,Raju Abe,male,"Bangalore, Karnataka, India","{'bronze': 17, 'silver': 7, 'gold': 1}",407,17.0,8,10,35,3,5349263,registered
+353716,Stan,male,"San Jose, CA","{'bronze': 35, 'silver': 17, 'gold': 1}",1811,84.0,43,38,1252,24,144570,registered
+5297231,Krzysztof Branicki,male,"Katowice, Poland","{'bronze': 38, 'silver': 30, 'gold': 2}",5167,,2,50,450,2,6894945,registered
+2060855,Nathanael Farley,male,"Birmingham, UK","{'bronze': 15, 'silver': 2, 'gold': 0}",360,100.0,7,2,178,4,2126851,registered
+4071801,Elias Hasle,male,Norge,"{'bronze': 11, 'silver': 3, 'gold': 0}",367,,3,33,144,6,5073752,registered
+4873447,Vivek Sinha,male,"Noida, India","{'bronze': 22, 'silver': 11, 'gold': 1}",1338,67.0,13,36,173,19,6268594,registered
+2609029,Predrag Beocanin,male,"Novi Sad, Serbia","{'bronze': 21, 'silver': 15, 'gold': 2}",1215,72.0,60,46,88,0,3080798,registered
+4196055,David A. French,male,"Austin, TX","{'bronze': 20, 'silver': 4, 'gold': 0}",369,53.0,24,7,187,25,5252140,registered
+13178,Michael OShea,male,"Dublin, Ireland","{'bronze': 7, 'silver': 2, 'gold': 0}",357,,0,9,4,0,7558,registered
+123711,Brian Cray,male,"Columbus, OH","{'bronze': 18, 'silver': 7, 'gold': 1}",1227,89.0,11,48,36,3,42471,registered
+2216956,Aditya Kresna Permana,male,"Bekasi, Indonesia","{'bronze': 35, 'silver': 28, 'gold': 7}",9090,,3,52,226,2,2554699,registered
+1173260,Om Narain Shukla,male,"Bangalore, India","{'bronze': 12, 'silver': 4, 'gold': 1}",331,0.0,4,13,3,0,1202976,registered
+32978,Will Glass,male,"San Francisco, CA","{'bronze': 42, 'silver': 29, 'gold': 5}",4330,83.0,18,34,99,8,15555,registered
+3876115,David,male,Spain,"{'bronze': 16, 'silver': 5, 'gold': 0}",323,100.0,14,12,159,7,4799010,registered
+476315,Viktor Liehr,male,"Baden-Baden, Germany","{'bronze': 13, 'silver': 3, 'gold': 0}",403,,1,15,36,16,219422,registered
+362783,Bob Montgomery,male,"Seattle, WA","{'bronze': 8, 'silver': 4, 'gold': 0}",350,,3,9,90,0,149935,registered
+1779405,Steve,male,England,"{'bronze': 19, 'silver': 7, 'gold': 2}",406,100.0,30,6,19,1,1983426,registered
+102371,John Weldon,male,"Maricopa, AZ","{'bronze': 122, 'silver': 85, 'gold': 9}",34995,100.0,13,644,2519,35,35995,registered
+123527,Simone Carletti,male,"Rome, Italy","{'bronze': 351, 'silver': 332, 'gold': 38}",157797,86.0,25,2053,1791,185,42403,registered
+572370,Artur Czajka,male,"Lodz, Poland","{'bronze': 28, 'silver': 23, 'gold': 2}",13815,,1,21,594,1,278024,registered
+171121,Dax Fohl,male,"Redmond, WA, United States","{'bronze': 78, 'silver': 36, 'gold': 5}",9639,88.0,85,207,1183,54,57135,registered
+16820,Justin Obney,male,"Baton Rouge, LA, United States","{'bronze': 25, 'silver': 13, 'gold': 3}",1049,100.0,8,15,199,9,9162,registered
+2845387,Anil Sharma,male,"Shimla, Himachal Pradesh, India","{'bronze': 42, 'silver': 26, 'gold': 4}",2862,59.0,38,56,160,6,3390467,registered
+1617230,Eric,male,"Washington, United States","{'bronze': 12, 'silver': 4, 'gold': 0}",338,100.0,9,0,58,2,1772770,registered
+603520,Jared,male,"Vancouver, WA, United States","{'bronze': 23, 'silver': 15, 'gold': 1}",2286,75.0,4,28,62,6,297816,registered
+8066107,Jacob Maki,male,"Firestone, CO, United States","{'bronze': 11, 'silver': 3, 'gold': 0}",326,,2,15,3,0,10977995,registered
+233999,Douglas,male,Maryland,"{'bronze': 26, 'silver': 14, 'gold': 5}",1158,75.0,31,8,40,5,83464,registered
+416061,Fabian Fritz,male,"Reutlingen, Germany","{'bronze': 13, 'silver': 3, 'gold': 0}",370,86.0,14,6,92,2,181809,registered
+214934,Wayne Lo,male,California,"{'bronze': 28, 'silver': 24, 'gold': 2}",3485,71.0,19,33,168,3,74869,registered
+443219,Aditya M P,male,Singapore,"{'bronze': 68, 'silver': 29, 'gold': 4}",4145,82.0,79,69,3764,90,198510,registered
+4126657,Josh O&#39;Connor,male,San Francisco Bay Area,"{'bronze': 72, 'silver': 41, 'gold': 5}",4852,84.0,177,115,202,8,5152463,registered
+9220502,Peter HvD,male,"Brighton, United Kingdom","{'bronze': 12, 'silver': 3, 'gold': 1}",1080,,0,99,10,20,12690078,registered
+177420,Faisal,male,"Amman, Jordan","{'bronze': 32, 'silver': 25, 'gold': 4}",18138,82.0,12,72,281,15,59287,registered
+480577,Alok,male,India,"{'bronze': 17, 'silver': 4, 'gold': 1}",433,100.0,7,6,68,1,222157,registered
+1845040,Benjamin de Bos,male,"Netherlands, The","{'bronze': 29, 'silver': 16, 'gold': 4}",4324,77.0,26,45,86,17,2070416,registered
+232386,Aykut Akıncı,male,"Istanbul, Turkey","{'bronze': 8, 'silver': 6, 'gold': 0}",1095,,0,27,152,5,82731,registered
+111219,Rob Harrop,male,"London, England, United Kingdom","{'bronze': 21, 'silver': 19, 'gold': 0}",3197,,0,44,26,4,38686,registered
+3589395,Sumit Oberoi,male,India,"{'bronze': 18, 'silver': 15, 'gold': 1}",2907,20.0,5,39,23,4,4404637,registered
+5977252,Steven Scaffidi,male,"New Orleans, LA, USA","{'bronze': 13, 'silver': 8, 'gold': 1}",2010,75.0,6,25,56,2,7914226,registered
+2489797,Vladimir Petrovski,male,"Ljubljana, Slovenia","{'bronze': 21, 'silver': 14, 'gold': 0}",1297,86.0,13,12,78,2,2903859,registered
+3200163,Andrew Day,male,"London, UK","{'bronze': 16, 'silver': 6, 'gold': 0}",375,76.0,29,27,301,2,3862862,registered
+10089811,Jakob,male,"Hamburg, Germany","{'bronze': 21, 'silver': 9, 'gold': 2}",1293,,19,105,304,107,13447574,registered
+3163824,Panagiotis Drakatos,male,"Athens, Greece","{'bronze': 36, 'silver': 19, 'gold': 2}",1682,62.0,25,22,1567,56,3813919,registered
+53658,Denis Bazhenov,male,Russia,"{'bronze': 61, 'silver': 36, 'gold': 5}",8217,80.0,45,62,83,7,21918,registered
+3345644,Alexander Abakumov,male,USA,"{'bronze': 96, 'silver': 59, 'gold': 6}",8791,93.0,108,79,1654,137,3305889,registered
+3734172,Iulian Popescu,male,"Cluj-Napoca, Județul Cluj, Rom&#226;nia","{'bronze': 27, 'silver': 17, 'gold': 4}",2179,,5,101,1183,124,4604243,registered
+3932835,Kim Berg Hansen,male,"Middelfart, Denmark","{'bronze': 9, 'silver': 7, 'gold': 0}",1669,,0,54,9,0,546472,registered
+621800,William,male,"Pensacola, FL","{'bronze': 25, 'silver': 11, 'gold': 1}",1359,76.0,22,12,105,2,309382,registered
+2019761,Arnaud,male,France,"{'bronze': 71, 'silver': 42, 'gold': 11}",3281,66.0,90,2,287,15,2299007,registered
+410724,Vladimir Sorokin,male,"Kiev, Ukraine","{'bronze': 20, 'silver': 12, 'gold': 3}",1575,67.0,6,4,69,0,178626,registered
+133470,Gene Myers,male,"Brighton &amp; Hove, United Kingdom","{'bronze': 31, 'silver': 13, 'gold': 0}",1179,86.0,16,21,66,6,45291,registered
+4228488,Nacho Ramos S&#225;nchez,male,"Salamanca, Spain","{'bronze': 15, 'silver': 1, 'gold': 0}",329,100.0,8,28,34,6,5297812,registered
+1339257,Max Fichtelmann,male,"Leipzig, Germany","{'bronze': 24, 'silver': 16, 'gold': 1}",2715,40.0,9,70,81,2,1413018,registered
+1193176,Quincy Bowers,male,"Horseshoe Bend, ID","{'bronze': 11, 'silver': 3, 'gold': 0}",323,80.0,10,3,32,0,1227966,registered
+204847,Mike Seymour,male,United Kingdom,"{'bronze': 592, 'silver': 387, 'gold': 22}",226796,,0,4402,8175,75,70736,registered
+1503335,John Melchior,male,Coimbatore,"{'bronze': 18, 'silver': 3, 'gold': 2}",377,50.0,19,1,26,0,1144791,registered
+409828,Adam SO,male,Connecticut,"{'bronze': 27, 'silver': 23, 'gold': 7}",8391,81.0,16,2,103,0,178083,registered
+147077,Alexis M&#233;taireau,male,"Paris, France","{'bronze': 33, 'silver': 18, 'gold': 4}",6832,100.0,14,31,131,9,49402,registered
+3401244,Eran Witkon,male,Israel,"{'bronze': 17, 'silver': 14, 'gold': 4}",3242,40.0,28,10,9,1,4148067,registered
+1197019,George Grigorita,male,"Cluj-Napoca, Romania","{'bronze': 39, 'silver': 22, 'gold': 2}",1306,91.0,50,4,134,1,1232786,registered
+1977143,Bruno Garcia,male,"Vienna, Austria","{'bronze': 33, 'silver': 20, 'gold': 3}",4563,80.0,8,163,2070,7,2243108,registered
+1334135,Joel Derfner,male,"New York, NY, United States","{'bronze': 44, 'silver': 28, 'gold': 4}",2157,83.0,107,19,129,0,1406581,registered
+928963,James Boutcher,male,"Omaha, NE","{'bronze': 36, 'silver': 21, 'gold': 1}",2405,80.0,7,51,796,24,890610,registered
+4367223,Daniel Dewhurst,male,England,"{'bronze': 32, 'silver': 14, 'gold': 1}",2008,56.0,22,43,347,34,2056707,registered
+233095,Dirk Brockhaus,male,Germany,"{'bronze': 47, 'silver': 33, 'gold': 3}",4572,100.0,24,111,974,1,83050,registered
+3182611,Mike Dunker,male,"San Jose, CA","{'bronze': 17, 'silver': 11, 'gold': 0}",1700,,0,72,43,0,3838966,registered
+5414062,Mohammad Eliass Alhusain,male,"Istanbul, İstanbul, Turkey","{'bronze': 25, 'silver': 11, 'gold': 2}",1163,97.0,39,10,1861,13,7073079,registered
+103316,Philip Brocoum,male,"Portland, OR, USA","{'bronze': 24, 'silver': 20, 'gold': 2}",2648,47.0,19,6,24,5,36270,registered
+4900,Bruno Ranschaert,male,Belgium,"{'bronze': 42, 'silver': 32, 'gold': 4}",6283,83.0,15,54,985,14,3396,registered
+475468,Jostein,male,"Oslo, Norway","{'bronze': 25, 'silver': 19, 'gold': 1}",2974,75.0,5,16,211,1,218902,registered
+3435174,Marek Galinski,male,"Bratislava, Slovakia","{'bronze': 16, 'silver': 5, 'gold': 0}",417,83.0,7,9,21,2,4193033,registered
+3578399,Joe Benton,male,"Bournemouth, United Kingdom","{'bronze': 17, 'silver': 16, 'gold': 1}",3148,100.0,6,77,46,5,4389478,registered
+1432270,Shlomi Levi,male,Israel,"{'bronze': 20, 'silver': 11, 'gold': 0}",1463,71.0,17,41,115,11,1536327,registered
+2197975,Joshua Michael Waggoner,male,"Spokane, WA, USA","{'bronze': 31, 'silver': 22, 'gold': 0}",1905,89.0,26,52,729,28,2529368,registered
+80858,Ivan G.,male,"London, United Kingdom","{'bronze': 57, 'silver': 32, 'gold': 1}",4392,44.0,66,87,235,163,29825,registered
+968769,Andrew &#39;go-sql&#39; Fenna,male,Manchester,"{'bronze': 15, 'silver': 4, 'gold': 1}",369,71.0,23,9,24,0,940639,registered
+1807420,Martin Wallgren,male,Sweden,"{'bronze': 9, 'silver': 4, 'gold': 0}",422,,0,6,41,3,940073,registered
+593506,Mehmet Kasalak,male,"Istanbul, Turkey","{'bronze': 13, 'silver': 2, 'gold': 0}",357,,4,0,6,1,291386,registered
