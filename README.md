@@ -6,4 +6,8 @@
 3. The code is written in Python
 
 ## Contributors
-1. Natalie Hennig
+1. Chris Chang
+2. Natalie Hennig
+3. Daniel Gareev
+4. Nick Puglisi
+5. Ali Elaborady
