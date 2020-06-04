@@ -29,13 +29,13 @@ class CountryReader:
         return country_mapping
 
     def get_country_geocode(self, location):
-        g = geocoder.bing(location, key="AkLPv706RhGgwqk3_N7far7Oaviiou6mUmoi2FgHfoFgyAdVPEZoMpswONfVQbt7")
+        g = geocoder.bing(location, key="")
         time.sleep(3)
         geocoder_country = g.json['country']
         return geocoder_country
 
     def get_country_geocode_google(self, location):
-        gmaps = googlemaps.Client(key='AIzaSyBI6Ql6ACcpbcCMX2vYSUq7_6Be0dgMMZ8')
+        gmaps = googlemaps.Client(key='')
         time.sleep(0.1)
         geocode_result = gmaps.geocode(location)
         geocoder_country = ''
@@ -73,12 +73,10 @@ class CountryReader:
 # put your application information here
 class Crawler:
     def __init__(self):
-        # self.client_id = '17923' # client_id
-        # self.client_secret = '49Cq2T*l9mWYgFSALw9Qvw((' # client_secret
-        # self.key = 'N*ml9YPq5D1nqPcgvZzzzw((' # key
-        self.client_id = '17883'  # client_id
-        self.client_secret = 'czt7ncUR7yW0YKtk*vsT)Q(('  # client_secret
-        self.key = 'TMdxiU7LhIMzIYSrOT7NSg(('  # key
+        # self.client_id = '' # client_id
+        # self.client_secret = '' # client_secret
+        # self.key = '' # key
+       
 
         self.redirect_uri = 'https://stackexchange.com/oauth/login_success'
         scope = 'no_expiry'
